@@ -1,0 +1,1954 @@
+[
+  {
+    "code": "011",
+    "title": "Pertanian Tanaman Semusim",
+    "desc": "Golongan ini mencakup penanaman tanaman yang tidak berlangsung lebih dari dua musim panen. Termasuk penanaman tanaman dalam berbagai media dan budidaya tanaman secara genetik, dan juga penanaman untuk tujuan pembibitan dan pembenihan.",
+    "id": "22fa95ba-e815-47d5-b4a8-167dc8c4c502",
+    "cat_id": "eb81ca90-cc18-4913-9449-66d06a001b99",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "012",
+    "title": "Pertanian tanaman tahunan",
+    "desc": "Golongan ini mencakup penanaman tanaman yang berlangsung lebih dari dua musim tanam, baik tanaman yang setiap musim mati atau tanaman yang tumbuh terus menerus. Termasuk penanaman tanaman untuk keperluan pembibitan dan pembenihan. Golongan ini juga mencakup kegiatan penanaman tanaman ini di area atau lokasi hutan.",
+    "id": "78430bd3-c982-4d48-9431-eb7d321c2184",
+    "cat_id": "eb81ca90-cc18-4913-9449-66d06a001b99",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "014",
+    "title": "Peternakan",
+    "desc": "Golongan ini mencakup budidaya dan pembibitan hewan ternak, unggas, serangga, binatang melata/reptil, cacing, hewan peliharaan. Termasuk budidaya hewan untuk diambil hasilnya seperti bulu, telur, susu, madu dan lilin lebah dan kepompong ulat sutera.",
+    "id": "6854dcb4-b6da-4f83-a8ca-af66014a00f4",
+    "cat_id": "eb81ca90-cc18-4913-9449-66d06a001b99",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "016",
+    "title": "Jasa penunjang pertanian dan pasca panen",
+    "desc": "Golongan ini mencakup kegiatan penunjang dalam memproduksi hasil pertanian dan kegiatan sejenis untuk pertanian yang tidak dilakukan untuk keperluan produksi atas dasar balas jasa (fee) atau kontrak, termasuk jasa pemanenan dan pasca panen, serta menyiapkan hasil pertanian untuk dijual ke pasar.",
+    "id": "1e8ce247-56eb-4f9e-919e-46780e6deb24",
+    "cat_id": "eb81ca90-cc18-4913-9449-66d06a001b99",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "021",
+    "title": "Pengelolaan Hutan",
+    "desc": "Golongan ini mencakup penanaman pohon-pohon hutan dan perkebunan pohon kecil lahan hutan serta penanaman pohon kecil yang dipotong secara berkala untuk kayu bakar, bubur kayu dan kegunaan lain dalam hutan alam atau hutan tahunan termasuk juga pembibitan tanaman hutan. Termasuk penanaman tanaman industri serta pemeliharaan, perlindungan, pemanenan, dan pemasaran. Kegiatan tersebut dapat dilakukan di hutan alami atau hutan tanam dan di luar kawasan hutan (hutan rakyat). Rangkaian kegiatan pengelolaan hutan meliputi penataan hutan, penyusunan rencana pengelolaan, pemanfaatan, penggunaan kawasan hutan, rehabilitasi dan reklamasi serta perlindungan dan konservasi hutan.",
+    "id": "1f327ad2-6292-4f45-bda9-c669860a5fbb",
+    "cat_id": "eb81ca90-cc18-4913-9449-66d06a001b99",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "022",
+    "title": "Pemanenan dan Pemungutan Kayu",
+    "desc": "Golongan ini mencakup pemotongan kayu hutan untuk industri pengolahan dan penggunaan lain dalam bentuk yang belum diolah. Termasuk pemungutan dan pembuatan kayu bakar dan arang kayu di hutan dengan menggunakan cara tradisional.",
+    "id": "af3274e5-35a4-4b65-9bb4-70895de9d01d",
+    "cat_id": "eb81ca90-cc18-4913-9449-66d06a001b99",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "022",
+    "title": "Pemanenan dan Pemungutan Kayu",
+    "desc": "Golongan ini mencakup pemotongan kayu hutan untuk industri pengolahan dan penggunaan lain dalam bentuk yang belum diolah. Termasuk pemungutan dan pembuatan kayu bakar dan arang kayu di hutan dengan menggunakan cara tradisional.",
+    "id": "af3274e5-35a4-4b65-9bb4-70895de9d01d",
+    "cat_id": "eb81ca90-cc18-4913-9449-66d06a001b99",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "023",
+    "title": "Pemungutan hasil hutan bukan kayu",
+    "desc": "Golongan ini mencakup pemungutan hasil hutan bukan kayu dan tanaman lain yang tumbuh liar. Termasuk jamur, tanaman biji-bijian, anggrek dan tumbuhan liar sejenis, tanaman obat, lak dan damar serta tanaman lain yang tumbuh liar.",
+    "id": "4028a177-8e3e-4dda-b44e-fe7d15f3777a",
+    "cat_id": "eb81ca90-cc18-4913-9449-66d06a001b99",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "024",
+    "title": "Jasa penunjang kehutanan",
+    "desc": "Golongan ini mencakup kegiatan yang menunjang kehutanan atas dasar balas jasa (fee) atau kontrak, dan pemanfaatan jasa yang dihasilkan oleh kawasan hutan seperti perencanaan hutan, penaksiran kayu, pengendalian hama hutan, jasa konsultasi dan manajemen hutan, dan pengangkutan kayu dalam hutan. Termasuk juga kegiatan reboisasi hutan yang dilakukan atas dasar kontrak.",
+    "id": "4023a10b-e561-43bc-a15b-7e44ef01f3b4",
+    "cat_id": "eb81ca90-cc18-4913-9449-66d06a001b99",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "024",
+    "title": "Jasa penunjang kehutanan",
+    "desc": "Golongan ini mencakup kegiatan yang menunjang kehutanan atas dasar balas jasa (fee) atau kontrak, dan pemanfaatan jasa yang dihasilkan oleh kawasan hutan seperti perencanaan hutan, penaksiran kayu, pengendalian hama hutan, jasa konsultasi dan manajemen hutan, dan pengangkutan kayu dalam hutan. Termasuk juga kegiatan reboisasi hutan yang dilakukan atas dasar kontrak.",
+    "id": "4023a10b-e561-43bc-a15b-7e44ef01f3b4",
+    "cat_id": "eb81ca90-cc18-4913-9449-66d06a001b99",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "031",
+    "title": "Perikanan Tangkap",
+    "desc": "Golongan ini mencakup kegiatan \"penangkapan ikan\", yaitu perburuan, penangkapan organisme air liar yang masih hidup (terutama semua jenis ikan, mollusca dan crustacea) termasuk tumbuhan laut, tumbuhan pesisir atau tumbuhan perairan dalam untuk konsumsi atau tujuan lain yang ditangkap baik menggunakan tangan atau berbagai jenis alat tangkap seperti jaring, dan peralatan pancing lainnya. Kegiatan tersebut dapat dilakukan di daerah pasang sekitar garis pantai (misalnya mollusca seperti remis/kepah dan tiram), sekitar pantai dengan menggunakan jaring, atau dengan menggunakan sampan atau umumnya dengan kapal di laut dekat pantai, laut pesisir pantai atau laut lepas.",
+    "id": "33c99ed8-49cd-42f3-9c30-e21e224fec19",
+    "cat_id": "eb81ca90-cc18-4913-9449-66d06a001b99",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "031",
+    "title": "Perikanan Tangkap",
+    "desc": "Golongan ini mencakup kegiatan \"penangkapan ikan\", yaitu perburuan, penangkapan organisme air liar yang masih hidup (terutama semua jenis ikan, mollusca dan crustacea) termasuk tumbuhan laut, tumbuhan pesisir atau tumbuhan perairan dalam untuk konsumsi atau tujuan lain yang ditangkap baik menggunakan tangan atau berbagai jenis alat tangkap seperti jaring, dan peralatan pancing lainnya. Kegiatan tersebut dapat dilakukan di daerah pasang sekitar garis pantai (misalnya mollusca seperti remis/kepah dan tiram), sekitar pantai dengan menggunakan jaring, atau dengan menggunakan sampan atau umumnya dengan kapal di laut dekat pantai, laut pesisir pantai atau laut lepas.",
+    "id": "33c99ed8-49cd-42f3-9c30-e21e224fec19",
+    "cat_id": "eb81ca90-cc18-4913-9449-66d06a001b99",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "032",
+    "title": "Perikanan Budidaya",
+    "desc": "Golongan ini mencakup kegiatan perikanan budidaya pembudidayaan ikan untuk menghasilkan produk ikan atau biota air seperti ikan bersirip, mollusca, crustacea, tumbuhan air, buaya, aligator dan binatang ampibi dan lainnya dengan menggunakan cara yang dirancang untuk meningkatkan jumlah ikan biota air yang dibutuhkan melebihi kapasitas lingkungan (sebagai contoh pengembangbiakan secara alami, pemberian makanan dan menjaga dari pemangsa). Meliputi termasuk budidaya berbagai biota air laut, payau dan air tawar, serta tempat penetasan telur ikan dan peternakan cacing laut.",
+    "id": "3d758082-34b0-46b4-9ae6-2705af87a55d",
+    "cat_id": "eb81ca90-cc18-4913-9449-66d06a001b99",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "051",
+    "title": "Pertambangan Batu Bara",
+    "desc": "Golongan ini mencakup pertambangan batu bara; pertambangan di permukaan tanah atau bawah tanah dan melalui metode pencairan dan pembersihan, perekatan, pelumatan, pemadatan dan lain-lain untuk menggolongkan dan meningkatkan kualitas atau untuk memudahkan pengangkutan. Kegiatan ini juga mencakup pencarian batu bara dari kumpulan tepung bara.",
+    "id": "edf80c07-7bc2-457e-af6f-1c579304d0d9",
+    "cat_id": "80c0849b-9130-4d23-af72-ff124380cac2",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "052",
+    "title": "Pertambangan lignit",
+    "desc": "Golongan ini mencakup pertambangan lignit  (batu bara muda) dengan cara penambangan di permukaan tanah, termasuk pertambangan dengan metode pencairan dan kegiatan lain untuk meningkatkan kualitas dan memudahkan pengangkutan atau penyimpanan.",
+    "id": "08f4ba42-7761-42ed-a7ff-f3186d01a1c9",
+    "cat_id": "80c0849b-9130-4d23-af72-ff124380cac2",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "071",
+    "title": "Pertambangan pasir besi dan bijih besi",
+    "desc": "Golongan ini mencakup pertambangan pasir besi dan bijih besi dan peningkatan mutu dan proses aglomerasi bijih besi.",
+    "id": "cf2faa5e-7ad8-4303-ad00-667136d04a03",
+    "cat_id": "80c0849b-9130-4d23-af72-ff124380cac2",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "072",
+    "title": "Pertambangan bijih logam yang tidak mengandung besi, tidak termasuk bijih logam mulia",
+    "desc": "Golongan ini mencakup pertambangan dan pengolahan bijih logam yang tidak mengandung besi, seperti bijih torium dan uranium, alumunium (bauksit), tembaga, timah, seng, timah hitam, mangaan, krom, nikel kobalt dan lain-lain. Tidak termasuk bijih logam mulia.",
+    "id": "90de29ad-f8cd-4486-8354-c5a7372e7774",
+    "cat_id": "80c0849b-9130-4d23-af72-ff124380cac2",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "072",
+    "title": "Pertambangan bijih logam yang tidak mengandung besi, tidak termasuk bijih logam mulia",
+    "desc": "Golongan ini mencakup pertambangan dan pengolahan bijih logam yang tidak mengandung besi, seperti bijih torium dan uranium, alumunium (bauksit), tembaga, timah, seng, timah hitam, mangaan, krom, nikel kobalt dan lain-lain. Tidak termasuk bijih logam mulia.",
+    "id": "90de29ad-f8cd-4486-8354-c5a7372e7774",
+    "cat_id": "80c0849b-9130-4d23-af72-ff124380cac2",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "073",
+    "title": "Pertambangan bijih logam mulia",
+    "desc": "Golongan ini mencakup pertambangan bijih logam mulia, seperti emas, platina, perak dan logam mulia lainnya. Golongan ini juga mencakup proses pemisahan bagian non-logam dari logam mulia.",
+    "id": "380d2c46-9800-4eb8-a4df-712b8479b58f",
+    "cat_id": "80c0849b-9130-4d23-af72-ff124380cac2",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "091",
+    "title": "Aktivitas Penunjang Pertambangan Minyak Bumi dan Gas Alam",
+    "desc": "Golongan ini mencakup kegiatan jasa pertambangan atas dasar balas jasa (fee) atau kontrak pada pengambilan minyak dan gas. Golongan ini mencakup jasa eksplorasi yang berhubungan dengan pengambilan minyak bumi dan gas alam, pengeboran dan pengeboran ulang secara langsung, pemasangan alat pemboran minyak di lokasi pertambangan, penyemenan, perbaikan dan pembongkaran pinggiran sumur minyak dan gas, pemompaan sumur, penyumbatan dan penutupan sumur, perubahan menjadi gas kembali dan pencairan gas alam untuk kemudahan pengangkutan yang dilakukan di lokasi pertambangan. Golongan ini juga mencakup jasa pemompaan dan penyaluran pada pengeboran percobaan dan jasa pemadam kebakaran di ladang atau sumur minyak dan gas bumi.",
+    "id": "c3bd3945-8189-4235-b032-e1f5bc1707c9",
+    "cat_id": "80c0849b-9130-4d23-af72-ff124380cac2",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "091",
+    "title": "Aktivitas Penunjang Pertambangan Minyak Bumi dan Gas Alam",
+    "desc": "Golongan ini mencakup kegiatan jasa pertambangan atas dasar balas jasa (fee) atau kontrak pada pengambilan minyak dan gas. Golongan ini mencakup jasa eksplorasi yang berhubungan dengan pengambilan minyak bumi dan gas alam, pengeboran dan pengeboran ulang secara langsung, pemasangan alat pemboran minyak di lokasi pertambangan, penyemenan, perbaikan dan pembongkaran pinggiran sumur minyak dan gas, pemompaan sumur, penyumbatan dan penutupan sumur, perubahan menjadi gas kembali dan pencairan gas alam untuk kemudahan pengangkutan yang dilakukan di lokasi pertambangan. Golongan ini juga mencakup jasa pemompaan dan penyaluran pada pengeboran percobaan dan jasa pemadam kebakaran di ladang atau sumur minyak dan gas bumi.",
+    "id": "c3bd3945-8189-4235-b032-e1f5bc1707c9",
+    "cat_id": "80c0849b-9130-4d23-af72-ff124380cac2",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "101",
+    "title": "Industri pengolahan dan pengawetan daging",
+    "desc": "Golongan ini mencakup operasi rumah potong hewan yang berkaitan dengan pemotongan hewan, pengulitan atau pengemasan daging. Golongan ini juga mencakup produksi hasil sampingan binatang, minyak babi dan lemak lainnya yang dapat dimakan yang berasal dari binatang, wol, bulu binatang termasuk bulu burung. Golongan ini tidak mencakup kegiatan pengolahan daging menjadi makanan, perdagangan besar dan pengemasan daging.",
+    "id": "2efbab20-42f5-40e9-a2bf-f797a8d7d5c5",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "103",
+    "title": "Industri pengolahan dan pengawetan buah-buahan dan sayuran",
+    "desc": "Golongan ini mencakup pembuatan makanan yang utamanya terdiri dari sayur-sayuran dan buah-buahan, dengan menggunakan berbagai macam cara pengolahan dan pengawetan serta mencakup produk sayuran dan buah-buahan. Golongan ini juga mencakup pembuatan makanan siap saji yang tidak tahan lama yang berasal dari sayur-sayuran dan buah-buahan, seperti salad, sayuran yang sudah dipotong-potong atau dikupas, tahu; industri pengupasan kentang, pengolahan lain dari kentang termasuk makanan dan tepung kentang, pemanggangan dan pengolahan makanan dari kacang dan pasta. Golongan ini tidak mencakup industri pengolahan makanan atau tepung dari sayuran polong, pengolahan makanan dari sayuran dan sari buatan dan pengawetan buah dan kacang-kacangan dengan gula (lihat 107).",
+    "id": "2bcb587c-3ff6-499a-9225-c78b2b01a07e",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "104",
+    "title": "Industri minyak dan lemak nabati dan hewani",
+    "desc": "Golongan ini mencakup pembuatan dan pengolahan minyak dan lemak kasar atau minyak dan lemak suling nabati dan hewani. Golongan ini mencakup pembuatan tepung berlemak, minyak dari kacang-kacangan, biji-bijian dan sayuran, pembuatan margarin, melanges dan yang sejenisnya, dan lemak bahan campuran untuk memasak. Golongan ini juga mencakup pembuatan minyak/lemak hewan yang tidak dapat dimakan, ekstrak ikan dan minyak ikan, dan produk sisa lainnya dari pembuatan minyak. Golongan ini tidak mencakup pembuatan dan penyulingan minyak babi dan lemak hewan lain yang dapat dimakan, penggilingan jagung basah, produk minyak essen, dan pengolahan minyak dan lemak dengan proses kimia.",
+    "id": "dc0d2824-4f93-4f9d-8f6b-4ce60e879471",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "104",
+    "title": "Industri minyak dan lemak nabati dan hewani",
+    "desc": "Golongan ini mencakup pembuatan dan pengolahan minyak dan lemak kasar atau minyak dan lemak suling nabati dan hewani. Golongan ini mencakup pembuatan tepung berlemak, minyak dari kacang-kacangan, biji-bijian dan sayuran, pembuatan margarin, melanges dan yang sejenisnya, dan lemak bahan campuran untuk memasak. Golongan ini juga mencakup pembuatan minyak/lemak hewan yang tidak dapat dimakan, ekstrak ikan dan minyak ikan, dan produk sisa lainnya dari pembuatan minyak. Golongan ini tidak mencakup pembuatan dan penyulingan minyak babi dan lemak hewan lain yang dapat dimakan, penggilingan jagung basah, produk minyak essen, dan pengolahan minyak dan lemak dengan proses kimia.",
+    "id": "dc0d2824-4f93-4f9d-8f6b-4ce60e879471",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "105",
+    "title": "Industri pengolahan susu, produk dari susu dan es krim",
+    "desc": "Golongan ini mencakup pembuatan dan pengolahan susu cair segar dan berbagai produk susu, seperti minuman dari susu, krim, susu bubuk atau susu kental (baik tawar atau manis), dalam bentuk padat, mentega, yoghurt, keju dan kepala susu, kasein atau laktosa, es krim dan es lain yang bahan dasarnya susu. Golongan ini tidak mencakup produksi susu mentah (seperti susu sapi, unta, biri-biri, kambing, kuda, keledai dan lain-lain) dan pembuatan susu nabati dan keju tiruan.",
+    "id": "b99fbb84-eab3-4413-a556-522cbd4699c5",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "106",
+    "title": "Industri penggilingan padi-padian, tepung dan pati",
+    "desc": "Golongan ini mencakup penggilingan padi, pembuatan tepung, makanan dari padi-padian atau sayur-sayuran, seperti halnya pembuatan adonan atau campuran tepung dari produk tersebut. Golongan ini juga mencakup penggilingan basah jagung dan sayur-sayuran dan pembuatan tepung dari pati.",
+    "id": "ca7f183d-2d38-4d3d-ad85-311b74f67981",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "107",
+    "title": "Industri makanan lainnya",
+    "desc": "Golongan ini mencakup produksi berbagai produk makanan yang belum tercakup pada golongan sebelumnya. Kegiatan yang tercakup seperti pembuatan produk roti, gula, kokoa, coklat dan gula-gula, pembuatan mie, makroni dan produk sejenis, hidangan dan makan siap saji dalam keadaan beku, dikaleng atau di bungkus untuk dijual, pembuatan teh dan bumbu rempah-rempah, pasta ikan, pengolahan makanan dengan cara pengasinan, teh herbal, seperti halnya produk makanan khusus dan makanan yang tidak tahan lama.",
+    "id": "3bb72e4a-2ee2-4417-814d-9ad2bb3c941d",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "107",
+    "title": "Industri makanan lainnya",
+    "desc": "Golongan ini mencakup produksi berbagai produk makanan yang belum tercakup pada golongan sebelumnya. Kegiatan yang tercakup seperti pembuatan produk roti, gula, kokoa, coklat dan gula-gula, pembuatan mie, makroni dan produk sejenis, hidangan dan makan siap saji dalam keadaan beku, dikaleng atau di bungkus untuk dijual, pembuatan teh dan bumbu rempah-rempah, pasta ikan, pengolahan makanan dengan cara pengasinan, teh herbal, seperti halnya produk makanan khusus dan makanan yang tidak tahan lama.",
+    "id": "3bb72e4a-2ee2-4417-814d-9ad2bb3c941d",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "108",
+    "title": "Industri makanan hewan",
+    "desc": "Golongan ini mencakup pembuatan makanan siap saji, makanan padat dan makanan tambahan untuk hewan peliharaan dan ternak, termasuk pembuatan makanan tunggal (bukan campuran) untuk ternak. Golongan ini juga mencakup pengolahan sisa pemotongan hewan untuk dibuat makanan hewan. Golongan ini tidak mencakup produksi tepung ikan untuk makanan hewan (lihat 102), produksi bungkil (lihat 104) dan kegiatan yang menghasilkan produk sampingan yang dapat bermanfaat sebagai makanan hewan tanpa pengolahan khusus, seperti ampas, sisa penggilingan padi-padian (lihat 106) dan lain-lain.",
+    "id": "0e480487-f712-4a20-b8eb-2b3e72773ad2",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "110",
+    "title": "Industri Minuman",
+    "desc": "Golongan ini mencakup pembuatan dan pencampuran minuman beralkohol seperti whisky, brandi, gin, minuman beralkohol yang disuling/didestilasi dan minuman beralkohol netral (tanpa aroma/flavor); wine/anggur, minuman beralkohol difermentasi tetapi tidak disuling; minuman beralkohol dari malt/gandum seperti bir, ale dan lain-lain termasuk pembuatan bir beralkohol rendah atau bir tanpa alkohol, golongan ini juga mencakup pembuatan minuman soft drink, air minum mineral dan air minum lainnya dalam botol/kemasan.",
+    "id": "1eeecc37-cec2-41e5-a562-b6420786fc24",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "120",
+    "title": "Industri Pengolahan Tembakau",
+    "desc": "Golongan ini mencakup pembuatan tembakau atau produk pengganti tembakau, seperti rokok, cerutu, cangklong, snuff, chewing; dan pemotongan serta pengeringan kembali tembakau tetapi tidak mencakup penanaman atau pengolahan awal tembakau.",
+    "id": "b863ef17-6f73-40bb-b04e-d50ca5e158e7",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "120",
+    "title": "Industri Pengolahan Tembakau",
+    "desc": "Golongan ini mencakup pembuatan tembakau atau produk pengganti tembakau, seperti rokok, cerutu, cangklong, snuff, chewing; dan pemotongan serta pengeringan kembali tembakau tetapi tidak mencakup penanaman atau pengolahan awal tembakau.",
+    "id": "b863ef17-6f73-40bb-b04e-d50ca5e158e7",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "131",
+    "title": "Industri pemintalan, pertenunan dan penyempurnaan tekstil",
+    "desc": "Golongan ini mencakup pembuatan tekstil, termasuk persiapan, pengolahan, pemintalan serat tekstil dan pertenunan. Tekstil dapat dibuat dari berbagai bahan baku,seperti sutera, wol, serat rambut hewan lainnya, serat tumbuhan atau serat buatan, serat dari bubur kayu atau serat kaca, dan serat lain-lain. Golongan ini juga mencakup penyempurnaan tekstil dan bahan pakaian jadi, seperti pengelantangan, pencelupan dan kegiatan lainnya.",
+    "id": "9bcbdb81-ffdf-407c-b642-5b5ef0d2268b",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "139",
+    "title": "Industri Tekstil Lainnya",
+    "desc": "Golongan ini mencakup pembuatan barang jadi dari tekstil kecuali pakaian jadi, seperti bahan rajutan, barang-barang tekstil, karpet dan permadani, tali temali, benang ikat, jaring, bahan lapisan, kain pita, bahan hiasan, gorden, kerai, tenda kemping, layar dan kain penutup mobil, bendera, parasut dan baju pelampung.",
+    "id": "10549d29-b462-4e38-8105-31c375b50b74",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "139",
+    "title": "Industri Tekstil Lainnya",
+    "desc": "Golongan ini mencakup pembuatan barang jadi dari tekstil kecuali pakaian jadi, seperti bahan rajutan, barang-barang tekstil, karpet dan permadani, tali temali, benang ikat, jaring, bahan lapisan, kain pita, bahan hiasan, gorden, kerai, tenda kemping, layar dan kain penutup mobil, bendera, parasut dan baju pelampung.",
+    "id": "10549d29-b462-4e38-8105-31c375b50b74",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "141",
+    "title": "Industri pakaian jadi dan perlengkapannya, bukan pakaian jadi dari kulit berbulu",
+    "desc": "Golongan ini mencakup pembuatan pakaian. Bahan yang digunakan berbagai macam seperti bahan dilapisi, di-impregnasi, atau dilapisi karet dan kulit atau kulit campuran, kain woven, rajutan atau tenunan, kain non woven. Bahan tekstil untuk alas kaki tanpa sol. Golongan ini juga mencakup pembuatan pakaian dalam, pakaian tidur, pakaian kerja. Kaus, gaun, blus, pakaian bayi, pakaian olahraga, topi dan peci, dan aksesori pakaian lain (seperti sarung tangan, ikat pinggang, selendang, hairnet dan lain-lain) untuk pria-wanita dan anak-anak,  kegiatan jahit menjahit  dan pembuatan bagian-bagian dari produk yang sudah disebutkan sebelumnya.",
+    "id": "dd898085-166b-4821-bfe8-6f7ad4834774",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "142",
+    "title": "Industri pakaian jadi dan barang dari kulit berbulu",
+    "desc": "Golongan ini mencakup pembuatan barang-barang dari kulit berbulu seperti pakaian dari kulit berbulu dan aksesori pakaian. Berbagai barang dari kulit berbulu seperti; gambar, kesetan dan lain-lain. Golongan ini tidak  mencakup pengolahan kulit berbulu mentah, kulit dan jangat mentah, pembuatan kulit berbulu imitasi, pengolahan dan pencelupan kulit berbulu dan alas kaki yang bagiannya ada kulit berbulu.",
+    "id": "fec7ddbd-9cc6-42e2-8efa-7f1856d8ce92",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "143",
+    "title": "Industri pakaian jadi rajutan dan sulaman/bordir",
+    "desc": "Golongan ini mencakup pembuatan pakaian  dari  bahan rajutan atau sulaman dan barang-barang jadi lain (seperti sweater, cardigan, kaos, rompi dan barang sejenis), serta kaos kaki, termasuk kaos kaki pendek, stocking dan pantyhose. Golongan ini tidak mencakup pembuatan bahan dari rajutan atau sulaman.",
+    "id": "d3567044-24d4-4658-ad49-5cbecf5256ae",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "151",
+    "title": "Industri kulit dan barang dari kulit, termasuk kulit buatan",
+    "desc": "Golongan ini mencakup pembuatan kulit dan kulit berbulu dan barang-barang yang terbuat dari padanya.",
+    "id": "368d09b4-6075-4249-829d-c57d6b272ae4",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "152",
+    "title": "Industri alas kaki",
+    "desc": "Golongan ini mencakup pembuatan alas kaki untuk semua kebutuhan, pembuatan bagian alas kaki dari kulit dan barang-barang sejenis, kecuali bagian alas kaki yang terbuat dari plastik, kayu dan karet",
+    "id": "5e99272f-2cb3-4b27-a92f-d9cd6c1311d4",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "161",
+    "title": "Industri penggergajian dan pengawetan kayu, rotan, bambu dan sejenisnya",
+    "desc": "Golongan ini mencakup proses pengerjaan dari penggergajian kayu dan batang kayu sampai proses selanjutnya, pembuatan bantalan kayu rel kereta api, bahan kayu untuk lantai yang belum dirakit, wol kayu, tepung kayu, irisan dan partikel kayu. Golongan ini juga mencakup pengeringan kayu dan pengolahan secara kimia dan perendaman kayu dengan bahan pengawet dari bahan lainnya. Golongan ini tidak mencakup penggergajian kayu dan produksi kayu kasar (lihat 022), pembuatan lembaran tipis veneer (lapisan) yang dipakai dalam plywood (triplek), papan dan panel, sirap dan shakes, beading dan kayu cetakan.",
+    "id": "24372e22-3a15-4e13-b6b0-ae22f8a7530b",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "162",
+    "title": "Industri Barang dari Kayu; Industri Barang dari Gabus dan barang anyaman dari jerami, rotan, bambu dan sejenis lainnya",
+    "desc": "Golongan ini mencakup pembuatan barang-barang dari kayu, barang-barang anyaman dari bambu, rotan dan sejenisnya, termasuk bentuk dasar seperti barang rakitan. Golongan ini juga mencakup pembuatan lembaran tipis veneer (lapisan), plywood (triplek), barang-barang kayu yang dimaksudkan untuk digunakan konstruksi, pembuatan kontainer kayu kecuali koper. Barang kayu lainnya, pembuatan barang-barang dari kayu gabus, jerami  dan barang anyaman lainnya.",
+    "id": "f7ac9bed-f4cd-49ac-9499-3f9e158a580e",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "170",
+    "title": "Industri Kertas dan Barang Dari Kertas",
+    "desc": "Golongan ini mencakup pembuatan bubur kertas yang dikelantang, semi kelantang atau tidak dikelantang dengan proses mekanik dan serat kimiawi, pemisahan tinta dan pembuatan bubur kertas dari limbah kertas, jasa pembuatan kertas dan papan kertas yang ditujukan untuk pengolahan lebih lanjut. Golongan ini juga mencakup pembuatan kertas berombak dan papan kertas dan kontainer dari kertas dan papan kertas, dan juga pembuatan barang lain dari kertas dan papan kertas untuk rumah tangga dan kegunaan lain.",
+    "id": "291d6d36-8059-4d38-badc-083674ce0cb3",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "170",
+    "title": "Industri Kertas dan Barang Dari Kertas",
+    "desc": "Golongan ini mencakup pembuatan bubur kertas yang dikelantang, semi kelantang atau tidak dikelantang dengan proses mekanik dan serat kimiawi, pemisahan tinta dan pembuatan bubur kertas dari limbah kertas, jasa pembuatan kertas dan papan kertas yang ditujukan untuk pengolahan lebih lanjut. Golongan ini juga mencakup pembuatan kertas berombak dan papan kertas dan kontainer dari kertas dan papan kertas, dan juga pembuatan barang lain dari kertas dan papan kertas untuk rumah tangga dan kegunaan lain.",
+    "id": "291d6d36-8059-4d38-badc-083674ce0cb3",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "182",
+    "title": "Reproduksi media rekaman",
+    "desc": "Golongan ini mencakup reproduksi dari kopi master pelat atau piringan gramofon, compact disk atau CD dan pita yang berisikan musik atau rekaman suara lain, reproduksi dari kopi master rekaman, compact disk atau CD dan tape yang berisikan gambar bergerak atau film dan rekaman video lainnya, dan reproduksi dari kopi master perangkat lunak atau software dan data pada disk dan pita magnetik.",
+    "id": "f4f3c907-0b6f-4977-a460-d6a0aa97bcd2",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "191",
+    "title": "Industri produk dari batu bara",
+    "desc": "Golongan ini mencakup pengoperasian tungku kokas, produksi kokas dan semi kokas, gas oven kokas (gas lampu), ter (aspal), lignit (batu bara muda) dan batu bara mentah dan produk dari aglomerasi kokas.",
+    "id": "5cc3e4ea-62ff-4a53-9add-620e7b2cc91b",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "192",
+    "title": "Industri produk pengilangan minyak bumi",
+    "desc": "Golongan ini mencakup pembuatan bahan bakar gas atau cair atau produk lain dari minyak bumi mentah, mineral, aspal dan produk turunannya. Golongan ini juga mencakup produksi bahan bakar motor (bensin, minyak tanah dan lain-lain), bahan bakar (minyak bahan bakar berkadar berat, menengah, dan ringan, gas sulingan seperti etane, propane, butane dan lain-lain), minyak pelumas, termasuk dari minyak limbah (sisa), dan produk untuk industri petrokimia dan untuk pembuatan bahan pelapis jalan, berbagai briket bahan bakar padat, dan campuran biofuel dan produk lain (seperti spiritus putih, vaseline, paraffin wax, petroleum jelly dan lain-lain).",
+    "id": "bbd3eb42-99fb-4d6f-ba62-5b1b5849b221",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "201",
+    "title": "Industri bahan kimia",
+    "desc": "Golongan ini mencakup pembuatan produk kimia dasar, pupuk dan senyawa nitrogen serta plastik dan karet sintetis dalam bentuk dasar.",
+    "id": "40cdb0f1-bc82-42d2-b1f9-c0984b52e7fe",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "221",
+    "title": "Industri karet dan barang dari karet",
+    "desc": "Golongan ini mencakup pembuatan ban karet untuk semua jenis kendaraan dan peralatan, berbagai strip/potongan ban untuk vulkanisir dan kegiatan vulkanisir. Golongan ini juga mencakup pembuatan produk karet lainnya, pembuatan produk karet alam atau sintetis lainnya dalam bentuk yang berbeda dan juga pembuatan bahan-bahan karet untuk perbaikan, di mana karet adalah unsur utama.",
+    "id": "987ce508-d98f-45f6-b012-8aa8edd622bc",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "222",
+    "title": "Industri barang dari plastik",
+    "desc": "Golongan ini mencakup pengolahan dasar plastik baru atau daur ulang menjadi produk akhir atau antara, menggunakan berbagai proses dan pencetakan. Proses produksi dapat membuat bermacam-macam jenis produk plastik dalam bentuk dan keperluan yang berbeda. Golongan ini juga mencakup pembuatan antara lain, plat, tabung, peralatan, kontainer pembungkus, bahan bangunan dari plastik, barang-barang plastik rumah tangga, ban berjalan untuk alat angkut dan lain-lain.",
+    "id": "f48d72eb-3ac4-4360-9d92-e78516982bf1",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "241",
+    "title": "Industri Logam Dasar Besi dan Baja",
+    "desc": "Golongan ini mencakup kegiatan kegiatan pengolahan dari bijih besi menjadi besi gubal sampai menjadi baja, dan pembuatan produk baja dan logam campuran besi dalam berbagai ukuran dan bentuk. Golongan ini juga mencakup berbagai operasi pengolahan baja.",
+    "id": "b57c4c6f-20fe-472c-a711-82888f30a175",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "242",
+    "title": "Industri logam dasar mulia dan logam dasar bukan besi lainnya",
+    "desc": "Golongan ini mencakup produksi logam dasar mulia dan logam bukan besi, seperti emas, perak, platina, aluminium, tembaga, timah hitam, seng, timah putih dan lain-lain, dari bijih dan berbagai sumber yang diolah ke dalam berbagai bentuk dan kegunaan. Golongan ini tidak mencakup pengecoran logam bukan besi dan pembuatan perhiasan logam mulia.",
+    "id": "84e25588-37fe-433e-9d2c-73f80b3c4224",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "243",
+    "title": "Industri pengecoran logam",
+    "desc": "Golongan ini mencakup pembuatan barang setengah jadi dan berbagai tuangan yang melalui proses pengecoran. Golongan ini juga mencakup pengecoran logam baja dan besi, seperti penuangan produk baja dan besi, pembuatan tabung, pipa dan peralatan dari tuangan besi, termasuk penuangan aluminium, magnesium, titanium, seng dan lain-lain.",
+    "id": "70eb803e-3211-47e8-ad56-6233d74318b0",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "251",
+    "title": "Industri barang logam siap pasang untuk bangunan, tangki, tandon air dan  generator uap",
+    "desc": "Golongan ini mencakup pembuatan produk struktur logam (seperti kerangka atau bagian dari konstruksi), barang-barang jenis kontainer logam (seperti reservoir, tangki, ketel uap untuk pemanasan) dan generator uap air.",
+    "id": "16962cb1-e4fb-4f7f-b081-6f3742de31d3",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "252",
+    "title": "Industri senjata dan amunisi",
+    "desc": "Golongan ini mencakup pembuatan persenjataan berat, senjata api tangan, pistol udara, amunisi perang, termasuk senjata api dan amunisi untuk olahraga atau penjagaan diri, dan peralatan bahan peledak, seperti bom. ranjau dan torpedo. Golongan ini tidak mencakup pembuatan pedang, bayonet, kendaraan bersenjata untuk alat angkutan barang berharga dan uang kertas, kendaraan luar angkasa, tank, dan kendaraan perang lain.",
+    "id": "012f1e88-f57e-4fa8-858c-72c99c7063b5",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "259",
+    "title": "Industri barang logam lainnya dan jasa pembuatan barang logam",
+    "desc": "Golongan ini mencakup kegiatan umum pengolahan logam, seperti penempaan atau penekanan, persepuhan, pelapisan, pengukiran, pemboran, penyemiran, pengelasan dan lain-lain, yang umumnya dilakukan atas dasar balas jasa atau kontrak. Golongan ini juga mencakup pembuatan berbagai barang logam, seperti alat pemotong, pisau, gunting dan lain-lain), perkakas tangan dari logam dan perangkat  keras lainnya; kaleng atau ember; paku, baut dan mur; barang rumah tangga dari logam; peralatan logam, baling-baling dan jangkar kapal; peralatan jalur rel kereta api dan lain-lain dan berbagai barang logam untuk penggunaan rumah tangga dan industri.",
+    "id": "c2e235f3-b3f4-40f2-9f4c-1e6ccc19ea4e",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "261",
+    "title": "Industri komponen dan papan elektronik",
+    "desc": "Golongan ini mencakup pembuatan semi konduktor dan komponen lain untuk peralatan elektronik, diantara nya resistor dan kapasitor elektronik, transistor, mikroprosesor, papan sirkuit dan pengisian atau pemasangannya, kartu interface dan pengontrol, dan peralatan terpisah yang terkait, termasuk pembuatan kabel printer, kabel monitor, kabel USB dan konektor/penghubung dan lain-lain.",
+    "id": "ebd215cb-8ecc-429e-ad2b-31ee5262cb0a",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "261",
+    "title": "Industri komponen dan papan elektronik",
+    "desc": "Golongan ini mencakup pembuatan semi konduktor dan komponen lain untuk peralatan elektronik, diantara nya resistor dan kapasitor elektronik, transistor, mikroprosesor, papan sirkuit dan pengisian atau pemasangannya, kartu interface dan pengontrol, dan peralatan terpisah yang terkait, termasuk pembuatan kabel printer, kabel monitor, kabel USB dan konektor/penghubung dan lain-lain.",
+    "id": "ebd215cb-8ecc-429e-ad2b-31ee5262cb0a",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "265",
+    "title": "Industri alat ukur, alat uji, peralatan navigasi dan kontrol dan alat ukur waktu",
+    "desc": "Golongan ini mencakup pembuatan peralatan pengukuran, pengujian, navigasi dan kontrol untuk berbagai kegunaan industri dan bukan industri, termasuk peralatan pengukuran berdasarkan waktu seperti jam dan jam tangan serta peralatan lain yang berkaitan dengan itu.",
+    "id": "c4e7d96a-5134-41f1-85ae-aecbb9b93b9e",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "266",
+    "title": "Industri peralatan iradiasi, elektromedikal dan elektroterapi",
+    "desc": "Golongan ini mencakup pembuatan peralatan elektromedik, elektroterapi, dan peralatan iradiasi dan tabung untuk diagnosa medis, terapi medis, industri, penelitian dan aplikasi evaluasi ilmiah.",
+    "id": "3bd8f948-bc7a-4c6e-b456-920dd3fe8cec",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "267",
+    "title": "Industri peralatan fotografi dan instrumen optik bukan kaca mata",
+    "desc": "Golongan ini mencakup pembuatan instrumen optik, lensa dan cermin optik, peralatan fotografi seperti kamera, pengukur cahaya, proyektor, mikroskop, teleskop serta peralatan dan instrumen alat ukur dan cek optik.",
+    "id": "62dff841-75e1-4ea5-b441-9efbc3d3902c",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "267",
+    "title": "Industri peralatan fotografi dan instrumen optik bukan kaca mata",
+    "desc": "Golongan ini mencakup pembuatan instrumen optik, lensa dan cermin optik, peralatan fotografi seperti kamera, pengukur cahaya, proyektor, mikroskop, teleskop serta peralatan dan instrumen alat ukur dan cek optik.",
+    "id": "62dff841-75e1-4ea5-b441-9efbc3d3902c",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "268",
+    "title": "Industri media magnetik dan media optik",
+    "desc": "Golongan ini mencakup pembuatan media perekaman optik dan magnetik, seperti kaset-videotape dan audio magnetik kosong, disket kosong, disk optik dan media hardisk kosong.  Golongan ini tidak mencakup reproduksi media rekaman (media komputer, suara, video dan lain-lain).",
+    "id": "1394803c-74d6-4240-95d0-c8381e3cfde2",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "271",
+    "title": "Industri motor listrik, generator, transformator dan peralatan pengontrol dan pendistribusian listrik",
+    "desc": "Golongan ini mencakup pembuatan mesin tenaga, mesin pendistribusi listrik dan transformator khusus, regulator voltage, motor listrik, generator tenaga dan saklar dan pengatur tenaga yang terkait.",
+    "id": "58e9bd08-b7ca-432f-bd01-b04a186fe8d3",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "272",
+    "title": "Industri batu baterai dan akumulator listrik",
+    "desc": "Golongan ini mencakup pembuatan baterei biasa dan recharge, baterei dan elemen utama, lead acid, NiCad, NiMH, lithium, elemen oksida, baterei elemen basah dan kering dan akumulator listrik.",
+    "id": "9ecca555-66ef-4891-99ed-c617e0ed0f3e",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "273",
+    "title": "Industri kabel dan perlengkapannya",
+    "desc": "Golongan ini mencakup pembuatan peralatan kawat pembawa arus atau bukan untuk sirkuit kawat listrik tanpa memperhatikan materi pembuatnya.  Golongan ini juga mencakup pengisolasian kawat dan pembuatan kabel serat optik.",
+    "id": "a6595226-8c30-46e0-bd08-c7856f4a42b1",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "274",
+    "title": "Industri peralatan penerangan listrik (termasuk peralatan penerangan bukan listrik)",
+    "desc": "Golongan ini mencakup pembuatan tabung dan bola lampu listrik serta bagian dan komponennya, peralatan penerangan non listrik, dan komponen peralatan lain.  Pembuatan peralatan penerangan non listrik seperti bola lampu dan perlengkapan tempat lilin, peralatan lampu penerangan, lampu senter, lampu listrik serangga, lentera, peralatan lampu jalan, perlengkapan/peralatan lampu untuk peralatan transportasi (misalnya untuk kendaraan bermotor, pesawat udara, boat).",
+    "id": "16aa9d04-2eb8-4786-8cf1-377426c84d28",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "275",
+    "title": "Industri peralatan rumah tangga",
+    "desc": "Golongan ini mencakup pembuatan peralatan rumah tangga dan peralatan kecil, seperti peralatan rumah tangga yang menggunakan listrik, gas atau bahan bakar lain, kipas angin, penghisap debu, mesin pembersih lantai listrik, peralatan memasak, peralatan mencuci, freezer dan lemari es dan peralatan lain seperti mesin cuci piring, pemanas air dan lain-lain.",
+    "id": "b1316e1d-7d71-4878-8f8c-50eb9fa5dbbc",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "275",
+    "title": "Industri peralatan rumah tangga",
+    "desc": "Golongan ini mencakup pembuatan peralatan rumah tangga dan peralatan kecil, seperti peralatan rumah tangga yang menggunakan listrik, gas atau bahan bakar lain, kipas angin, penghisap debu, mesin pembersih lantai listrik, peralatan memasak, peralatan mencuci, freezer dan lemari es dan peralatan lain seperti mesin cuci piring, pemanas air dan lain-lain.",
+    "id": "b1316e1d-7d71-4878-8f8c-50eb9fa5dbbc",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "279",
+    "title": "Industri peralatan listrik lainnya",
+    "desc": "Golongan ini mencakup pembuatan bermacam-macam peralatan listrik, seperti \"charger baterai dan surge suppressor/stabilisator, alat pintu listrik, bel listrik, kabel listrik, produk grafit dan karbon, kapasitor listrik dan peralatan sejenis, elektromagnet, papan listrik untuk angka dan tanda, peralatan pemberi isyarat dan sirine listrik, alat penyekat, pipa saluran dan peralatan listrik, peralatan pengelasan dan pematrian listrik, termasuk alat pematri tangan.",
+    "id": "78292913-07d2-4035-8dc3-533101f9a128",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "281",
+    "title": "Industri mesin untuk keperluan umum",
+    "desc": "Golongan ini mencakup pembuatan mesin untuk keperluan umum yaitu mesin yang biasa digunakan dalam cakupan luas dari industri ISIC, seperti halnya pembuatan komponen yang digunakan dalam pembuatan berbagai macam mesin lain atau pembuatan mesin yang mendukung operasi usaha lain. Golongan ini termasuk pembuatan mesin dan turbin, kecuali mesin kendaraan dan pesawat udara, termasuk juga peralatan mesin tenaga air, pompa, kompresor, katup/klep dan kran, bearing, gir, dan unsur-unsur untuk menggerakkan gir kemudi, oven, tungku dan tungku pembakar, peralatan untuk pemindahan dan pengangkatan barang, mesin dan peralatan perkantoran (kecuali peralatan komputer dan perlengkapannya), peralatan/perkakas tangan yang digerakkan tenaga dan mesin untuk keperluan umum lainnya. Untuk kegiatan remanufakturing dapat digolongkan dalam kegiatan Industri.",
+    "id": "da54f5c3-de19-4d59-a8af-c39a7614b425",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "281",
+    "title": "Industri mesin untuk keperluan umum",
+    "desc": "Golongan ini mencakup pembuatan mesin untuk keperluan umum yaitu mesin yang biasa digunakan dalam cakupan luas dari industri ISIC, seperti halnya pembuatan komponen yang digunakan dalam pembuatan berbagai macam mesin lain atau pembuatan mesin yang mendukung operasi usaha lain. Golongan ini termasuk pembuatan mesin dan turbin, kecuali mesin kendaraan dan pesawat udara, termasuk juga peralatan mesin tenaga air, pompa, kompresor, katup/klep dan kran, bearing, gir, dan unsur-unsur untuk menggerakkan gir kemudi, oven, tungku dan tungku pembakar, peralatan untuk pemindahan dan pengangkatan barang, mesin dan peralatan perkantoran (kecuali peralatan komputer dan perlengkapannya), peralatan/perkakas tangan yang digerakkan tenaga dan mesin untuk keperluan umum lainnya. Untuk kegiatan remanufakturing dapat digolongkan dalam kegiatan Industri.",
+    "id": "da54f5c3-de19-4d59-a8af-c39a7614b425",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "282",
+    "title": "Industri mesin untuk keperluan khusus",
+    "desc": "Golongan ini mencakup pembuatan mesin untuk keperluan khusus, yaitu mesin untuk keperluan eksklusif dalam industri KBLI atau kelompok kecil industri KBLI.  Kebanyakan  mesin-mesin ini digunakan dalam proses-proses industri, seperti industri makanan atau industri tekstil. Golongan ini juga mencakup pembuatan mesin khusus untuk kegiatan bukan industri. Golongan ini mencakup pembuatan mesin pertanian dan kehutanan, mesin dan perkakas mesin untuk pembentukan logam, mesin metalurgi, mesin-mesin untuk pertambangan, penggalian dan konstruksi, mesin untuk tekstil, pakaian jadi, barang dari kulit dan mesin untuk keperluan khusus lain. Untuk kegiatan remanufakturing dapat digolongkan dalam kegiatan industri.",
+    "id": "0b8e5d4a-483a-4de7-9a25-1678a7b2a11e",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "291",
+    "title": "Industri kendaraan bermotor roda empat atau lebih",
+    "desc": "Golongan ini mencakup mobil penumpang dan kendaraan komersial, seperti van, lori/truk, bis, mesin kendaraan bermotor, kendaraan amphibi, casis mesin kendaraan, dan kendaraan bermotor lainnya.  Golongan ini juga mencakup perakitan/pembuatan kembali mesin kendaraan bermotor.",
+    "id": "f218bbc5-a7c2-468e-9ff7-17a88a0285c6",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "292",
+    "title": "Industri karoseri kendaraan bermotor roda empat atau lebih dan industri trailer dan semi trailer",
+    "desc": "Golongan ini mencakup pembuatan badan (coach work) dan kontainer untuk angkutan penumpang dan barang, termasuk taksi, gerbong kereta, trailer untuk angkutan barang, trailer karavan dan lain-lain.",
+    "id": "61e109b5-4ee5-4601-a0b5-848bd4b55032",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "293",
+    "title": "Industri suku cadang dan aksesori kendaraan bermotor roda empat atau lebih",
+    "desc": "Golongan ini mencakup pembuatan suku cadang dan aksesori untuk kendaraan bermotor seperti bagian sistem kemudi, pembakaran dan gas/uap hasil pembakaran, peralatan listrik kendaraan bermotor, serta indikator kecepatan, temperatur dan lainnya.",
+    "id": "b92df302-8003-4fb8-afc7-93bea8c3da02",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "302",
+    "title": "Industri lokomotif dan gerbong kereta",
+    "desc": "Golongan ini mencakup pembuatan lokomotif kereta api, gerbong kereta api untuk berbagai keperluan dan pembuatan suku cadangnya, peralatan pemberi isyarat dan fasilitas rel kereta api lain yang terkait.",
+    "id": "9455c0ea-278b-44c6-8edd-c8988f567015",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "304",
+    "title": "Industri kendaraan perang",
+    "desc": "Golongan ini mencakup pembuatan alat angkutan tank, kendaraan amfibi bersenjata, dan kendaraan perang lainnya.",
+    "id": "9bffb6c4-0467-44a2-9a00-ae77750d03ac",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "304",
+    "title": "Industri kendaraan perang",
+    "desc": "Golongan ini mencakup pembuatan alat angkutan tank, kendaraan amfibi bersenjata, dan kendaraan perang lainnya.",
+    "id": "9bffb6c4-0467-44a2-9a00-ae77750d03ac",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "309",
+    "title": "Industri alat angkutan lainnya ytdl",
+    "desc": "Golongan ini mencakup pembuatan alat angkutan selain kendaraan bermotor dan kereta api, alat angkutan air/laut, pesawat udara atau angkasa dan kendaraan militer. Golongan ini mencakup pembuatan sepeda motor, sepeda dan kendaraan beroda lainnya dan kendaraan lain yang ditarik manusia atau binatang, termasuk suku cadang dan asesoris dari kendaraan-kendaran tersebut.",
+    "id": "4fbc161f-3d5a-465b-a290-d5bd8e11f1cf",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "321",
+    "title": "Industri barang perhiasan dan barang berharga",
+    "desc": "Golongan ini mencakup pembuatan barang-barang perhiasan dan perhiasan imitasi.  Golongan ini juga mencakup produksi mutiara, batu berharga dan semi, pembuatan perhiasan dari logam mulia, atau kombinasi darinya.  Juga mencakup perhiasan yang digunakan pada materi lain seperti barang-barang keagamaan dan lainnya, barang-barang teknik, laboratorium dan barang-barang pribadi dari logam mulia dan barang-barang ukiran dari logam atau logam mulia.",
+    "id": "3725d18a-e95d-4948-9a15-7c3e8bc088e0",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "322",
+    "title": "Industri alat musik",
+    "desc": "Golongan ini mencakup pembuatan alat musik, baik alat musik petik/gesek, keyboard, organ, akordian, alat musik perkusi maupun alat musik listrik serta suku cadang dan aksesorisnya.  Golongan ini juga mencakup suling dan alat musik tiup lainnya.  Golongan ini tidak mencakup kegiatan reproduksi, penyetelan dan perbaikan alat musik.",
+    "id": "3ad50832-8568-414e-84a9-520860a3f4d4",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "323",
+    "title": "Industri alat olahraga",
+    "desc": "Golongan ini mencakup pembuatan alat-alat olahraga dan atletik, kecuali pakaian dan alas kaki.  Tercakup di sini adalah pembuatan alat-alat olahraga, peralatan atletik dan barang-barang keperluan olahraga lainnya.",
+    "id": "1a017fd9-29c3-41cb-b69a-21958a0aead3",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "323",
+    "title": "Industri alat olahraga",
+    "desc": "Golongan ini mencakup pembuatan alat-alat olahraga dan atletik, kecuali pakaian dan alas kaki.  Tercakup di sini adalah pembuatan alat-alat olahraga, peralatan atletik dan barang-barang keperluan olahraga lainnya.",
+    "id": "1a017fd9-29c3-41cb-b69a-21958a0aead3",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "324",
+    "title": "Industri alat permainan dan mainan anak-anak",
+    "desc": "Golongan ini mencakup pembuatan mainan anak dan alat permainan ketangkasan/games (termasuk mainan elektronik dan asesorisnya, hobby kits, kendaraan untuk anak-anak, meja permainan, kartu permainan, alat permainan yang dijalankan dengan menggunakan koin, dan permainan hiburan lainnya. Golongan ini tidak mencakup pembuatan peralatan konsol video game.",
+    "id": "d92be573-19d6-4689-9a0b-7cabfcd43077",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "325",
+    "title": "Industri peralatan kedokteran dan kedokteran gigi serta perlengkapannya",
+    "desc": "Golongan ini mencakup pembuatan peralatan medis dan laboratorium, perabotan, instrumen, perlengkapan dan persediannya.  Golongan ini mencakup barang-barang dan peralatan bedah, kedokteran gigi, ortopedi, ophthalmic dan prosedural lain.",
+    "id": "10a3f2cb-0082-4103-9c5b-952272e1c34b",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "329",
+    "title": "Industri pengolahan lainnya ytdl",
+    "desc": "Golongan ini mencakup pembuatan berbagai macam barang-barang pribadi yang belum tercakup sebelumnya.  Golongan ini mencakup peralatan keselamatan yang bersifat melindungi, sikat dan sapu untuk berbagai kebutuhan, berbagai macam pulpen dan pensil, alat pemberi label dan tanggal, payung, tongkat untuk berjalan, alat pengunci, pemantik api, barang kebutuhan pribadi dan bermacam-macam barang seperti lilin, rangkaian bunga, jokes dan novelties, tangan, tailor's dummies, peti mati dan lain-lain termasuk kegiatan taxidermy (mounting kulit hewan dengan kapas sehingga terlihat seperti binatang hidup).",
+    "id": "f908a73a-7903-408a-abdb-9b1ce9b208c7",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "332",
+    "title": "Instalasi/pemasangan mesin dan peralatan industri",
+    "desc": "Golongan ini mencakup instalasi khusus mesin-mesin.  Bagaimanapun instalasi peralatan yang membentuk suatu bagian kesatuan dari suatu gedung atau bangunan, seperti instalasi eskalator, kawat listrik, sistem alarm/tanda bahaya, sistem AC (pendingin ruangan), tercakup pada konstruksi (F).  Golongan ini mencakup instalasi, perangkaian dan pembongkaran mesin industri, dan peralatan pengawas proses produksi mesin industri.",
+    "id": "98056873-2679-4d45-a7e9-ceca1d53c2e9",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "351",
+    "title": "Ketenagalistrikan",
+    "desc": "Golongan ini mencakup kegiatan pembangkitan, transmisi dan pendistribusian energi listrik kepada konsumen akhir. Kegiatan yang tercakup adalah pengoperasian fasilitas pembangkit yang menghasilkan energi listrik, pengoperasian sistem transmisi hingga sistem distribusi ke konsumen akhir, kegiatan penjualan ke konsumen dan aktivitas penunjang tenaga listrik.",
+    "id": "76493dea-9280-417b-a6f6-162cc5cea26a",
+    "cat_id": "9940980e-3052-40ee-945f-f29af642d930",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "351",
+    "title": "Ketenagalistrikan",
+    "desc": "Golongan ini mencakup kegiatan pembangkitan, transmisi dan pendistribusian energi listrik kepada konsumen akhir. Kegiatan yang tercakup adalah pengoperasian fasilitas pembangkit yang menghasilkan energi listrik, pengoperasian sistem transmisi hingga sistem distribusi ke konsumen akhir, kegiatan penjualan ke konsumen dan aktivitas penunjang tenaga listrik.",
+    "id": "76493dea-9280-417b-a6f6-162cc5cea26a",
+    "cat_id": "9940980e-3052-40ee-945f-f29af642d930",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "352",
+    "title": "Pengadaan dan Distribusi Gas Alam dan Buatan",
+    "desc": "Golongan ini mencakup pengolahan gas dan pendistribusian gas alam atau gas buatan ke konsumen melalui suatu sistem saluran pipa, dan kegiatan penjualan gas. Golongan ini juga mencakup penyediaan gas melalui berbagai proses, pengangkutan, pendistribusian dan penyediaan semua jenis bahan bakar gas melalui pipa saluran, penjualan gas kepada konsumen melalui saluran pipa, termasuk kegiatan broker dan agen gas, pertukaran komoditi dan kapasitas pengangkutan bahan bakar gas. Golongan ini tidak mencakup kegiatan pengoperasian tungku batubara, pembuatan produk gas hasil pengilangan minyak bumi/penyulingan minyak bumi, perdagangan besar bahan bakar gas, perdagangan eceran gas dalam tabung, penjualan langsung bahan bakar, dan transportasi (jarak jauh) gas melalui saluran pipa.",
+    "id": "0c2fc544-3ad9-4156-98d5-4bd520722a5e",
+    "cat_id": "9940980e-3052-40ee-945f-f29af642d930",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "353",
+    "title": "Pengadaan Uap/Air Panas, Udara Dingin dan Produksi Es",
+    "desc": "Golongan ini mencakup kegiatan produksi, pengumpulan dan pendistribusian uap dan air panas untuk pemanas, energi dan tujuan lain, produksi dan distribusi udara dingin, air dingin/air es untuk tujuan pendinginan, dan produksi es, termasuk es untuk kebutuhan makanan/minuman dan tujuan non makanan.",
+    "id": "6744b4a5-006f-479d-91f7-f86a9126f202",
+    "cat_id": "9940980e-3052-40ee-945f-f29af642d930",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "360",
+    "title": "Treatment Air",
+    "desc": "Golongan ini mencakup kegiatan pengumpulan, pengolahan dan pendistribusian air melalui berbagai saluran pipa untuk kebutuhan rumah tangga dan industri.  Golongan ini juga mencakup kegiatan pengumpulan, penjernihan dan pengolahan air dari sungai, danau, mata air, hujan dan lain-lain.  Termasuk juga proses penghilangan garam dari air laut yang utamanya untuk menghasilkan air tawar, pendistribusian air dengan truk atau saluran lainnya dan pengoperasian saluran irigasi.  Golongan ini tidak mencakup pengoperasian peralatan irigasi untuk keperluan pertanian, pengolahan air limbah dalam rangka pencegahan polusi dan angkutan saluran pipa jarak jauh untuk air.",
+    "id": "5f631526-0343-45e6-b0cd-bc62a3bba639",
+    "cat_id": "814dd456-afb9-438b-a000-834c13886d71",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "360",
+    "title": "Treatment Air",
+    "desc": "Golongan ini mencakup kegiatan pengumpulan, pengolahan dan pendistribusian air melalui berbagai saluran pipa untuk kebutuhan rumah tangga dan industri.  Golongan ini juga mencakup kegiatan pengumpulan, penjernihan dan pengolahan air dari sungai, danau, mata air, hujan dan lain-lain.  Termasuk juga proses penghilangan garam dari air laut yang utamanya untuk menghasilkan air tawar, pendistribusian air dengan truk atau saluran lainnya dan pengoperasian saluran irigasi.  Golongan ini tidak mencakup pengoperasian peralatan irigasi untuk keperluan pertanian, pengolahan air limbah dalam rangka pencegahan polusi dan angkutan saluran pipa jarak jauh untuk air.",
+    "id": "5f631526-0343-45e6-b0cd-bc62a3bba639",
+    "cat_id": "814dd456-afb9-438b-a000-834c13886d71",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "383",
+    "title": "Pemulihan Material",
+    "desc": "Golongan ini mencakup kegiatan pengolahan sampah dan bahan lain menjadi bahan baku sekunder.  Kegiatan pemulihan material mencakup kegiatan pemisahan bahan yang dapat didaur ulang dari kumpulan sampah dalam bentuk pemisahan dan pemilihan barang yang dapat didaur ulang dari sampah yang tidak berbahaya dan limbah bahan berbahaya dan beracun (limbah B3), dan pemisahan dan pemilahan bahan-bahan dari campuran bahan yang dapat di daur ulang seperti kertas, wadah plastik dan logam. Proses pengolahan meliputi proses perubahan secara kimia dan proses reduksi secara mekanik.  Golongan ini tidak mencakup pembuatan produk final baru dari bahan baku sekunder (bahan baku yang berasal dari daur ulang), di mana kegiatan ini tercakup pada kategori industri pengolahan (C).",
+    "id": "179555a2-fb4d-4ce6-95ce-64b38951e1d5",
+    "cat_id": "814dd456-afb9-438b-a000-834c13886d71",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "390",
+    "title": "Aktivitas Remediasi dan Pengelolaan Limbah dan Sampah Lainnya",
+    "desc": "Golongan pokok ini mencakup kegiatan pemulihan atau penghilangan bahan berbahaya/beracun yang mencemari tanah, air bawah tanah dan air permukaan, tempat/lokasi atau gedung atau pabrik, termasuk lokasi atau pabrik nuklir, tumpahan minyak, polusi akibat suatu kejadian tiba-tiba dan polusi lainnya dalam lingkungan, pembersihan bahan beracun, dan kegiatan lain yang khususnya berkaitan dengan pengawasan polusi.",
+    "id": "ba463518-efa7-4cb3-abd0-0172482c3aaa",
+    "cat_id": "814dd456-afb9-438b-a000-834c13886d71",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "410",
+    "title": "Konstruksi Gedung",
+    "desc": "Golongan ini mencakup kegiatan konstruksi bangunan baik untuk hunian atau non hunian, atas biaya sendiri untuk dijual atau atas dasar balas jasa/kontrak. Kegiatan konstruksi bangunan dimungkinkan untuk disubkontrakkan sebagian atau keseluruhan. Jika hanya bagian khusus saja dari proses konstruksi yang dilakukan, maka kegiatan tersebut diklasifikasikan pada golongan pokok 43. \n\nGolongan ini mencakup konstruksi semua jenis bangunan hunian dan bangunan non hunian, seperti rumah, gedung hunian, gedung yang digunakan untuk keperluan komersial dan industri, bangunan tempat ibadah, pemasangan dan pendirian bangunan/struktur prafabrikasi pada lokasi proyek. Termasuk kegiatan perubahan model dan renovasi bangunan/struktur yang sudah ada.",
+    "id": "1f611f0b-98a9-455a-aa31-05a51bfc2d21",
+    "cat_id": "ba456fc8-20e2-4736-8aef-19f0a27e6706",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "421",
+    "title": "Konstruksi Jalan dan Jalan Rel",
+    "desc": "Golongan ini mencakup kegiatan konstruksi dan pekerjaan permukaan jalan kendaraan bermotor dan kendaraan lain dan jalan untuk pejalan kaki serta pekerjaan sejenisnya. Golongan ini juga mencakup konstruksi jembatan jalan layang bebas hambatan, terowongan, jalan rel baik di permukaan atau bawah tanah, dan landasan pacu lapangan udara. Termasuk pemasangan bangunan konstruksi prafabrikasi pada lokasi proyek.",
+    "id": "34b85a2d-1b22-435a-93f7-22b05d3a949b",
+    "cat_id": "ba456fc8-20e2-4736-8aef-19f0a27e6706",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "422",
+    "title": "Konstruksi Jaringan Irigasi, Komunikasi dan Limbah",
+    "desc": "Golongan ini mencakup kegiatan konstruksi jaringan distribusi dan bagian yang menyatu dan berkaitan dengan sistem irigasi, komunikasi dan pembuangan limbah.\n\nGolongan ini juga mencakup konstruksi jaringan pipa jarak jauh, jaringan komunikasi dan energi baik di perkotaan maupun perdesaan;  bangunan perkotaan tambahan, konstruksi jaringan air, sistem irigasi/kanal, waduk, konstruksi sistem pembuangan limbah/kotoran, termasuk perbaikannya, bangunan pembuangan limbah/kotoran, stasiun pompa, bangunan pembangkit energi, termasuk pengeboran sumur air. Termasuk pemasangan bangunan prafabrikasi pada lokasi.",
+    "id": "df7149a8-c990-4986-a2db-ab1dc1aba1ba",
+    "cat_id": "ba456fc8-20e2-4736-8aef-19f0a27e6706",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "429",
+    "title": "Konstruksi Bangunan Sipil Lainnya",
+    "desc": "Golongan ini mencakup kegiatan konstruksi fasilitas industri kecuali bangunannya, seperti kilang minyak, pabrik kimia dan konstruksi sungai/kanal, bendungan dan pelabuhan, termasuk kegiatan pengerukan sungai/kanal.\n\nGolongan ini juga mencakup pekerjaan konstruksi selain bangunan, seperti fasilitas olahraga di tempat terbuka dan juga pembagian lahan dengan pengembangannya (misalnya penambahan jalan, prasarana umum dan lain-lain). Termasuk pemasangan bangunan konstruksi prafabrikasi pada lokasi proyek.",
+    "id": "19fa7335-6978-422e-b75f-9d43225caad5",
+    "cat_id": "ba456fc8-20e2-4736-8aef-19f0a27e6706",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "439",
+    "title": "Konstruksi Khusus Lainnya",
+    "desc": "Golongan ini mencakup kegiatan konstruksi khusus pada satu aspek umum untuk struktur yang berbeda, yang membutuhkan peralatan atau ketrampilan khusus seperti konstruksi pondasi, misalnya pemancangan tiang ke dalam tanah, pemancangan tangga-tangga perancah, pemasangan dan pembongkaran bangunan panggung/podium, pekerjaan dengan jalan masuk khusus yang syaratnya membutuhkan ketrampilan memanjat dan penggunaan alat yang berkaitan, pekerjaan di bawah permukaan tanah dan kegiatan sejenis untuk eksterior bangunan dan lain-lain.",
+    "id": "cc20a257-af07-4fc5-913a-537a81858396",
+    "cat_id": "ba456fc8-20e2-4736-8aef-19f0a27e6706",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "439",
+    "title": "Konstruksi Khusus Lainnya",
+    "desc": "Golongan ini mencakup kegiatan konstruksi khusus pada satu aspek umum untuk struktur yang berbeda, yang membutuhkan peralatan atau ketrampilan khusus seperti konstruksi pondasi, misalnya pemancangan tiang ke dalam tanah, pemancangan tangga-tangga perancah, pemasangan dan pembongkaran bangunan panggung/podium, pekerjaan dengan jalan masuk khusus yang syaratnya membutuhkan ketrampilan memanjat dan penggunaan alat yang berkaitan, pekerjaan di bawah permukaan tanah dan kegiatan sejenis untuk eksterior bangunan dan lain-lain.",
+    "id": "cc20a257-af07-4fc5-913a-537a81858396",
+    "cat_id": "ba456fc8-20e2-4736-8aef-19f0a27e6706",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "451",
+    "title": "Perdagangan mobil",
+    "desc": "Golongan ini mencakup perdagangan besar dan eceran kendaraan mobil baru dan bekas, seperti mobil penumpang, lori, mobil gandeng, mobil penumpang khusus, seperti kendaraan kemping, ambulans, minibus dan lain-lain. Golongan ini juga mencakup perdagangan besar dan eceran mobil off-road (jeep, dan lain-lain) perdagangan melalui agen komisi, dan pelelangan mobil.",
+    "id": "d6e597bc-8695-454d-b387-4e96e559b416",
+    "cat_id": "22fce1f0-c038-46e3-a44f-dca92aa36a45",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "451",
+    "title": "Perdagangan mobil",
+    "desc": "Golongan ini mencakup perdagangan besar dan eceran kendaraan mobil baru dan bekas, seperti mobil penumpang, lori, mobil gandeng, mobil penumpang khusus, seperti kendaraan kemping, ambulans, minibus dan lain-lain. Golongan ini juga mencakup perdagangan besar dan eceran mobil off-road (jeep, dan lain-lain) perdagangan melalui agen komisi, dan pelelangan mobil.",
+    "id": "d6e597bc-8695-454d-b387-4e96e559b416",
+    "cat_id": "22fce1f0-c038-46e3-a44f-dca92aa36a45",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "452",
+    "title": "Reparasi dan Perawatan Mobil",
+    "desc": "Golongan ini mencakup reparasi dan perawatan mobil, termasuk reparasi mekanik, elektrik, elektronik, perawatan bodi, bagian-bagian mobil, kursi kendaraan, pencucian, pemolesan dan lain-lain, pemasangan anti karat dan instalasi bagian dan aksesori yang bukan sebagai proses industri.",
+    "id": "45d4032b-fd92-4a79-aebd-9573f111aa5b",
+    "cat_id": "22fce1f0-c038-46e3-a44f-dca92aa36a45",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "452",
+    "title": "Reparasi dan Perawatan Mobil",
+    "desc": "Golongan ini mencakup reparasi dan perawatan mobil, termasuk reparasi mekanik, elektrik, elektronik, perawatan bodi, bagian-bagian mobil, kursi kendaraan, pencucian, pemolesan dan lain-lain, pemasangan anti karat dan instalasi bagian dan aksesori yang bukan sebagai proses industri.",
+    "id": "45d4032b-fd92-4a79-aebd-9573f111aa5b",
+    "cat_id": "22fce1f0-c038-46e3-a44f-dca92aa36a45",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "453",
+    "title": "Perdagangan suku cadang dan aksesori mobil",
+    "desc": "Golongan ini mencakup perdagangan besar dan eceran dari semua jenis suku cadang, komponen, persediaan, peralatan dan aksesori untuk mobil, seperti ban luar dan ban dalam, busi, aki, perlengkapan lampu dan bagian-bagian kelistrikan.",
+    "id": "a7316420-e413-4fe7-bed1-6c2762d028c7",
+    "cat_id": "22fce1f0-c038-46e3-a44f-dca92aa36a45",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "453",
+    "title": "Perdagangan suku cadang dan aksesori mobil",
+    "desc": "Golongan ini mencakup perdagangan besar dan eceran dari semua jenis suku cadang, komponen, persediaan, peralatan dan aksesori untuk mobil, seperti ban luar dan ban dalam, busi, aki, perlengkapan lampu dan bagian-bagian kelistrikan.",
+    "id": "a7316420-e413-4fe7-bed1-6c2762d028c7",
+    "cat_id": "22fce1f0-c038-46e3-a44f-dca92aa36a45",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "454",
+    "title": "Perdagangan, Reparasi dan Perawatan Sepeda Motor dan Perdagangan Suku Cadang dan Aksesorinya",
+    "desc": "Golongan ini mencakup perdagangan besar dan eceran sepeda motor dan moped serta suku cadang dan aksesorinya. Termasuk juga reparasi dan perawatan sepeda motor dan moped. Tidak dicakup disini perdagangan dan reparasi sepeda dan suku cadangnya serta aksesorinya.",
+    "id": "5bff0470-5686-4ce4-94ea-fc04c32f854a",
+    "cat_id": "22fce1f0-c038-46e3-a44f-dca92aa36a45",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "461",
+    "title": "Perdagangan besar atas dasar balas jasa (fee) atau kontrak",
+    "desc": "Golongan ini mencakup kegiatan dari agen, dan semua pedagang besar lainnya yang berdagang untuk orang lain atau membawa penjual dan pembeli bersama termasuk pada internet dan agen-agen serupa itu dalam menjual barang, mesin, kapal dan pesawat serta furnitur rumah tangga dan hardware, diantaranya. Golongan ini juga mencakup kegiatan rumah lelang untuk perdagangan besar.",
+    "id": "02af016c-fb7e-4dbd-b5c3-db09ee32c43b",
+    "cat_id": "22fce1f0-c038-46e3-a44f-dca92aa36a45",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "462",
+    "title": "Perdagangan besar hasil pertanian dan hewan hidup",
+    "desc": "Golongan ini mencakup perdagangan besar serealia, buah oleaginous, bunga dan tanaman hias, hasil kehutanan lainnya, serta hewan hidup. Termasuk didalamnya perdagangan besar benih dan bibit tanaman, bibit hewan, kulit dan jangat, barang kulit, serta perdagangan besar bahan, sampah, sisaan pertanian dan hasil ikutan yang digunakan untuk makanan hewan.",
+    "id": "f80bfd6c-22ba-4fe6-8ae9-818efc2cc80d",
+    "cat_id": "22fce1f0-c038-46e3-a44f-dca92aa36a45",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "463",
+    "title": "Perdagangan besar makanan, minuman dan tembakau",
+    "desc": "Golongan ini mencakup perdagangan besar buah-buahan dan sayuran, produk susu, telur dan produk telur, minyak yang dapat dimakan serta lemak hewani dan nabati, daging, produk perikanan, gula, coklat dan permen, produk roti, minuman, kopi, teh, coklat bubuk dan bumbu, serta produk tembakau. Golongan ini juga mencakup pembelian \"wine\" dalam jumlah besar dan pembotolan tanpa ada perubahan dan perdagangan besar makanan untuk hewan peliharaan.",
+    "id": "1dc4a4b4-3c77-4638-863f-e513f316e569",
+    "cat_id": "22fce1f0-c038-46e3-a44f-dca92aa36a45",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "463",
+    "title": "Perdagangan besar makanan, minuman dan tembakau",
+    "desc": "Golongan ini mencakup perdagangan besar buah-buahan dan sayuran, produk susu, telur dan produk telur, minyak yang dapat dimakan serta lemak hewani dan nabati, daging, produk perikanan, gula, coklat dan permen, produk roti, minuman, kopi, teh, coklat bubuk dan bumbu, serta produk tembakau. Golongan ini juga mencakup pembelian \"wine\" dalam jumlah besar dan pembotolan tanpa ada perubahan dan perdagangan besar makanan untuk hewan peliharaan.",
+    "id": "1dc4a4b4-3c77-4638-863f-e513f316e569",
+    "cat_id": "22fce1f0-c038-46e3-a44f-dca92aa36a45",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "466",
+    "title": "Perdagangan Besar Khusus Lainnya",
+    "desc": "Golongan ini mencakup kegiatan perdagangan besar yang tidak diklasifikasikan dalam golongan lain dari golongan pokok 46. Perdagangan besar yang dicakup di sini adalah perdagangan besar produk antara, kecuali input pertanian. Perdagangan besar di sini mencakup bahan bakar padat, cair dan gas serta produk yang berkaitan, logam dan bijih logam, bahan-bahan konstruksi, perangkat keras, peralatan dan persediaan pemasangan pipa dan pemanas, pembuangan dan sisaan potongan serta produk lain ytdl.",
+    "id": "acd966f8-da6d-44a7-93cc-79e5274617c5",
+    "cat_id": "22fce1f0-c038-46e3-a44f-dca92aa36a45",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "469",
+    "title": "Perdagangan besar berbagai macam barang",
+    "desc": "Golongan ini mencakup perdagangan besar berbagai macam barang tanpa ada kekhususan tertentu.",
+    "id": "2f531b34-dea8-4401-9670-2dcc79f11e24",
+    "cat_id": "22fce1f0-c038-46e3-a44f-dca92aa36a45",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "471",
+    "title": "Perdagangan Eceran Berbagai Macam Barang di Toko",
+    "desc": "Golongan ini mencakup penjualan eceran berbagai macam produk dalam satu toko, seperti supermaket atau \"department store\". Termasuk toko serba ada yang menjual berbagai macam barang seperti makanan, minuman atau tembakau, pakaian jadi, furnitur, kosmetik, perhiasan, mainan, alat-alat olahraga dan lain-lain.",
+    "id": "65ecb82a-b836-4a03-bb8a-bd6ab0ba0396",
+    "cat_id": "22fce1f0-c038-46e3-a44f-dca92aa36a45",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "472",
+    "title": "Perdagangan Eceran Khusus Makanan, Minuman Dan Tembakau di Toko",
+    "desc": "Golongan ini mencakup perdagangan eceran khusus menjual produk makanan minuman atau tembakau di dalam bangunan.",
+    "id": "1bcaf91a-e820-423c-8282-56d98740bb29",
+    "cat_id": "22fce1f0-c038-46e3-a44f-dca92aa36a45",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "472",
+    "title": "Perdagangan Eceran Khusus Makanan, Minuman Dan Tembakau di Toko",
+    "desc": "Golongan ini mencakup perdagangan eceran khusus menjual produk makanan minuman atau tembakau di dalam bangunan.",
+    "id": "1bcaf91a-e820-423c-8282-56d98740bb29",
+    "cat_id": "22fce1f0-c038-46e3-a44f-dca92aa36a45",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "473",
+    "title": "Perdagangan Eceran Khusus Bahan Bakar Kendaraan Bermotor",
+    "desc": "Golongan ini mencakup perdagangan eceran bahan bakar kendaraan mobil dan motor, termasuk untuk genset. Golongan ini juga mencakup perdagangan eceran produk pelumas dan produk pendinginan untuk mobil.",
+    "id": "97d03b4e-d523-4748-b5f0-00915bab599e",
+    "cat_id": "22fce1f0-c038-46e3-a44f-dca92aa36a45",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "474",
+    "title": "Perdagangan Eceran Khusus Peralatan Informasi Dan Komunikasi di Toko",
+    "desc": "Golongan ini mencakup perdagangan eceran khusus peralatan informasi dan komunikasi seperti komputer dan peralatannya, peralatan telekomunikasi dan elektronik rumah tangga. Termasuk konsol video games, pemutar (players), perekam (recorders), radio dan televisi.",
+    "id": "d7a18faa-4488-4556-b431-f941faf42124",
+    "cat_id": "22fce1f0-c038-46e3-a44f-dca92aa36a45",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "474",
+    "title": "Perdagangan Eceran Khusus Peralatan Informasi Dan Komunikasi di Toko",
+    "desc": "Golongan ini mencakup perdagangan eceran khusus peralatan informasi dan komunikasi seperti komputer dan peralatannya, peralatan telekomunikasi dan elektronik rumah tangga. Termasuk konsol video games, pemutar (players), perekam (recorders), radio dan televisi.",
+    "id": "d7a18faa-4488-4556-b431-f941faf42124",
+    "cat_id": "22fce1f0-c038-46e3-a44f-dca92aa36a45",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "475",
+    "title": "Perdagangan Eceran Khusus Perlengkapan Rumah Tangga Lainnya di Toko",
+    "desc": "Golongan ini mencakup perdagangan eceran khusus peralatan rumah tangga, seperti tekstil, bahan bangunan, penutup lantai, peralatan listrik dan furnitur.  Termasuk perdagangan eceran barang untuk penerangan, alat-alat rumah tangga dan pecah belah, alat-alat musik, sistem keamanan, dan barang rumah tangga lainnya serta peralatan ytdl.",
+    "id": "e1b36e74-203f-4d46-bf96-3b683d2fe0fc",
+    "cat_id": "22fce1f0-c038-46e3-a44f-dca92aa36a45",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "475",
+    "title": "Perdagangan Eceran Khusus Perlengkapan Rumah Tangga Lainnya di Toko",
+    "desc": "Golongan ini mencakup perdagangan eceran khusus peralatan rumah tangga, seperti tekstil, bahan bangunan, penutup lantai, peralatan listrik dan furnitur.  Termasuk perdagangan eceran barang untuk penerangan, alat-alat rumah tangga dan pecah belah, alat-alat musik, sistem keamanan, dan barang rumah tangga lainnya serta peralatan ytdl.",
+    "id": "e1b36e74-203f-4d46-bf96-3b683d2fe0fc",
+    "cat_id": "22fce1f0-c038-46e3-a44f-dca92aa36a45",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "476",
+    "title": "Perdagangan Eceran Khusus Barang Budaya Dan Rekreasi di Toko Khusus",
+    "desc": "Golongan ini mencakup perdagangan eceran khusus barang-barang kebudayaan dan rekreasi, seperti buku, surat kabar dan alat tulis menulis, rekaman musik dan video, alat-alat olahraga, permainan dan mainan.",
+    "id": "74ed7916-1ced-40c4-8efb-22bfb9ba1a73",
+    "cat_id": "22fce1f0-c038-46e3-a44f-dca92aa36a45",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "477",
+    "title": "Perdagangan Eceran Khusus Barang Lainnya di Toko",
+    "desc": "Golongan ini mencakup perdagangan eceran yang khusus menjual produk-produk yang tidak dicakup pada golongan lain, seperti pakaian, alas kaki dan barang dari kulit, barang ortopedik, parfum dan kosmetik, fotografi, peralatan optik dan presisi, jam tangan, perhiasan, keperluan taman, barang farmasi dan kedokteran, jam tangan, souvenir, alat-alat kebersihan, senjata, bunga, kerajinan tangan dan benda-benda keagamaan, bahan bakar untuk rumah tangga, gas tabung, arang dan bahan bakar kayu, alat-alat kebersihan, senjata dan amunisi, makanan dan hewan peliharaan, perangko dan koin serta produk non-makanan ytdl. Termasuk juga disini penjualan eceran khusus barang bekas (kecuali kendaraan bermotor) dan barang antik. Disini mencakup kegiatan galeri seni yang komersial dan juga rumah lelang (kecuali tempat pegadaian dan jasa pelelangan).",
+    "id": "a567fc95-8c17-442d-802c-ab170358b31b",
+    "cat_id": "22fce1f0-c038-46e3-a44f-dca92aa36a45",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "477",
+    "title": "Perdagangan Eceran Khusus Barang Lainnya di Toko",
+    "desc": "Golongan ini mencakup perdagangan eceran yang khusus menjual produk-produk yang tidak dicakup pada golongan lain, seperti pakaian, alas kaki dan barang dari kulit, barang ortopedik, parfum dan kosmetik, fotografi, peralatan optik dan presisi, jam tangan, perhiasan, keperluan taman, barang farmasi dan kedokteran, jam tangan, souvenir, alat-alat kebersihan, senjata, bunga, kerajinan tangan dan benda-benda keagamaan, bahan bakar untuk rumah tangga, gas tabung, arang dan bahan bakar kayu, alat-alat kebersihan, senjata dan amunisi, makanan dan hewan peliharaan, perangko dan koin serta produk non-makanan ytdl. Termasuk juga disini penjualan eceran khusus barang bekas (kecuali kendaraan bermotor) dan barang antik. Disini mencakup kegiatan galeri seni yang komersial dan juga rumah lelang (kecuali tempat pegadaian dan jasa pelelangan).",
+    "id": "a567fc95-8c17-442d-802c-ab170358b31b",
+    "cat_id": "22fce1f0-c038-46e3-a44f-dca92aa36a45",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "478",
+    "title": "Perdagangan Eceran Kaki lima dan los pasar",
+    "desc": "Golongan ini mencakup perdagangan eceran dari berbagai jenis produk baru atau bekas yang biasanya kiosnya dapat dipindah-pindah sepanjang jalan umum (kaki lima) atau pada tempat pasar yang tetap (los pasar). Cakupan penjualan eceran pada golongan ini berupa makanan, minuman dan tembakau, tekstil, pakaian dan produk alas kaki, karpet dan permadani, buku, permainan dan mainan, perlengkapan rumah tangga dan elektronik konsumen, perekam musik dan video. Tidak termasuk dalam golongan ini perdagangan eceran makanan yang disiapkan untuk segera dikonsumsi, pedagang keliling dan tempat dengan struktur tetap dalam suatu lokasi.",
+    "id": "04ce278b-d451-4cd6-bcea-b5d2fb4514c5",
+    "cat_id": "22fce1f0-c038-46e3-a44f-dca92aa36a45",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "478",
+    "title": "Perdagangan Eceran Kaki lima dan los pasar",
+    "desc": "Golongan ini mencakup perdagangan eceran dari berbagai jenis produk baru atau bekas yang biasanya kiosnya dapat dipindah-pindah sepanjang jalan umum (kaki lima) atau pada tempat pasar yang tetap (los pasar). Cakupan penjualan eceran pada golongan ini berupa makanan, minuman dan tembakau, tekstil, pakaian dan produk alas kaki, karpet dan permadani, buku, permainan dan mainan, perlengkapan rumah tangga dan elektronik konsumen, perekam musik dan video. Tidak termasuk dalam golongan ini perdagangan eceran makanan yang disiapkan untuk segera dikonsumsi, pedagang keliling dan tempat dengan struktur tetap dalam suatu lokasi.",
+    "id": "04ce278b-d451-4cd6-bcea-b5d2fb4514c5",
+    "cat_id": "22fce1f0-c038-46e3-a44f-dca92aa36a45",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "479",
+    "title": "Perdagangan Eceran bukan di toko, kaki lima dan los pasar",
+    "desc": "Golongan ini mencakup kegiatan perdagangan eceran berbagai jenis barang melalui pesanan surat, internet, sales dari pintu ke pintu, \"vending machines\", pedagang keliling serta berbagai cara yang belum dicakup di atas dan lain-lain.  Termasuk penjualan langsung lelang melalui televisi, radio dan telepon serta internet, segala jenis produk dalam berbagai cara yang tidak tercakup dalam golongan sebelumnya,  (penjualan langsung dan mengantar langsung ke tempat konsumen, lelang (eceran) bukan toko dan perdagangan eceran (bukan toko) oleh agen komisi.",
+    "id": "e2abb5af-2c79-480a-bb90-421c3714f75d",
+    "cat_id": "22fce1f0-c038-46e3-a44f-dca92aa36a45",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "491",
+    "title": "Angkutan Jalan Rel",
+    "desc": "Golongan ini mencakup angkutan kereta api untuk penumpang dan/atau barang yang menggunakan berbagai jenis rangkaian kereta api melalui jalur utama rel kereta api, biasanya tersebar di wilayah geografis yang luas (jarak jauh). Angkutan kereta api untuk barang melalui jalur angkutan barang jarak pendek juga termasuk di sini.\n\nGolongan ini tidak mencakup:\n- Angkutan kereta lainnya untuk penumpang perkotaan dan perdesaan, lihat 4941\n- Kegiatan yang berkaitan dengan angkutan kereta api, seperti pemindahan jalur (switching) dan pelangsiran, lihat 5221\n- Pengoperasian infrastruktur kereta api, lihat 5221",
+    "id": "97b83245-b6c1-41fc-98fe-535dface177f",
+    "cat_id": "c70f0382-b266-42f3-9fb2-ee622d29c75f",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "491",
+    "title": "Angkutan Jalan Rel",
+    "desc": "Golongan ini mencakup angkutan kereta api untuk penumpang dan/atau barang yang menggunakan berbagai jenis rangkaian kereta api melalui jalur utama rel kereta api, biasanya tersebar di wilayah geografis yang luas (jarak jauh). Angkutan kereta api untuk barang melalui jalur angkutan barang jarak pendek juga termasuk di sini.\n\nGolongan ini tidak mencakup:\n- Angkutan kereta lainnya untuk penumpang perkotaan dan perdesaan, lihat 4941\n- Kegiatan yang berkaitan dengan angkutan kereta api, seperti pemindahan jalur (switching) dan pelangsiran, lihat 5221\n- Pengoperasian infrastruktur kereta api, lihat 5221",
+    "id": "97b83245-b6c1-41fc-98fe-535dface177f",
+    "cat_id": "c70f0382-b266-42f3-9fb2-ee622d29c75f",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "492",
+    "title": "Angkutan Bus",
+    "desc": "Golongan ini mencakup angkutan bus dalam trayek jarak dekat atau jauh. Termasuk juga bus turis dan pariwisata, yang terjadwal atau sewaan, pengoperasian bus sekolah dan bus pegawai.",
+    "id": "732b7333-58ae-48c6-9a2d-8c28e0537431",
+    "cat_id": "c70f0382-b266-42f3-9fb2-ee622d29c75f",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "493",
+    "title": "Angkutan Melalui Saluran Pipa",
+    "desc": "Golongan ini mencakup angkutan gas, cairan, air, lumpur, dan komoditas lain melalui saluran pipa. Termasuk juga pengoperasian gardu pompa.",
+    "id": "73a7f105-9ff9-4ae2-a0af-93e4a0aef504",
+    "cat_id": "c70f0382-b266-42f3-9fb2-ee622d29c75f",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "494",
+    "title": "Angkutan Darat Bukan Bus",
+    "desc": "Golongan ini mencakup semua kegiatan angkutan darat bukan bus. Golongan ini mencakup juga moda angkutan jalan raya yang berbeda, seperti trem, streetcar, kereta bawah tanah serta kereta layang dan lain-lain. Angkutan melalui rute yang telah ditetapkan, perencanaan waktu yang tepat pada pemberhentian yang umumnya tepat. Termasuk trem yang ditarik dengan kabel, kereta gantung, monorel dan lain-lain. Penyewaan mobil dan truk dengan sopir, angkutan penumpang dan barang dengan kendaraan yang ditarik orang atau hewan juga termasuk golongan ini. Termasuk juga angkutan menggunakan motor. Golongan ini juga mencakup semua pengoperasian angkutan darat untuk barang selain kereta api, termasuk truk tanker, pengangkut bahan sisa/sampah dan pemindahan furnitur.",
+    "id": "d2e12305-f1bb-4aed-90e8-556abe44aa1d",
+    "cat_id": "c70f0382-b266-42f3-9fb2-ee622d29c75f",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "501",
+    "title": "Angkutan Laut",
+    "desc": "Golongan ini mencakup usaha pengangkutan penumpang atau barang pada kapal yang dirancang untuk beroperasi pada perairan laut atau pantai (pesisir).\n\nTermasuk juga angkutan penarik atau pendorong tongkang (kapal barkas), kapal minyak dan lain-lain. Golongan ini tidak mencakup pengoperasian bangunan struktur",
+    "id": "a29b8a78-2af4-461e-a8db-a269b01f0a45",
+    "cat_id": "c70f0382-b266-42f3-9fb2-ee622d29c75f",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "502",
+    "title": "Angkutan Sungai, Danau dan Penyeberangan",
+    "desc": "Golongan ini mencakup usaha pengangkutan penumpang atau barang pada perairan dalam seperti angkutan sungai, danau dan penyeberangan, yang menggunakan kapal-kapal yang tidak cocok untuk transportasi laut.\n\nTermasuk persewaan kapal pesiar dengan kru untuk perairan dalam.",
+    "id": "35e57700-2431-421e-a889-8a79d9402699",
+    "cat_id": "c70f0382-b266-42f3-9fb2-ee622d29c75f",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "511",
+    "title": "Angkutan Udara untuk Penumpang",
+    "desc": "Golongan ini mencakup:\n- Angkutan udara untuk penumpang dengan jadwal dan rute reguler\n- Penerbangan carter untuk penumpang\n- Penerbangan wisata (melihat pemandangan)\n\nGolongan ini juga mencakup:\n- Penyewaan angkutan udara dengan operatornya untuk tujuan angkutan penumpang\n- Kegiatan penerbangan umum, seperti angkutan penumpang melalui perkumpulan udara untuk pendidikan atau wisata",
+    "id": "3b31d845-e1df-455c-8772-510d299aa092",
+    "cat_id": "c70f0382-b266-42f3-9fb2-ee622d29c75f",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "511",
+    "title": "Angkutan Udara untuk Penumpang",
+    "desc": "Golongan ini mencakup:\n- Angkutan udara untuk penumpang dengan jadwal dan rute reguler\n- Penerbangan carter untuk penumpang\n- Penerbangan wisata (melihat pemandangan)\n\nGolongan ini juga mencakup:\n- Penyewaan angkutan udara dengan operatornya untuk tujuan angkutan penumpang\n- Kegiatan penerbangan umum, seperti angkutan penumpang melalui perkumpulan udara untuk pendidikan atau wisata",
+    "id": "3b31d845-e1df-455c-8772-510d299aa092",
+    "cat_id": "c70f0382-b266-42f3-9fb2-ee622d29c75f",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "512",
+    "title": "Angkutan Udara untuk Kargo",
+    "desc": "Golongan ini mencakup:\n- Angkutan barang melalui udara dengan rute dan jadwal reguler\n- Angkutan barang tidak terjadwal melalui udara\n- Peluncuran satelit dan kendaraan ruang angkasa\n- Angkutan luar angkasa\n\nGolongan ini juga mencakup:\n- Penyewaan angkutan udara dengan operatornya untuk tujuan pengangkutan barang.",
+    "id": "a2b9f2d1-b9df-4080-9c87-6d4f3fe53685",
+    "cat_id": "c70f0382-b266-42f3-9fb2-ee622d29c75f",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "521",
+    "title": "Pergudangan dan Penyimpanan",
+    "desc": "Golongan ini mencakup pengusahaan fasilitas penyimpanan dan pergudangan untuk semua jenis barang, seperti pengoperasian gudang tertutup tempat penyimpan butir-butiran makanan ternak, gudang barang dagangan umum, gudang berpendingin, tangki penyimpanan (minyak, air dan lain-lain). Golongan ini juga mencakup penyimpanan barang di zona perdagangan luar negeri dan gudang pembekuan cepat (blast freezing).\n\nGolongan ini tidak termasuk:\n- Fasilitas parkir untuk kendaraan bermotor, lihat 5221\n- Pengoperasian real estat fasilitas penyimpanan/gudang, lihat 6811\n- Penyewaan ruang kosong, lihat 6811",
+    "id": "c0484c19-b18b-4cb8-8f4e-87d16ab5601f",
+    "cat_id": "c70f0382-b266-42f3-9fb2-ee622d29c75f",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "522",
+    "title": "Aktivitas Penunjang Angkutan",
+    "desc": "Golongan ini mencakup kegiatan penunjang angkutan baik angkutan darat, perairan, maupun udara, untuk penumpang atau barang, seperti pengoperasian bagian dari infrastruktur angkutan atau kegiatan yang berkaitan dengan penanganan barang segera sebelum atau setelah pengangkutan atau antarsegmen angkutan. Termasuk pengoperasian dan perawatan dari semua fasilitas angkutan, pengoperasian fasilitas terminal, infrastruktur dan pemadam kebakaran serta jasa pencegahan kebakaran, asisten pengemudi, jasa penanganan dan manajemen barang, jasa penanganan broker dan barang.\n\nTidak termasuk pengelolaan sekolah terbang, kegiatan kurir, provisi asuransi, kegiatan agen perjalanan, kegiatan operator wisata dan kegiatan informasi wisata.",
+    "id": "5f020c72-2a41-48b7-9cc3-35120a6f874e",
+    "cat_id": "c70f0382-b266-42f3-9fb2-ee622d29c75f",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "531",
+    "title": "Aktivitas Pos",
+    "desc": "Golongan ini mencakup kegiatan jasa pos yang diselenggarakan oleh penyelenggara pos yang diberi tugas oleh pemerintah untuk menyelenggarakan layanan pos universal dan melaksanakan akta-akta perhimpunan pos sedunia.",
+    "id": "40762a84-6823-4c9b-a402-dc1a34e96999",
+    "cat_id": "c70f0382-b266-42f3-9fb2-ee622d29c75f",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "532",
+    "title": "Aktivitas Kurir",
+    "desc": "Golongan ini mencakup kegiatan kurir yang tidak beroperasi di bawah pelayanan universal. Aktivitas ini meliputi pengambilan/pengumpulan, penyortiran/pemrosesan, pengangkutan dan/atau pengantaran surat, dokumen, parsel, dan paket baik dalam negeri maupun internasional melalui perusahaan dengan menggunakan satu atau lebih jenis angkutan dan kegiatannya dapat menggunakan angkutan pribadi atau angkutan umum. Jenis dan tarif layanan ditetapkan oleh penyelenggara pos berdasarkan formula perhitungan berbasis biaya sebagaimana ditetapkan oleh pemerintah.",
+    "id": "8fd33eba-6002-4106-8ce9-705038e74e14",
+    "cat_id": "c70f0382-b266-42f3-9fb2-ee622d29c75f",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "551",
+    "title": "Penyediaan akomodasi jangka pendek",
+    "desc": "Golongan ini mencakup penyediaan akomodasi, khususnya untuk harian atau mingguan, pada prinsipnya untuk tinggal dalam jangka pendek sebagai pengunjung. Termasuk penyediaan akomodasi dengan furnitur, lengkap dengan dapur, dengan atau tanpa jasa pramuwisma dan sering kali termasuk beberapa tambahan jasa dan fasilitas seperti fasilitas parkir, penatu, kolam renang, ruang olahraga, fasilitas rekreasi dan ruang rapat. Golongan ini mencakup akomodasi yang disediakan oleh berbagai macam hotel, penginapan, losmen, hostel, villa dan lain-lain.",
+    "id": "3fb29d0d-9628-4fab-a95e-ed2916c2c69f",
+    "cat_id": "b6758aca-7322-4ac8-b09f-c99fb5022572",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "559",
+    "title": "Penyediaan akomodasi lainnya",
+    "desc": "Golongan pokok ini mencakup penyediaan akomodasi untuk jangka yang lebih lama atau sementara baik kamar sendiri atau kamar bersama atau asrama untuk pelajar, pekerja musiman dan sejenisnya. Termasuk kegiatan penyediaan akomodasi ini mencakup tempat tinggal pelajar, asrama sekolah, asrama atau pondok pekerja dan rumah kost.",
+    "id": "87cc59d5-725e-449d-a6f1-343066da0e9e",
+    "cat_id": "b6758aca-7322-4ac8-b09f-c99fb5022572",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "561",
+    "title": "Restoran dan penyediaan makanan keliling",
+    "desc": "Golongan ini mencakup kegiatan yang menyediakan jasa makanan untuk konsumen, baik dilayani maupun swalayan atau diantar.  Termasuk  penyiapan dan penyajian makanan untuk dikonsumsi segera dari restoran, kafetaria, restoran cepat saji, mobil es krim, penyedia jasa makanan dan minuman keliling dengan kendaraan bermotor atau tidak bermotor, dan penyediaan makanan dalam kedai pasar. Juga termasuk kegiatan restoran yang terdapat dalam sarana angkutan, bila dilaksanakan oleh unit ekonomi yang terpisah.",
+    "id": "b8bcf16e-487a-4e3e-a482-39a00f52ac07",
+    "cat_id": "b6758aca-7322-4ac8-b09f-c99fb5022572",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "562",
+    "title": "Jasa Boga Untuk Suatu Event Tertentu (Event Catering) Dan Penyediaan Jasa Boga Periode Tertentu",
+    "desc": "Golongan ini mencakup kegiatan katering untuk acara individu atau untuk acara pada periode waktu tertentu dan pelaksanaan jasa katering berdasarkan perjanjian, seperti pada fasilitas olahraga atau sejenis.",
+    "id": "91ae8cfa-55f8-44fe-bbfa-33d2d55625cf",
+    "cat_id": "b6758aca-7322-4ac8-b09f-c99fb5022572",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "563",
+    "title": "Penyediaan minuman",
+    "desc": "Golongan pokok ini mencakup kegiatan menyiapkan dan menyajikan minuman untuk dikonsumsi di tempat sesuai pesanan,  termasuk bar atau pub, kedai minuman, kedai koktil, diskotik (yang utamanya layanan minuman),  kedai kopi, penjual minuman keliling dan sejenisnya.",
+    "id": "885c1d3e-3e81-4f99-b219-62db261b2470",
+    "cat_id": "b6758aca-7322-4ac8-b09f-c99fb5022572",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "581",
+    "title": "Aktivitas penerbitan buku, majalah dan terbitan lainnya",
+    "desc": "Golongan ini mencakup kegiatan penerbitan buku, surat kabar, majalah dan terbitan berkala lainnya, direktori dan mailing list, serta karya-karya lain seperti foto, seni grafis, kartu pos, jadwal, formulir, poster, ikhtisar dan reproduksi karya seni. Karya-karya ini dicirikan dengan daya cipta intelektual yang dibutuhkan dalam pengembangannya dan biasanya dilindungi oleh hak cipta.   Termasuk pada golongan ini kegiatan penerbitan buku dalam tampilan dan format elektronik (CD, CD-ROM, DVD dan lain-lain), bentuk audio atau pada internet.",
+    "id": "3bfbbc21-4091-4876-afad-bbe450a6ccfb",
+    "cat_id": "3e620bdf-a746-4ce5-9598-dbdba9b493f1",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "582",
+    "title": "Penerbitan piranti lunak (Software)",
+    "desc": "Golongan ini mencakup penerbitan perangkat lunak yang siap pakai (bukan atas dasar pesanan). Kegiatan yang tercakup dalam golongan ini adalah penerbitan sistem operasi, penerbitan aplikasi bisnis dan aplikasi lainnya, dan penerbitan video game untuk semua platform sistem operasi.",
+    "id": "e5d09354-1e61-4146-b33b-bc332ad43db4",
+    "cat_id": "3e620bdf-a746-4ce5-9598-dbdba9b493f1",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "591",
+    "title": "Aktivitas Produksi gambar bergerak, video dan program televisi",
+    "desc": "Golongan ini  mencakup pembuatan gambar bergerak baik pada roll film, tape video, DVD atau media lainnya, termasuk distribusi digital, untuk proyeksi langsung bioskop maupun untuk siaran televisi; kegiatan penunjang seperti editing, cutting, dubbing film dan lain-lain; pendistribusian gambar bergerak dan produksi film lainnya (video tape, DVD dan lain-lain) untuk industri lain; termasuk proyeksinya. Pembelian dan penjualan  gambar bergerak atau hak distribusi produksi film lainnya juga dicakup di sini.",
+    "id": "96448dc8-01c1-4dd4-aa16-79841bf20d24",
+    "cat_id": "3e620bdf-a746-4ce5-9598-dbdba9b493f1",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "601",
+    "title": "Penyiaran radio",
+    "desc": "Golongan ini mencakup penyiaran sinyal suara melalui studio penyiaran radio dan fasilitas untuk transmisi program yang berhubungan dengan masyarakat, termasuk mengumpulkan dan menyalurkan program melalui kabel atau satelit, internet (stasiun radio internet), termasuk penyiaran data yang terintegrasi dengan penyiaran radio.",
+    "id": "461d38ea-8bc5-4ead-b893-4c39a0790f3b",
+    "cat_id": "3e620bdf-a746-4ce5-9598-dbdba9b493f1",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "601",
+    "title": "Penyiaran radio",
+    "desc": "Golongan ini mencakup penyiaran sinyal suara melalui studio penyiaran radio dan fasilitas untuk transmisi program yang berhubungan dengan masyarakat, termasuk mengumpulkan dan menyalurkan program melalui kabel atau satelit, internet (stasiun radio internet), termasuk penyiaran data yang terintegrasi dengan penyiaran radio.",
+    "id": "461d38ea-8bc5-4ead-b893-4c39a0790f3b",
+    "cat_id": "3e620bdf-a746-4ce5-9598-dbdba9b493f1",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "611",
+    "title": "Aktivitas Telekomunikasi dengan Kabel",
+    "desc": "Golongan ini mencakup pengoperasian, pemeliharaan atau penyediaan \"access\" ke fasilitas untuk pengiriman suara, data, naskah, suara dan video menggunakan infrastruktur telekomunikasi dengan kabel. Fasilitas pengiriman yang melakukan kegiatan ini mungkin didasari pada teknologi tunggal atau kombinasi dari berbagai teknologi.  Lebih khusus lagi kegiatan di sini mencakup 1) Pengoperasian dan pemeliharaan fasilitas switching dan transmisi untuk menyediakan komunikasi titik ke titik melalui saluran darat, gelombang, atau kombinasi dari saluran darat dan perhubungan satelit; 2) Pengoperasian sistem pendistribusian kabel (misalnya untuk pendistribusian sinyal data dan televisi); 3) Perlengkapan telegrap dan komunikasi non-vokal yang menggunakan fasilitasnya sendiri.  Pembelian akses dan jaringan kapasitas dari pemilik dan operator jaringan serta menyediaan jasa telekomunikasi yang menggunakan kemampuan ini untuk bisnis dan rumah tangga juga dicakup di sini.  Termasuk kegiatan persediaan akses internet melalui operator dari infrastruktur yang menggunakan kabel.  Tidak termasuk penjualan kembali telekomunikasi.",
+    "id": "f39f5cd5-565e-49c7-8ab3-3f13e72050f1",
+    "cat_id": "3e620bdf-a746-4ce5-9598-dbdba9b493f1",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "612",
+    "title": "Aktivitas Telekomunikasi tanpa kabel",
+    "desc": "Golongan ini mencakup pengoperasian, pemeliharaan atau penyediaan akses ke fasilitas untuk pengiriman suara, data, teks, bunyi dan video menggunakan infrastruktur telekomunikasi tanpa kabel.  Termasuk pengiriman langsung melalui gelombang udara dan mungkin didasari atas teknologi tunggal atau kombinasi dari berbagai teknologi, perawatan dan pengoperasian nomor panggilan seperti jaringan telekomunikasi selular dan tanpa kabel lainnya, pembelian akses dan kapasitas jaringan dari pemilik dan operator jaringan dan penyediaan jasa telekomunikasi tanpa kabel (kecuali satelit) yang menggunakan kemampuan ini untuk bisnis dan rumah tangga.  Termasuk kegiatan penyediaan akses internet melalui operator dari infrastruktur tanpa kabel.",
+    "id": "64a0274d-d9fb-4815-abea-dfd6e534eef3",
+    "cat_id": "3e620bdf-a746-4ce5-9598-dbdba9b493f1",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "613",
+    "title": "Aktivitas Telekomunikasi satelit",
+    "desc": "Golongan ini mencakup kegiatan pengoperasian, pemeliharaan atau penyediaan akses ke fasilitas untuk pengiriman suara, data, teks, bunyi dan video menggunakan infrastruktur telekomunikasi satelit.  Termasuk pengiriman dari pemograman visual, aural atau secara teks yang diterima dari jaringan kabel, stasiun televisi lokal atau jaringan radio ke konsumen melalui sistem satelit langsung ke rumah.  Termasuk kegiatan penyediaan akses internet melalui operator dari infrastruktur satelit.",
+    "id": "07525b97-3fff-4b13-9b4e-80cc5f6d56c4",
+    "cat_id": "3e620bdf-a746-4ce5-9598-dbdba9b493f1",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "613",
+    "title": "Aktivitas Telekomunikasi satelit",
+    "desc": "Golongan ini mencakup kegiatan pengoperasian, pemeliharaan atau penyediaan akses ke fasilitas untuk pengiriman suara, data, teks, bunyi dan video menggunakan infrastruktur telekomunikasi satelit.  Termasuk pengiriman dari pemograman visual, aural atau secara teks yang diterima dari jaringan kabel, stasiun televisi lokal atau jaringan radio ke konsumen melalui sistem satelit langsung ke rumah.  Termasuk kegiatan penyediaan akses internet melalui operator dari infrastruktur satelit.",
+    "id": "07525b97-3fff-4b13-9b4e-80cc5f6d56c4",
+    "cat_id": "3e620bdf-a746-4ce5-9598-dbdba9b493f1",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "619",
+    "title": "Aktivitas Telekomunikasi lainnya",
+    "desc": "Golongan ini mencakup penyediaan aplikasi telekomunikasi khusus, seperti penelusuran jejak lewat satelit, telementri komunikasi dan operasi stasiun radar, termasuk di sini adalah pengoperasian stasiun terminal satelit dan fasilitas terkait yang secara operasional dihubungkan dengan satu atau lebih sistem komunikasi darat dan mempunyai kemampuan mengirim komunikasi kepada sistem satelit atau menerima komunikasi dari sistem satelit, penyediaan akses internet melalui jaringan antara klien dan ISP yang bukan dimiliki atau dikontrol oleh ISP, seperti akses internet langsung (dial-up) dan lain-lain dan penyediaan jasa telekomunikasi melalui koneksi telekom yang ada (seperti penyediaan VOIP) dan penjualan kembali telekomunikasi (yaitu pembelian dan penjualan kapasitas jaringan tanpa penyediaan jasa tambahan).  Golongan ini tidak mencakup akses internet melalui operator infrastruktur telekomunikasi.",
+    "id": "59472cb0-9837-4c0b-bd32-cc3db3410d8e",
+    "cat_id": "3e620bdf-a746-4ce5-9598-dbdba9b493f1",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "620",
+    "title": "Aktivitas Pemrograman, Konsultasi Komputer Dan Kegiatan YBDI",
+    "desc": "Golongan ini mencakup kegiatan penulisan, modifikasi, pengujian dan penyediaan pendukung piranti lunak (software) untuk memenuhi kebutuhan dari klien. Termasuk perencanaan, perancangan, penyediaan dan instalasi; manajemen dan jasa penunjang sistem komputer yang mengintegrasikan perangkat keras, piranti lunak dan teknologi komunikasi komputer. Termasuk juga kegiatan yang terkait dengan teknologi informasi dan komputer yang tidak diklasifikasikan di tempat lain, seperti pemulihan kerusakan sistem komputer dan instalasi piranti lunak.",
+    "id": "a021feea-4761-42b0-8482-e83017ef98cc",
+    "cat_id": "3e620bdf-a746-4ce5-9598-dbdba9b493f1",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "631",
+    "title": "Aktivitas pengolahan data, hosting dan kegiatan ybdi; portal web",
+    "desc": "Golongan ini mencakup penyediaan infrastruktur untuk hosting (penyimpanan data di internet), pengolahan data dan kegiatan terkait, serta penyediaan fasilitas pencarian dan portal lainnya di internet.",
+    "id": "1e02d41a-c612-4943-ab0d-aa82ea4ae919",
+    "cat_id": "3e620bdf-a746-4ce5-9598-dbdba9b493f1",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "631",
+    "title": "Aktivitas pengolahan data, hosting dan kegiatan ybdi; portal web",
+    "desc": "Golongan ini mencakup penyediaan infrastruktur untuk hosting (penyimpanan data di internet), pengolahan data dan kegiatan terkait, serta penyediaan fasilitas pencarian dan portal lainnya di internet.",
+    "id": "1e02d41a-c612-4943-ab0d-aa82ea4ae919",
+    "cat_id": "3e620bdf-a746-4ce5-9598-dbdba9b493f1",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "639",
+    "title": "Aktivitas jasa informasi lainnya",
+    "desc": "Golongan ini mencakup kegiatan kantor berita dan semua kegiatan jasa informasi lainnya yang tidak diklasifikasi di tempat lain.\n\nGolongan ini tidak mencakup:\n- Kegiatan perpustakaan dan arsip, lihat 9101",
+    "id": "15542d0c-c180-42ef-b73b-8d826ceb3c17",
+    "cat_id": "3e620bdf-a746-4ce5-9598-dbdba9b493f1",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "642",
+    "title": "Aktivitas Perusahaan Holding",
+    "desc": "Golongan ini mencakup kegiatan dari perusahaan holding (holding companies), yaitu perusahaan yang menguasai aset  dari sekelompok perusahaan subsidiari dan kegiatan utamanya adalah kepemilikan kelompok tersebut.  \"Holding Companies\" tidak terlibat dalam kegiatan usaha perusahaan subsidiarinya.   \n\nGolongan ini tidak mencakup kegiatan manajemen perusahaan, perencanaan strategi, dan pembuat keputusan perusahaan.",
+    "id": "80bb504d-279a-4345-82b0-499961dbebc8",
+    "cat_id": "9e1ece6e-2e99-4fbb-9701-6af6d8f009ce",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "642",
+    "title": "Aktivitas Perusahaan Holding",
+    "desc": "Golongan ini mencakup kegiatan dari perusahaan holding (holding companies), yaitu perusahaan yang menguasai aset  dari sekelompok perusahaan subsidiari dan kegiatan utamanya adalah kepemilikan kelompok tersebut.  \"Holding Companies\" tidak terlibat dalam kegiatan usaha perusahaan subsidiarinya.   \n\nGolongan ini tidak mencakup kegiatan manajemen perusahaan, perencanaan strategi, dan pembuat keputusan perusahaan.",
+    "id": "80bb504d-279a-4345-82b0-499961dbebc8",
+    "cat_id": "9e1ece6e-2e99-4fbb-9701-6af6d8f009ce",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "643",
+    "title": "Trust, Pendanaan dan Entitas Keuangan Sejenis",
+    "desc": "Golongan ini mencakup entitas legal yang dibentuk untuk mengumpulkan saham atau sekuritas atau aset keuangan lainnya, tanpa pengaturan, atas nama pemegang saham atau yang memperoleh keuntungan. Portofolionya disesuaikan untuk mendapatkan karakteristik investasi yang spesifik, seperti diversifikasi, risiko, tingkat pengembalian dan kondisi yang rentan akan perubahan harga. Entitas ini memperoleh bunga, dividen dan pendapatan properti lainnya, tetapi mempunyai sedikit bahkan tidak mempunyai pekerjaan dan tidak ada pendapatan dari penjualan jasa.  Tidak tercakup di sini wali amanat (trustee) dan pembiayaan yang memperoleh pendapatan dari penjualan barang atau jasa, kegiatan perusahaan holding, dana pensiun, dan manajemen pembiayaan.",
+    "id": "189d5f5a-e990-4c71-9b21-c52db48d67b4",
+    "cat_id": "9e1ece6e-2e99-4fbb-9701-6af6d8f009ce",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "644",
+    "title": "Otoritas Jasa Keuangan (OJK)",
+    "desc": "Golongan ini mencakup kegiatan menyelenggarakan sistem pengaturan dan pengawasan yang terintegrasi terhadap keseluruhan kegiatan di dalam sektor jasa keuangan.",
+    "id": "ad9bf7de-ff71-4364-9945-6c9d0987d116",
+    "cat_id": "9e1ece6e-2e99-4fbb-9701-6af6d8f009ce",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "644",
+    "title": "Otoritas Jasa Keuangan (OJK)",
+    "desc": "Golongan ini mencakup kegiatan menyelenggarakan sistem pengaturan dan pengawasan yang terintegrasi terhadap keseluruhan kegiatan di dalam sektor jasa keuangan.",
+    "id": "ad9bf7de-ff71-4364-9945-6c9d0987d116",
+    "cat_id": "9e1ece6e-2e99-4fbb-9701-6af6d8f009ce",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "645",
+    "title": "Lembaga Penjamin Simpanan (LPS)",
+    "desc": "Golongan ini mencakup kegiatan perolehan dana LPS yang berasal dari:\n- kontribusi bank saat pertama kali menjadi peserta,\n- pembayaran premi penjaminan, dan\n- hasil investasi.\n\nDalam rangka memelihara stabilitas sistem perbankan, LPS melaksanakan penanganan (resolusi) bank gagal dengan beberapa metode yaitu: \n- Purchase and Assumptions (P&A),\n- Bridge bank,\n- Penyertaan Modal Sementara (PMS), dan\n- Likuidasi bank",
+    "id": "81fcbd07-58e9-4e65-9d2b-bfaeba848d3e",
+    "cat_id": "9e1ece6e-2e99-4fbb-9701-6af6d8f009ce",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "649",
+    "title": "Aktivitas Jasa Keuangan Lainnya, Bukan Asuransi, Penjaminan, dan Dana Pensiun",
+    "desc": "Golongan ini mencakup usaha jasa keuangan lainnya berupa pemberian pinjaman atau yang dapat disetarakan dengan pinjaman tidak termasuk kegiatan perantara moneter.      \n\nUsaha aktivitas jasa keuangan lainnya, bukan asuransi, penjaminan, dan dana pensiun antara lain terdiri dari perusahaan pembiayaan, pergadaian, perusahaan modal ventura, perusahaan pembiayaan infrastruktur, penyelenggara layanan pinjam meminjam uang berbasis teknologi informasi (fintech peer to peer lending), dan aktivitas jasa keuangan lainnya.",
+    "id": "9c504561-629e-40e7-aa6d-503080b11a92",
+    "cat_id": "9e1ece6e-2e99-4fbb-9701-6af6d8f009ce",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "651",
+    "title": "Asuransi dan Penjaminan",
+    "desc": "Golongan ini mencakup usaha asuransi dan penjaminan, dengan kegiatan usaha meliputi kegiatan penyelenggaraan usaha jasa pertanggungan pengelolaan risiko yang memberikan penggantian kerugian atas suatu risiko atau pembayaran manfaat asuransi serta kegiatan pemberian jaminan oleh penjamin atas pemenuhan kewajiban finansial terjamin kepada penerima jaminan. Usaha asuransi dan penjaminan antara lain terdiri dari asuransi jiwa, asuransi umum, penjaminan, baik yang diselenggarakan secara konvensional atau berdasarkan prinsip syariah.",
+    "id": "9770d975-d10a-4615-b5f7-80452cd57d7b",
+    "cat_id": "9e1ece6e-2e99-4fbb-9701-6af6d8f009ce",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "652",
+    "title": "Reasuransi dan Penjaminan Ulang",
+    "desc": "Golongan ini mencakup usaha reasuransi dan penjaminan ulang, dengan kegiatan usaha meliputi penyelenggaraan usaha jasa pertanggungan ulang dan penjaminan ulang. Usaha reasuransi dan penjaminan ulang terdiri dari reasuransi dan penjaminan ulang, baik yang diselenggarakan secara konvensional atau berdasarkan prinsip syariah.",
+    "id": "794b7cd2-d5d7-46b1-aa48-2aefdeb9a932",
+    "cat_id": "9e1ece6e-2e99-4fbb-9701-6af6d8f009ce",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "653",
+    "title": "Dana pensiun",
+    "desc": "Golongan ini mencakup kegiatan usaha dana pensiun, dengan kegiatan usaha meliputi pengelolaan dan penyelenggaraan program yang menjanjikan manfaat pensiun. \n\nTidak dicakup di sini manajemen pendanaan pensiun, skema jaminan sosial wajib.",
+    "id": "f9b2657b-6c5f-4852-b0f5-a636cf9d5bf2",
+    "cat_id": "9e1ece6e-2e99-4fbb-9701-6af6d8f009ce",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "653",
+    "title": "Dana pensiun",
+    "desc": "Golongan ini mencakup kegiatan usaha dana pensiun, dengan kegiatan usaha meliputi pengelolaan dan penyelenggaraan program yang menjanjikan manfaat pensiun. \n\nTidak dicakup di sini manajemen pendanaan pensiun, skema jaminan sosial wajib.",
+    "id": "f9b2657b-6c5f-4852-b0f5-a636cf9d5bf2",
+    "cat_id": "9e1ece6e-2e99-4fbb-9701-6af6d8f009ce",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "663",
+    "title": "Aktivitas Manajemen Dana",
+    "desc": "Golongan ini mencakup kegiatan portofolio dan manajemen pendanaan atas dasar balas jasa atau kontrak, seperti manajemen dana bersama selain dana pensiun.",
+    "id": "4ac12945-7e51-40f5-8c09-aa81b00fe140",
+    "cat_id": "9e1ece6e-2e99-4fbb-9701-6af6d8f009ce",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "664",
+    "title": "Aktivitas Penyelenggaraan Sistem Pembayaran dan Jasa Pengolahan Uang Rupiah ",
+    "desc": "Golongan ini mencakup kegiatan yang berkaitan dengan penyediaan jasa dalam rangka pemindahan sejumlah nilai uang dari satu pihak ke pihak lainnya yang dilaksanakan oleh bank maupun selain bank dan kegiatan jasa pengolahan uang rupiah.",
+    "id": "7cce539e-0a4c-4d81-8cd1-308b9defc721",
+    "cat_id": "9e1ece6e-2e99-4fbb-9701-6af6d8f009ce",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "682",
+    "title": "Real estat atas dasar balas jasa (fee) atau kontrak",
+    "desc": "Golongan ini mencakup kegiatan penyediaan real estat atas dasar balas jasa atau kontrak, termasuk jasa yang berkaitan dengan real estat, seperti jasa perantara, manajemen real estat atas dasar balas jasa atau kontrak, jasa penaksiran untuk real estat dan agen pihak ketiga real estat.",
+    "id": "d7d5af05-a7a4-49b1-bad5-5b71ce002238",
+    "cat_id": "5d5484d1-3ec3-49e1-969d-b34063739a4b",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "682",
+    "title": "Real estat atas dasar balas jasa (fee) atau kontrak",
+    "desc": "Golongan ini mencakup kegiatan penyediaan real estat atas dasar balas jasa atau kontrak, termasuk jasa yang berkaitan dengan real estat, seperti jasa perantara, manajemen real estat atas dasar balas jasa atau kontrak, jasa penaksiran untuk real estat dan agen pihak ketiga real estat.",
+    "id": "d7d5af05-a7a4-49b1-bad5-5b71ce002238",
+    "cat_id": "5d5484d1-3ec3-49e1-969d-b34063739a4b",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "692",
+    "title": "Aktivitas akuntansi, pembukuan dan pemeriksa; konsultasi pajak",
+    "desc": "Golongan ini mencakup kegiatan pencatatan transaksi komersial usaha atau lainnya, penyiapan atau pengauditan catatan keuangan, pemeriksaan laporan rekening dan sertifikasi ketelitian, penyiapan pengembalian pajak pendapatan perorangan atau usaha, kegiatan pelaporan dan perwakilan (selain perwakilan hukum) atas nama klien di hadapan kekuasaan pajak.",
+    "id": "34261d97-9ecc-417a-888a-652c000e7bf9",
+    "cat_id": "a83862d5-f8bd-4219-9135-c85bfce7e326",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "692",
+    "title": "Aktivitas akuntansi, pembukuan dan pemeriksa; konsultasi pajak",
+    "desc": "Golongan ini mencakup kegiatan pencatatan transaksi komersial usaha atau lainnya, penyiapan atau pengauditan catatan keuangan, pemeriksaan laporan rekening dan sertifikasi ketelitian, penyiapan pengembalian pajak pendapatan perorangan atau usaha, kegiatan pelaporan dan perwakilan (selain perwakilan hukum) atas nama klien di hadapan kekuasaan pajak.",
+    "id": "34261d97-9ecc-417a-888a-652c000e7bf9",
+    "cat_id": "a83862d5-f8bd-4219-9135-c85bfce7e326",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "701",
+    "title": "Aktivitas Kantor Pusat",
+    "desc": "Golongan ini mencakup kegiatan pengelolaan dan pengawasan unit lain dalam perusahaan atau enterprise, melakukan perencanaan strategis dan organisasional dan memegang peranan membuat keputusan perusahaan atau enterprise. Kegiatan pada golongan ini melakukan pengelolaan dan pengawasan operasional sehari-hari yang berkaitan dengan kegiatan tersebut. Golongan ini mencakup kegiatan kantor pusat, kantor administrasi terpusat, kantor berbadan hukum, kantor wilayah dan kantor daerah dan kantor manajemen cabang. Golongan ini tidak mencakup kegiatan holding company, yang tidak terkait dalam manajemen.",
+    "id": "49b238fc-c77d-47f0-8ab9-bfc419a84a23",
+    "cat_id": "a83862d5-f8bd-4219-9135-c85bfce7e326",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "702",
+    "title": "Aktivitas konsultasi manajemen",
+    "desc": "Golongan ini mencakup kegiatan penyediaan nasihat, petunjuk dan bantuan operasional untuk usaha dan organisasi lain pada berbagai persoalan manajemen, penyediaan jasa bisnis ini dapat mencakup nasihat, petunjuk dan bantuan operasional untuk usaha dan layanan masyarakat atau umum pada berbagai aspek manajemen dan operasional.",
+    "id": "15985639-359e-4bc5-9e0a-7cff2b30ddf9",
+    "cat_id": "a83862d5-f8bd-4219-9135-c85bfce7e326",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "711",
+    "title": "Aktivitas arsitektur dan keinsinyuran serta konsultasi teknis ybdi",
+    "desc": "Golongan ini mencakup kegiatan penyediaan jasa arsitektur, keinsinyuran, drafting, inspeksi bangunan, pengukuran tanah, pembuatan peta dan jasa sejenisnya. Golongan ini juga mencakup kegiatan perancangan dan konsultasi perencanaan proyek, kota (besar/kecil), kegiatan perancangan yang mencakup arsitektur landscape, permesinan dan berbagai bidang teknik mesin. Golongan ini mencakup kegiatan perluasan proyek berbagai fasilitas dan yang berhubungan dengan kegiatan pengukuran tanah geologi.",
+    "id": "9e5a23db-4b26-4c15-94f2-4513891199ac",
+    "cat_id": "a83862d5-f8bd-4219-9135-c85bfce7e326",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "712",
+    "title": "Analisis dan uji teknis",
+    "desc": "Golongan ini mencakup kegiatan pelaksanaan pengujian fisik, kimiawi dan analisis lain dari semua jenis barang dan bahan termasuk pengujian kinerja, kekuatan dan komposisi bahan, di bidang makanan, non makanan, pengujian dan pengukuran indikator lingkungan, seperti polusi udara dan air dan lain-lain diantaranya. Golongan ini juga mencakup kegiatan sertifikasi produk dan operasional laboratorium kepolisian. Golongan ini tidak mencakup kegiatan pengujian spesimen binatang.",
+    "id": "e97e8962-c55b-4ded-aba7-930f13a74bd9",
+    "cat_id": "a83862d5-f8bd-4219-9135-c85bfce7e326",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "721",
+    "title": "Penelitian dan pengembangan ilmu pengetahuan alam dan ilmu teknologi dan rekayasa",
+    "desc": "Golongan ini mencakup kegiatan penelitian dan pengembangan eksperimental pada ilmu pengetahuan alam dan teknik. Selain penelitian dan pengembangan eksperimental bioteknologi, seperti penelitian dan pengembangan eksperimental pada ilmu pengetahuan alam, teknik dan teknologi, ilmu kedokteran (biteknologi), ilmu pertanian dan pengembangan dan penelitian antarcabang ilmu pengetahuan (interdisipliner), yang utamanya ilmu pengetahuan alam dan teknik.",
+    "id": "b02552da-9c35-4cce-896a-2e487c5715b7",
+    "cat_id": "a83862d5-f8bd-4219-9135-c85bfce7e326",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "722",
+    "title": "Penelitian dan pengembangan ilmu pengetahuan sosial dan humaniora",
+    "desc": "Golongan ini mencakup kegiatan penelitian dan pengembangan pada ilmu pengetahuan sosial dan humaniora, seperti penelitian dan pengembangan pada bidang kemanusiaan, pengembangan dan penelitian antarcabang ilmu pengetahuan, yang utamanya ilmu pengetahuan sosial dan bidang humaniora.",
+    "id": "c01bd877-cc4e-45f7-b2f2-956d6ed8df8f",
+    "cat_id": "a83862d5-f8bd-4219-9135-c85bfce7e326",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "731",
+    "title": "Periklanan",
+    "desc": "Golongan ini mencakup kegiatan penyediaan sekumpulan jasa periklanan (baik dengan kemampuan sendiri atau disubkontrakkan) termasuk jasa penasihat, kreatif dan produksi bahan iklan, perencanaan dan pembelian media. Golongan ini mencakup kegiatan pembuatan dan realisasi kampanye periklanan dalam berbagai cara media komunikasi (seperti surat kabar, radio, televisi, internet dan periklanan di udara dan tempat terbuka). Golongan ini juga mencakup kegiatan memimpin pemasaran kampanye dan jasa periklanan lain yang bertujuan untuk menarik dan mendapatkan pelanggan.",
+    "id": "f010e32b-d918-48e7-aab1-e14be2df221c",
+    "cat_id": "a83862d5-f8bd-4219-9135-c85bfce7e326",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "731",
+    "title": "Periklanan",
+    "desc": "Golongan ini mencakup kegiatan penyediaan sekumpulan jasa periklanan (baik dengan kemampuan sendiri atau disubkontrakkan) termasuk jasa penasihat, kreatif dan produksi bahan iklan, perencanaan dan pembelian media. Golongan ini mencakup kegiatan pembuatan dan realisasi kampanye periklanan dalam berbagai cara media komunikasi (seperti surat kabar, radio, televisi, internet dan periklanan di udara dan tempat terbuka). Golongan ini juga mencakup kegiatan memimpin pemasaran kampanye dan jasa periklanan lain yang bertujuan untuk menarik dan mendapatkan pelanggan.",
+    "id": "f010e32b-d918-48e7-aab1-e14be2df221c",
+    "cat_id": "a83862d5-f8bd-4219-9135-c85bfce7e326",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "732",
+    "title": "Penelitian pasar dan jajak pendapat masyarakat",
+    "desc": "Golongan ini mencakup kegiatan investigasi potensial pasar, penerimaan dan keberadaan produk dan kebiasaan membeli pelanggan untuk tujuan promosi penjualan dan pengembangan produk baru, termasuk analisis statistik hasil penelitian, investigasi sampai pengumpulan pendapat masyarakat tentang masalah politik, ekonomi dan sosial dan analisis statistik dari masalah-masalah tersebut di atas.",
+    "id": "4714a609-4193-41b7-94e5-24dd6c0164bd",
+    "cat_id": "a83862d5-f8bd-4219-9135-c85bfce7e326",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "741",
+    "title": "Aktivitas Desain Khusus",
+    "desc": "Golongan ini mencakup kegiatan penyediaan desain industri, desain interior, desain komunikasi visual/desain grafis, dan desain konten kreatif.  Termasuk kegiatan jasa pesanan dan/atau atas inisiatif kreasi sendiri.",
+    "id": "11f4556b-ff99-4088-8a3b-f8b892357d28",
+    "cat_id": "a83862d5-f8bd-4219-9135-c85bfce7e326",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "743",
+    "title": "Aktivitas Sertifikasi Profesi/Personel",
+    "desc": "Golongan ini mencakup kegiatan dari lembaga sertifikasi yang melakukan sertifikasi terhadap orang berdasarkan kompetensi yang dimilikinya dan lembaga lain yang sejenis.",
+    "id": "87911a17-4859-4a4d-b998-831bc6075f91",
+    "cat_id": "a83862d5-f8bd-4219-9135-c85bfce7e326",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "749",
+    "title": "Aktivitas profesional, ilmiah dan teknis lainnya ytdl",
+    "desc": "Golongan ini mencakup berbagai kegiatan jasa yang umumnya dilakukan untuk klien komersial. Kegiatan tersebut mencakup kegiatan yang membutuhkan tingkat keahlian profesional, ilmiah dan keahlian secara teknis yang lebih, tetapi tidak termasuk yang terus menerus, bisnis rutin yang fungsi yang biasanya berjangka pendek. Termasuk di sini kegiatan terjemahan dan interpretasi, bisnis komisi, keamanan, pertanian, lingkungan dan penasihat teknis.",
+    "id": "16400258-fddb-4986-b94d-fde49bc83a40",
+    "cat_id": "a83862d5-f8bd-4219-9135-c85bfce7e326",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "750",
+    "title": "Aktivitas Kesehatan Hewan",
+    "desc": "Golongan ini mencakup penyediaan perawatan kesehatan hewan dan kegiatan pengawasan untuk hewan ternak dan hewan piaraan dilakukan oleh dokter hewan yang memenuhi syarat pada rumah sakit hewan, seperti halnya ketika mengunjungi peternakan, kandang atau rumah atau di tempat lain. Di sini juga mencakup pengobatan klinik hama penyakit dan kegiatan diagnostik lainnya dari asisten dokter hewan atau personil lainnya dan kegiatan ambulans hewan.",
+    "id": "8b8355cb-8087-42ac-9968-9354df0f40f9",
+    "cat_id": "a83862d5-f8bd-4219-9135-c85bfce7e326",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "772",
+    "title": "Aktivitas penyewaan dan sewa guna usaha tanpa hak opsi barang pribadi dan rumah tangga",
+    "desc": "Golongan ini mencakup kegiatan penyewaan dan sewa guna usaha tanpa hak opsi (operational leasing) barang pribadi dan rumah tangga seperti halnya kegiatan penyewaan peralatan olahraga dan rekreasi serta video tape. Kegiatan ini umumnya mencakup penyewaan jangka pendek barang meskipun untuk kondisi tertentu, barang tersebut mungkin disewa untuk jangka panjang.",
+    "id": "e2de6443-d12a-4ec0-80a0-796c112aedc3",
+    "cat_id": "342f73e7-4af3-493e-9100-3db215912139",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "773",
+    "title": "Aktivitas penyewaan dan sewa guna usaha tanpa hak opsi mesin, peralatan dan barang berwujud lainnya",
+    "desc": "Golongan ini mencakup kegiatan penyewaan dan sewa guna usaha tanpa hak opsi (operasional leasing) mesin, peralatan dan barang berwujud lainnya, tanpa operator yang umumnya dipakai sebagai barang modal usaha. Golongan ini juga mencakup semua jenis peralatan yang digunakan dalam proses produksi.   \n\nGolongan ini tidak mencakup kegiatan penyewaan mesin atau peralatan pertanian dan kehutanan dengan operator (0161 dan 0240), mesin dan peralatan konstruksi dan bangunan sipil dengan operator (Golongan pokok 43), alat transportasi air dengan operator (Golongan pokok 50), alat transportasi udara dengan operator (Golongan pokok 51),  kegiatan pembiayaan (finansial leasing masuk 6491) dan kapal pesiar dan sepeda (7721).  Penyewaan kendaraan bermotor roda empat atau lebih tanpa operator baik untuk penumpang, rekreasi dan lainnya masuk golongan 771.",
+    "id": "0115016f-749b-4b97-bf10-dd1423dea674",
+    "cat_id": "342f73e7-4af3-493e-9100-3db215912139",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "774",
+    "title": "Sewa guna usaha tanpa hak opsi aset non finansial, bukan karya hak cipta",
+    "desc": "Golongan ini mencakup kegiatan yang mengizinkan pihak lain menggunakan aset non finansial di mana pembayaran royalti atau balas jasa lisensi dibayarkan pada pemilik aset. Pengguna aset ini dapat menggunakan berbagai bentuk, seperti izin untuk reproduksi, penggunaan pada produk atau proses selanjutnya, pengoperasian bisnis atau usaha dengan cara franchise atau waralaba dan lain-lain.     \n\nGolongan ini mencakup kegiatan sewa guna usaha tanpa hak opsi (operational leasing)  aset tak berwujud non finansial (bukan karya cipta yang dilindungi seperti buku atau software), seperti halnya penerima royalti atau balas jasa lisensi untuk penggunaan hak paten, seperti trade mark atau service mark, brand name, izin eksplorasi mineral, perjanjian franchise atau waralaba dan aset tak berwujud non finansial lainnya.",
+    "id": "1f7b0444-3a7e-4f32-bbf1-36997ccf0997",
+    "cat_id": "342f73e7-4af3-493e-9100-3db215912139",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "781",
+    "title": "Aktivitas penempatan tenaga kerja",
+    "desc": "Golongan ini mencakup kegiatan pemenuhan permintaan tenaga kerja dengan pendaftaran pekerjaan dan penempatan tenaga kerja pada suatu pekerjaan, di mana penetapan dan penempatan individu yang bukan pegawai perusahaan penempatan tenaga kerja. Golongan ini mencakup kegiatan pencarian, penyeleksian dan penempatan, termasuk pencarian dan penempatan pekerja atau buruh eksekutif,  pemilihan pemain teater, agen penempatan pekerja secara on-line. Golongan ini tidak mencakup kegiatan sponsor artis atau pemain teater perorangan.",
+    "id": "8c8626ea-b225-406a-84ac-fb3a1345f6ec",
+    "cat_id": "342f73e7-4af3-493e-9100-3db215912139",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "783",
+    "title": "Penyediaan sumber daya manusia dan manajemen fungsi sumber daya manusia",
+    "desc": "Golongan ini mencakup kegiatan penyediaan sumber daya manusia dan jasa manajemen sumber daya manusia untuk pemberi kerja. Kegiatan ini secara khusus menyelenggarakan dalam cakupan luas sumber daya manusia dan tugas manajemen personil. Kegiatan ini mewakili pihak pengusaha dalam pencatatan pekerja dalam hal yang berhubungan dengan daftar gaji atau upah, pajak dan masalah fiskal dan sumber daya manusia lain.",
+    "id": "be714730-c538-4685-bb2d-2d33b77a1361",
+    "cat_id": "342f73e7-4af3-493e-9100-3db215912139",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "784",
+    "title": "Pelatihan Kerja",
+    "desc": "Golongan ini mencakup keseluruhan kegiatan untuk memberi, memperoleh, meningkatkan,  serta  mengembangkan   kompetensi   kerja,  produktivitas, disiplin,  sikap,  dan  etos  kerja  pada  tingkat  keterampilan  dan  keahlian tertentu  sesuai  dengan  jenjang  dan  kualifikasi  jabatan  atau  pekerjaan. Golongan  ini mencakup  kegiatan  penyediaan  jasa pelatihan  kerja  dalam rangka  peningkatan  kompetensi  dan  produktivitas  yang  sesuai  dengan kebutuhan  industri. Pelatihan kerja ditujukan bagi angkatan kerja dalam usia  produktif. ",
+    "id": "d296d1f0-5215-4db1-adc9-76d61207f30a",
+    "cat_id": "342f73e7-4af3-493e-9100-3db215912139",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "784",
+    "title": "Pelatihan Kerja",
+    "desc": "Golongan ini mencakup keseluruhan kegiatan untuk memberi, memperoleh, meningkatkan,  serta  mengembangkan   kompetensi   kerja,  produktivitas, disiplin,  sikap,  dan  etos  kerja  pada  tingkat  keterampilan  dan  keahlian tertentu  sesuai  dengan  jenjang  dan  kualifikasi  jabatan  atau  pekerjaan. Golongan  ini mencakup  kegiatan  penyediaan  jasa pelatihan  kerja  dalam rangka  peningkatan  kompetensi  dan  produktivitas  yang  sesuai  dengan kebutuhan  industri. Pelatihan kerja ditujukan bagi angkatan kerja dalam usia  produktif. ",
+    "id": "d296d1f0-5215-4db1-adc9-76d61207f30a",
+    "cat_id": "342f73e7-4af3-493e-9100-3db215912139",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "791",
+    "title": "Aktivitas Agen Perjalanan dan Penyelenggara Tur",
+    "desc": "Golongan ini mencakup kegiatan keagenan yang utamanya berkaitan dalam penjualan paket wisata, tur, transportasi dan akomodasi pada masyarakat umum dan klien komersial dan kegiatan yang mengurus dan mengelola tur yang dijual melalui agen perjalanan atau secara langsung oleh agen, seperti penyelenggara tur. Kegiatan ini dapat berdasarkan penjualan partai besar atau eceran pada masyarakat umum dan klien komersial. Tur di sini dapat mencakup beberapa atau semua komponen berikut ini, seperti transportasi, akomodasi atau penginapan, makanan dan minuman, kunjungan ke tempat wisata atau suatu pertunjukkan. Golongan pokok ini juga mencakup kegiatan pemandu wisata.",
+    "id": "13e979ab-d83c-4be3-bb6b-452a93ae94ae",
+    "cat_id": "342f73e7-4af3-493e-9100-3db215912139",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "791",
+    "title": "Aktivitas Agen Perjalanan dan Penyelenggara Tur",
+    "desc": "Golongan ini mencakup kegiatan keagenan yang utamanya berkaitan dalam penjualan paket wisata, tur, transportasi dan akomodasi pada masyarakat umum dan klien komersial dan kegiatan yang mengurus dan mengelola tur yang dijual melalui agen perjalanan atau secara langsung oleh agen, seperti penyelenggara tur. Kegiatan ini dapat berdasarkan penjualan partai besar atau eceran pada masyarakat umum dan klien komersial. Tur di sini dapat mencakup beberapa atau semua komponen berikut ini, seperti transportasi, akomodasi atau penginapan, makanan dan minuman, kunjungan ke tempat wisata atau suatu pertunjukkan. Golongan pokok ini juga mencakup kegiatan pemandu wisata.",
+    "id": "13e979ab-d83c-4be3-bb6b-452a93ae94ae",
+    "cat_id": "342f73e7-4af3-493e-9100-3db215912139",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "799",
+    "title": "Jasa Reservasi Lainnya dan Kegiatan Ybdi",
+    "desc": "Golongan ini mencakup kegiatan pemasaran dan promosi jasa untuk konvensi atau rapat dan pengunjung dengan menyediakan informasi dan bantuan bagi organisasi untuk menentukan tempat, akomodasi dan jasa pemesanan lain yang berhubungan dengan perjalanan. Golongan ini mencakup jasa time share exchange (pertukaran waktu bersama dalam hal akomodasi) dan kegiatan penjualan tiket untuk pertunjukkan hiburan dan menyenangkan.",
+    "id": "d319b857-35c5-4e66-8a5f-8f47748514b1",
+    "cat_id": "342f73e7-4af3-493e-9100-3db215912139",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "801",
+    "title": "Aktivitas keamanan swasta",
+    "desc": "Golongan ini mencakup kegiatan yang menyediakan satu atau lebih jasa-jasa berikut ini, seperti jasa patroli dan penjagaan dan jasa pengaturan keamanan barang berharga dalam penyimpanan. Kegiatan ini mencakup jasa kendaraan lapis baja dan bodyguard dan jasa penjaga keamanan, polygraph dan fingerprinting.",
+    "id": "72042f11-01fb-449f-8874-81057a731a79",
+    "cat_id": "342f73e7-4af3-493e-9100-3db215912139",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "802",
+    "title": "Aktivitas Jasa sistem keamanan",
+    "desc": "Golongan ini mencakup kegiatan pengawasan sistem tanda bahaya atau alarm untuk keamanan, seperti tanda bahaya untuk pencuri dan kebakaran, termasuk kegiatan pemeliharaannya, seperti pemasangan, perbaikan, pembangunan kembali dan pengaturan secara mekanik atau peralatan penguncian elektronik, peti kemas dan ruangan besi.",
+    "id": "64f4f4ae-5c1a-4533-a58d-044c80c508d3",
+    "cat_id": "342f73e7-4af3-493e-9100-3db215912139",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "811",
+    "title": "Aktivitas Penyedia gabungan jasa penunjang fasilitas",
+    "desc": "Golongan ini mencakup kegiatan penyediaan tenaga operasional untuk menjalankan gabungan jasa penunjang dalam fasilitas klien. Kegiatan yang diklasifikasikan di sini khususnya menyediakan gabungan jasa, seperti pembersihan interior umum, pemeliharaan, pembuangan sampah, keamanan dan penjagaan, pengiriman surat, penerimaan tamu, laundry dan jasa yang berkaitan dengan operasi penunjang dalam fasilitas. Kegiatan ini menyediakan tenaga operasi untuk menjalankan kegiatan penunjang ini, tetapi tidak terkait langsung dengan atau bertanggung jawab pada kegiatan utama klien.     \n\nGolongan ini tidak mencakup kegiatan penyediaan hanya satu jasa penunjang saja (contoh jasa pembersihan interior umum), penyediaan tenaga manajemen dan operasional untuk menjalankan keseluruhan establishmen klien, seperti hotel, restoran, tambang atau rumah sakit, lihat golongan kegiatan yang mengoperasikan, pengaturan pada manajemen dan operasional tempat sistem komputer klien dan atau fasilitas pengolahan data dan pengoperasian fasilitas lembaga pemasyarakatan berdasarkan balas jasa dan kontrak.",
+    "id": "e0cecd20-68b1-4d28-9c52-ab468a03458c",
+    "cat_id": "342f73e7-4af3-493e-9100-3db215912139",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "812",
+    "title": "Aktivitas Kebersihan",
+    "desc": "Golongan ini mencakup kegiatan penyedia jasa kebersihan interior umum semua jenis gedung atau bangunan, jasa kebersihan eksterior bangunan atau gedung, jasa kebersihan khusus untuk bangunan atau gedung atau jasa kebersihan khusus lainnya, pembersihan mesin industri, jasa kebersihan jalan raya dan kapal tanker laut. Kegiatan pemusnahan dan pembasmian hama atau kuman di gedung atau bangunan atau mesin industri, pembersihan botol, penyapuan jalan dan pengangkatan es dan salju.     \n\nGolongan ini tidak mencakup kegiatan pengontrolan hama pertanian (0161), pembersihan dengan uap panas, peledakan pasir dan kegiatan serupa untuk eksterior bangunan (4390), pencucian karpet dan permadani, pembersihan tirai dan gorden (9620), dan pembersihan bangunan baru segera setelah pembangunan (4330).",
+    "id": "01507144-34fa-4093-a9cd-dc33b1aeed5b",
+    "cat_id": "342f73e7-4af3-493e-9100-3db215912139",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "813",
+    "title": "Aktivitas Jasa perawatan dan pemeliharaan taman",
+    "desc": "Golongan ini mencakup kegiatan penanaman, perawatan dan perbaikan taman dan kebun untuk perumahan, gedung-gedung, tanah lapang umum dan jalan tol, aliran air dan taman lain. Golongan ini juga mencakup kegiatan jasa pemeliharaan tanah dalam rangka menjaga kondisi secara ekologi tetap baik.",
+    "id": "85e9ba1c-56c7-49e3-b0eb-929f6571634d",
+    "cat_id": "342f73e7-4af3-493e-9100-3db215912139",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "821",
+    "title": "Aktivitas Administrasi Kantor dan Penunjang Kantor",
+    "desc": "Golongan ini mencakup penyediaan sekumpulan jasa ketatausahaan sehari-hari, seperti perencanaan keuangan, membuat catatan rekord dan tagihan,  logistik dan distribusi fisik dan personil untuk pihak lainnya atas dasar balas jasa dan kontrak. Golongan ini juga mencakup kegiatan pendukung untuk pihak lain berdasarkan balas jasa dan kontrak, yakni bisnis rutin yang terus menerus mendukung fungsi yang berusaha dan mengelola secara tradisional melakukan untuk kebutuhan sendiri. Kegiatan yang diklasifikasikan di golongan ini tidak menyediakan tenaga operasional untuk menjalankan keseluruhan operasional usaha. Kegiatan yang berkaitan dengan satu aspek khusus kegiatan tersebut diklasifikasikan menurut kegiatan khusus itu. Kegiatan rutin ini mencakup kegiatan fotokopi, penyiapan dokumentasi dan kegiatan penunjang kantor khusus lainnya.",
+    "id": "37c833a2-ccce-49af-a67c-305523142b6d",
+    "cat_id": "342f73e7-4af3-493e-9100-3db215912139",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "822",
+    "title": "Aktivitas call centre",
+    "desc": "Golongan ini mencakup kegiatan pusat panggilan \"inbound call center\", menjawab panggilan dari klien dengan menggunakan berbagai sistem atau metode sejenis untuk menerima perintah, menyediakan produk informasi, menghadapi permintaan bantuan atau menghadapi keluhan pelanggan, dan \"outbound call center\" menggunakan metode sejenis untuk menjual atau memasarkan barang dan jasa pada pelanggan potensial, melakukan penelitian pasar atau pengumpulan pendapat masyarakat dan kegiatan serupa untuk klien.",
+    "id": "25f924b3-5c56-4cc2-9edc-0014eff2b594",
+    "cat_id": "342f73e7-4af3-493e-9100-3db215912139",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "829",
+    "title": "Aktivitas Jasa penunjang usaha ytdl",
+    "desc": "Golongan ini mencakup semua kegiatan penunjang yang khususnya disediakan untuk usaha yang tidak diklasifikasikan di tempat lain, seperti kegiatan agen penerima pungutan dan kantor kredit; kegiatan pengepakan dan kegiatan penunjang usaha lainnya seperti jasa pelaporan lapangan, jasa klaim (mendapatkan kembali hak milik), kegiatan pengumpul dana atas dasar balas jasa atau kontrak, jasa rekam medik dan kegiatan penunjang usaha lain yang tidak diklasifikasikan di tempat lain.",
+    "id": "f54ee391-ff83-413a-b45b-f8518a40f0b7",
+    "cat_id": "342f73e7-4af3-493e-9100-3db215912139",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "841",
+    "title": "Administrasi pemerintahan dan kebijakan ekonomi dan sosial",
+    "desc": "Golongan ini mencakup keamanan dan keselamatan umum, peraturan mengenai kegiatan penyediaan pelayanan kesehatan, pendidikan, kebudayaan dan pelayanan sosial lain termasuk jaminan sosial dan hubungan usaha dan kontribusi yang membuat kegiatan usaha menjadi lebih efisien sebagai bagian dari administrasi badan pemerintah baik eksekutif maupun legislatif, termasuk pengelolaan fiskal, budget dan kebijakan, implementasi, administrasi dan operasi keseluruhan rencana dan pelayanan sosial dan ekonomi pada berbagai tingkat pemerintahan.",
+    "id": "5b8f0bf0-bbb7-4159-aa72-83ece9aa1316",
+    "cat_id": "d5c71244-e447-49d4-84ea-6653e6f4c16e",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "842",
+    "title": "Penyediaan Layanan Untuk Masyarakat Dalam Bidang Hubungan Luar Negeri, Pertahanan, Keamanan dan Ketertiban",
+    "desc": "Golongan ini mencakup kegiatan hubungan luar negeri, pertahanan, keamanan dan keselamatan negara.  Golongan ini juga mencakup administrasi dan operasi misi diplomatik dan konsulat, operasi dan penyediaan informasi jasa kebudayaan, bantuan, perdagangan luar negeri. Keuangan internasional dan hubungan luar negeri secara teknis dan administrasi dan operasi pertahanan militer.",
+    "id": "d1e44beb-e22b-466e-94b1-ba74e5633166",
+    "cat_id": "d5c71244-e447-49d4-84ea-6653e6f4c16e",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "843",
+    "title": "Jaminan sosial wajib",
+    "desc": "Golongan ini mencakup kegiatan pendanaan dan administrasi jaminan sosial wajib yang diselenggarakan oleh pemerintah, seperti jaminan sosial kesehatan, kecelakaan kerja, pengangguran, pensiun, program yang menjamin kehilangan pendapatan yang disebabkan oleh kelahiran, cacat tubuh dan status kejandaan dan lain-lain.",
+    "id": "f7e01f7a-570c-4165-829d-d84ad3057ad9",
+    "cat_id": "d5c71244-e447-49d4-84ea-6653e6f4c16e",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "851",
+    "title": "Pendidikan Anak Usia Dini dan Dasar",
+    "desc": "Golongan ini mencakup kegiatan yang menyediakan pendidikan akademis dan pendidikan terkait yang memberi siswa, pada umumnya anak-anak, suatu pendidikan dasar yang kuat dalam hal membaca, menulis dan berhitung serta pemahaman dasar mengenai subjek lain seperti sejarah, geografi, ilmu alam, ilmu sosial, seni dan musik.  Pendidikan semacam ini juga disediakan untuk anak dengan usia di atas usia untuk masuk sekolah dasar.\nGolongan ini juga mencakup kegiatan penyediaan jasa pendidikan anak usia dini untuk anak usia pra sekolah dalam persiapan memasuki masa pendidikan selanjutnya. Golongan ini mencakup kegiatan penyediaan jasa pendidikan anak usia dini yang ditujukan kepada anak sejak lahir sampai dengan usia 6 (enam) tahun yang dilakukan melalui pemberian rangsangan pendidikan untuk membantu pertumbuhan dan perkembangan jasmani dan rohani agar anak memiliki kesiapan dalam memasuki pendidikan lebih lanjut.",
+    "id": "742872f2-3d2f-4fe1-be1d-169a4d0563ee",
+    "cat_id": "b464eea6-53f2-4c15-a86b-8fff4b58b19e",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "851",
+    "title": "Pendidikan Anak Usia Dini dan Dasar",
+    "desc": "Golongan ini mencakup kegiatan yang menyediakan pendidikan akademis dan pendidikan terkait yang memberi siswa, pada umumnya anak-anak, suatu pendidikan dasar yang kuat dalam hal membaca, menulis dan berhitung serta pemahaman dasar mengenai subjek lain seperti sejarah, geografi, ilmu alam, ilmu sosial, seni dan musik.  Pendidikan semacam ini juga disediakan untuk anak dengan usia di atas usia untuk masuk sekolah dasar.\nGolongan ini juga mencakup kegiatan penyediaan jasa pendidikan anak usia dini untuk anak usia pra sekolah dalam persiapan memasuki masa pendidikan selanjutnya. Golongan ini mencakup kegiatan penyediaan jasa pendidikan anak usia dini yang ditujukan kepada anak sejak lahir sampai dengan usia 6 (enam) tahun yang dilakukan melalui pemberian rangsangan pendidikan untuk membantu pertumbuhan dan perkembangan jasmani dan rohani agar anak memiliki kesiapan dalam memasuki pendidikan lebih lanjut.",
+    "id": "742872f2-3d2f-4fe1-be1d-169a4d0563ee",
+    "cat_id": "b464eea6-53f2-4c15-a86b-8fff4b58b19e",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "852",
+    "title": "Pendidikan menengah",
+    "desc": "Golongan ini mencakup kegiatan yang menyediakan pendidikan menengah umum dan kejuruan.  Pendidikan semacam ini biasanya terdiri lebih dari satu bidang studi yang membutuhkan banyak pengajar bidang studi tertentu dan lebih sering memperkerjakan beberapa pengajar unit memimpin kelas bidang studi tertentu.  Program semacam ini dirancang agar siswa memenuhi syarat baik pendidikan umum  untuk memasuki pendidikan yang lebih tinggi tanpa persyaratan bidang studi tertentu.  Untuk pendidikan menengah kejuruan, tujuan dari program ini dapat mermacam-macam dari persiapan untuk lapangan pekerjaan umum atau pekerjaan yang sangat spesifik.",
+    "id": "b94fa968-5938-4f74-bbe8-7932b039e021",
+    "cat_id": "b464eea6-53f2-4c15-a86b-8fff4b58b19e",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "853",
+    "title": "Pendidikan tinggi",
+    "desc": "Golongan ini mencakup kegiatan yang menyediakan pendidikan akademik, profesi atau vokasi dan pemberian gelar akademik, profesi atau vokasi. Persyaratan yang diperlukan untuk memasuki tingkat pendidikan ini paling tidak lulus sekolah menengah umum atau pendidikan menengah kejuruan yang setingkat.  Pengajaran mungkin dilakukan dalam bentuk yang berbeda dan melalui berbagai cara. Termasuk juga di sini program pendidikan diploma, sarjana, magister, spesialis dan doktor. Berbagai macam program studi di tawarkan pada tingkat ini.  Beberapa program studi menekankan pengajaran teori dan lainnya lebih pada pengajaran praktik. Golongan ini juga mencakup sekolah seni pertunjukkan yang memberikan pendidikan yang lebih tinggi.",
+    "id": "72753679-7af9-4c08-91bc-862246215651",
+    "cat_id": "b464eea6-53f2-4c15-a86b-8fff4b58b19e",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "854",
+    "title": "Pendidikan lainnya",
+    "desc": "Golongan ini mencakup kegiatan pendidikan dan pelatihan lanjutan untuk pendidikan umum dan kejuruan, pengajaran dapat disediakan dalam berbagai cara komunikasi.  Golongan ini juga mencakup pengajaran yang menawarkan kegiatan atletik, bahasa asing, seni, drama atau musik atau ketrampilan lain atau pelatihan khusus, yang tidak  setara dengan golongan pendidikan tinggi.  Pendidikan olahraga dan rekreasi mencakup penyediaan pengajaran kegiatan atletik untuk sekelompok individu, seperti yang diberikan di sekolah atau perkemahan.  Pengajaran yang diberikan di sini mencakup olahraga, permainan dan pengajaran guru, termasuk pengajaran yoga.  Pendidikan budaya mencakup pengajaran dalam seni, drama dan musik.  Pendidikan ini resminya mengelola pengajaran tetapi pengajaran semacam ini tidak menunjuk pada saat diploma profesional, sarjana muda dan sarjana penuh.  Golongan ini mencakup jasa tutorial akademis, lembaga bimbingan belajar, pusat belajar perbaikan, pengajaran bahasa, kecepatan membaca dan keagamaan.  Golongan ini juga mencakup pelatihan ketrampilan seperti sekolah mengemudi mobil, mengemudi pesawat terbang, pelatihan penjaga pantai, pelatihan cara bertahan hidup, pelatihan teknik berbicara atau pidato dan komputer.",
+    "id": "482f70d4-b75f-44e3-b362-028585dfc08d",
+    "cat_id": "b464eea6-53f2-4c15-a86b-8fff4b58b19e",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "861",
+    "title": "Aktivitas rumah sakit",
+    "desc": "Golongan ini mencakup kegiatan rumah sakit, yaitu kegiatan pengobatan atau medis dan diagnostik, termasuk kegiatan-kegiatan baik yang dilakukan rumah sakit umum maupun rumah sakit spesialis.  Kegiatan pelayanan kesehatan ini utamanya ditujukan untuk pasien, yang dilakukan di bawah pengawasan langsung dokter medis dan termasuk jasa tenaga kesehatan, jasa laboratorium dan fasilitas tekniknya, jasa anestesi dan radiologi, jasa unit gawat darurat, penyediaan layanan ruang operasi atau jasa farmasi, jasa boga dan layanan rumah sakit lainnya, layanan pusat Keluarga Berencana (KB) yang menyediakan perawatan medis seperti sterilisasi dan penghentian kehamilan dengan penginapan.",
+    "id": "6c6aa242-7f36-463a-99da-7bee6c91cb3d",
+    "cat_id": "b0efaf2e-5e8c-4b87-b288-fce1e8f69345",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "862",
+    "title": "Aktivitas praktik dokter dan dokter gigi",
+    "desc": "Golongan ini mencakup kegiatan konsultasi medis pengobatan dengan obat-obatan untuk penyakit biasa atau khusus dan kesehatan gigi dan mulut oleh dokter praktek atau dokter spesialis. Kegiatan semacam ini dapat dilakukan oleh praktik perorangan dan di berbagai tempat. Golongan ini tidak mencakup kegiatan yang menghasilkan peralatan prostetik dan kesehatan gigi dan mulut dan kegiatan tenaga kesehatan seperti jasa bidan, perawat dan fisioterapi.",
+    "id": "891af3c3-51ec-4f35-bca4-e8d2b855f054",
+    "cat_id": "b0efaf2e-5e8c-4b87-b288-fce1e8f69345",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "869",
+    "title": "Aktivitas pelayanan kesehatan manusia lainnya",
+    "desc": "Golongan ini mencakup kegiatan tenaga kesehatan lain untuk kesehatan masyarakat di berbagai bidang terapi.  Kegiatan ini dapat dilakukan di klinik kesehatan dan di fasilitas kesehatan selain rumah sakit atau dimanapun kegiatan ini tidak melibatkan pengobatan medis.  Kegiatan ini juga mencakup tenaga kesehatan yang mungkin bekerja terpisah dari dokter medis, kegiatan laboratorium medis darah, sperma, bank organ transplant dan lain-lain.  Golongan ini juga mencakup kegiatan angkutan ambulans untuk pasien yang sering kali disediakan dalam perawatan medis gawat darurat.  Golongan ini tidak mencakup kegiatan uji labolatorium non medis, kegiatan uji dalam bidang kesehatan makanan.",
+    "id": "58ba2eb4-0ae0-4fb6-8fcd-7b68df6a0558",
+    "cat_id": "b0efaf2e-5e8c-4b87-b288-fce1e8f69345",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "871",
+    "title": "Aktivitas sosial di dalam panti untuk perawatan dan pemulihan kesehatan",
+    "desc": "Golongan ini mencakup kegiatan rumah tempat tinggal untuk orang dewasa dengan perawatan, rumah tempat tinggal untuk pemulihan kesehatan setelah sembuh dari sakit, rumah peristirahatan dengan perawatan, fasilitas perawatan dan rumah perawatan.  Golongan ini tidak mencakup jasa perawatan di rumah (tangga) yang diberikan oleh tenaga kesehatan profesional, rumah tempat tinggal untuk orang dewasa tanpa atau perawatan yang minim, kegiatan kerja sosial dengan penginapan seperti panti asuhan, asrama anak-anak dan hostel serta rumah singgah sementara untuk tuna wisma.",
+    "id": "4c5084c5-79b6-42df-bcc7-e1624bb8aad1",
+    "cat_id": "b0efaf2e-5e8c-4b87-b288-fce1e8f69345",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "872",
+    "title": "Aktivitas sosial di dalam panti untuk keterbelakangan mental, gangguan mental dan  penyalahgunaan obat terlarang",
+    "desc": "Golongan ini mencakup penyediaan jasa sosial di dalam panti dan pengobatan untuk orang dengan keterbelakangan mental, gangguan mental dan masalah penyalahgunaan obat terlarang di mana fasilitas penyediaan tempat tinggal, makanan, pengawasan yang bersifat melindungi, konsultasi dan layanan kesehatan.  Golongan ini mencakup fasilitas untuk pencandu alkohol, rumah pemulihan kesehatan untuk penderita gangguan jiwa, fasilitas untuk orang dengan keterbelakangan mental dan gangguan emosional dan rumah tempat tinggal kelompok dan rumah untuk orang yang mengalami setengah gangguan mental.",
+    "id": "fa4bfaf2-55a1-48e4-96d1-34b869180eb5",
+    "cat_id": "b0efaf2e-5e8c-4b87-b288-fce1e8f69345",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "873",
+    "title": "Aktivitas sosial di dalam panti untuk lanjut usia dan penyandang disabilitas",
+    "desc": "Golongan ini mencakup penyediaan jasa sosial di dalam panti dan perawatan untuk orang lanjut usia dan penyandang disabilitas yang tidak dapat merawat dirinya sendiri dan atau orang yang tidak ingin hidup mandiri. Perawatan yang diberikan mencakup tempat tinggal, makanan, pengawasan, layanan pemeliharaan rumah tangga dan perawatan diri.",
+    "id": "ce6ed8e8-564a-4032-83f0-9b06f9e9b0c1",
+    "cat_id": "b0efaf2e-5e8c-4b87-b288-fce1e8f69345",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "879",
+    "title": "Aktivitas sosial di dalam panti lainnya ytdl",
+    "desc": "Golongan ini mencakup penyediaan jasa sosial di dalam panti lainnya dan perawatan untuk orang, selain orang dewasa dan penyandang disabilitas, yang tidak dapat secara penuh merawat diri sendiri atau yang tidak punya keinginan untuk hidup mandiri.  Golongan pokok ini mencakup panti asuhan, asrama anak-anak dan hostel, rumah singgah sementara untuk tuna wisma dan lembaga yang merawat para ibu yang tidak kawin dan anak-anaknya.  Kegiatan ini dapat dilakukan oleh pemerintah atau organisasi swasta.",
+    "id": "5d2696b3-d628-442b-bcbe-2740059cccc2",
+    "cat_id": "b0efaf2e-5e8c-4b87-b288-fce1e8f69345",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "881",
+    "title": "Aktivitas Sosial Tanpa Akomodasi Untuk Lanjut Usia Dan Penyandang Disabilitas",
+    "desc": "Golongan ini mencakup penyediaan jasa sosial dan kesejahteraan masyarakat di luar panti untuk lanjut usia dan penyandang disabilitas yang dilakukan oleh pemerintah atau organisasi swasta atau ahlinya, di mana komponen pendidikan adalah terbatas.",
+    "id": "106f7514-da0d-48e7-872f-e54a0e77add1",
+    "cat_id": "b0efaf2e-5e8c-4b87-b288-fce1e8f69345",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "881",
+    "title": "Aktivitas Sosial Tanpa Akomodasi Untuk Lanjut Usia Dan Penyandang Disabilitas",
+    "desc": "Golongan ini mencakup penyediaan jasa sosial dan kesejahteraan masyarakat di luar panti untuk lanjut usia dan penyandang disabilitas yang dilakukan oleh pemerintah atau organisasi swasta atau ahlinya, di mana komponen pendidikan adalah terbatas.",
+    "id": "106f7514-da0d-48e7-872f-e54a0e77add1",
+    "cat_id": "b0efaf2e-5e8c-4b87-b288-fce1e8f69345",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "889",
+    "title": "Aktivitas Sosial Tanpa Akomodasi Lainnya",
+    "desc": "Golongan ini mencakup penyediaan jasa sosial, kesejahteraan dan jasa lainnya yang sejenis di luar panti di mana disediakan untuk perorangan atau keluarga oleh pemerintah atau organisasi swasta atau ahlinya.  Jasa ini mencakup kegiatan bimbingan dan kesejahteraan untuk keluarga, anak-anak dan remaja dan masyarakat.",
+    "id": "3d438f20-c640-495c-b39c-6b46b9a7a890",
+    "cat_id": "b0efaf2e-5e8c-4b87-b288-fce1e8f69345",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "900",
+    "title": "Aktivitas Hiburan, Kesenian Dan Kreativitas",
+    "desc": "Golongan ini mencakup kegiatan pengoperasian fasilitas dan penyediaan jasa untuk memenuhi kebutuhan kesenian/kebudayaan, hiburan dan rekreasi dari masyarakat. Golongan ini mencakup kegiatan produksi dari berbagai pertunjukan, perlombaan atau pameran yang ditujukan untuk dilihat masyarakat. Golongan ini mencakup pengoperasian fasilitas seni dan kegiatan keartisan, profesional, produser atau promotor, pertunjukan langsung seni, dengan atau tanpa fasilitas.",
+    "id": "9fa446a5-260b-4125-a04f-b2c2c346802c",
+    "cat_id": "c13eaae5-260c-41c6-a48c-b1ef78e7c857",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "910",
+    "title": "Perpustakaan, Arsip, Museum Dan Kegiatan Kebudayaan Lainnya",
+    "desc": "Golongan ini mencakup kegiatan berbagai perpustakaan, arsip nasional yang menyediakan layanan untuk masyakarat atau pengguna khusus, kumpulan katalog, tempat penyimpanan dan peminjaman buku, peta, koran dan tabloit, film, rekaman, tape, benda seni dan lain-lain, kegiatan pencarian kembali dalam rangka memenuhi kebutuhan informasi dan jasa lainnya.  Golongan ini mencakup kegiatan operasional berbagai museum, termasuk museum seni, sejarah alam, ilmu pengetahuan, teknologi, tempat bersejarah dan gedung bersejarah dan museum khusus lainnya.  Golongan ini juga mencakup kegiatan operasional  kebun raya dan kebun binatang, termasuk kebun binatang di mana anak-anak dapat berinteraksi langsung dengan binatang, operasional hutan lindung dan suaka margasatwa dan cagar alam dan lain-lain.",
+    "id": "d2169161-4cd1-44cb-abc2-b3fa9b768b2e",
+    "cat_id": "c13eaae5-260c-41c6-a48c-b1ef78e7c857",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "910",
+    "title": "Perpustakaan, Arsip, Museum Dan Kegiatan Kebudayaan Lainnya",
+    "desc": "Golongan ini mencakup kegiatan berbagai perpustakaan, arsip nasional yang menyediakan layanan untuk masyakarat atau pengguna khusus, kumpulan katalog, tempat penyimpanan dan peminjaman buku, peta, koran dan tabloit, film, rekaman, tape, benda seni dan lain-lain, kegiatan pencarian kembali dalam rangka memenuhi kebutuhan informasi dan jasa lainnya.  Golongan ini mencakup kegiatan operasional berbagai museum, termasuk museum seni, sejarah alam, ilmu pengetahuan, teknologi, tempat bersejarah dan gedung bersejarah dan museum khusus lainnya.  Golongan ini juga mencakup kegiatan operasional  kebun raya dan kebun binatang, termasuk kebun binatang di mana anak-anak dapat berinteraksi langsung dengan binatang, operasional hutan lindung dan suaka margasatwa dan cagar alam dan lain-lain.",
+    "id": "d2169161-4cd1-44cb-abc2-b3fa9b768b2e",
+    "cat_id": "c13eaae5-260c-41c6-a48c-b1ef78e7c857",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "931",
+    "title": "Aktivitas olahraga",
+    "desc": "Golongan ini mencakup kegiatan pengoperasian fasilitas olahraga dan kegiatan klub olahraga, atlet independen yang terutama ikut serta dalam keolahragaan atau kejuaraan dihadapan penonton. Golongan ini juga mencakup kegiatan pelatih olahraga yang memberikan pelatihan khusus, penyelenggara arena atau stadion olahraga dan kegiatan lain seperti mengorganisasikan, promosi atau pengelola kejuaraan olahraga dan fasilitas olahraga lainnya yang tidak diklasifikasikan di tempat lain.",
+    "id": "9755ffd3-865b-4468-9d03-1ae0940fc8d9",
+    "cat_id": "c13eaae5-260c-41c6-a48c-b1ef78e7c857",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "941",
+    "title": "Aktivitas organisasi bisnis, pengusaha dan profesi",
+    "desc": "Golongan ini mencakup kegiatan unit-unit yang mewakili kepentingan anggota organisasi usaha dan pengusaha.  Dalam organisasi keanggotaan profesional, juga mencakup kegiatan memperjuangkan kepentingan profesional anggota dari profesinya.  Golongan ini mencakup kegiatan organisasi yang kepentingan anggotanya terpusat pada pengembangan perusahaan pada jaringan khusus bisnis atau perdagangan termasuk pertanian, wilayah geografi khusus, politik tanpa memperhatikan urusan bisnis, seperti kamar dagang dan organisasi sejenisnya.  Golongan ini mencakup kegiatan organisasi keanggotaan profesional, yang kepentingan anggotanya terpusat terutama pada disiplin ilmu tertentu atau praktik profesional atau bidang teknik atau spesialis yang berkaitan dengan ilmu pengetahuan, akademi atau kegiatan kebudayaan.  Kegiatan organisasi ini mencakup desiminasi informasi, standar praktik pendirian dan pengawasan, representasi di hadapan lembaga pemerintah dan hubungan masyarakat organisasi profesional.",
+    "id": "dd57dfee-0895-4a32-a300-4e042c088768",
+    "cat_id": "eab3fd0b-671b-4f16-aeae-0bf9d3048829",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "942",
+    "title": "Aktivitas organisasi buruh",
+    "desc": "Golongan ini mencakup kegiatan organisasi pekerja dan serikat buruh dan asosiasi melalui berbagai keanggotaan yang memperjuangkan kepentingan pekerja, perbaikan upah dan kondisi kerja dan aksi bersama melalui organisasi.",
+    "id": "51c92247-a808-416c-89da-9b0e60a08c4d",
+    "cat_id": "eab3fd0b-671b-4f16-aeae-0bf9d3048829",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "949",
+    "title": "Aktivitas organisasi lainnya",
+    "desc": "Golongan ini mencakup kegiatan organisasi lain yang belum diklasifikasikan pada golongan 941 dan 942. Golongan ini mencakup kegiatan  yang memperjuangkan keinginan anggotanya termasuk organisasi keagamaan, organisasi politik dan organisasi keanggotaan lainnya yang memajukan masyarakat atau alasan khusus lain. Kegiatan yang tercakup seperti gerakan ekologi dan lingkungan, fasilitas pendidikan dan masyarakat, kelompok etnis dan minoritas, veteran perang, asosiasi konsumen, organisasi pengetahuan sosial, kebudayaan dan kegemaran (hobi). Golongan ini tidak mencakup kegiatan klub olahraga dan asosiasi profesional.",
+    "id": "a7e48853-b6dd-40e1-b343-8b8a997be8e5",
+    "cat_id": "eab3fd0b-671b-4f16-aeae-0bf9d3048829",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "951",
+    "title": "Reparasi komputer dan alat komunikasi",
+    "desc": "Golongan ini mencakup kegiatan reparasi dan perawatan komputer dan perlengkapannya, mesin hitung dan perlengakapannya termasuk mesin teller otomatis yang tidak dioperasikan secara mekanik, reparasi peralatan komunikasi seperti telepon, radio dua arah, modem, mesin faks, peralatan transmisi komunikasi, TV komersial dan kamera video.",
+    "id": "e0a5ab66-03e5-40d8-818c-49f8e8a3b25d",
+    "cat_id": "eab3fd0b-671b-4f16-aeae-0bf9d3048829",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "952",
+    "title": "Reparasi barang keperluan pribadi dan perlengkapan rumah tangga",
+    "desc": "Golongan ini mencakup kegiatan reparasi dan perawatan barang rumah tangga dan barang keperluan pribadi.  Termasuk kegiatan reparasi dan perawatan barang elektronik konsumen, peralatan rumah tangga dan peralatan kebun dan rumah, alas kaki dan barang dari kulit dan furnitur dan  lain-lain.",
+    "id": "38c7109a-13f0-46ce-9012-61e723b83412",
+    "cat_id": "eab3fd0b-671b-4f16-aeae-0bf9d3048829",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "962",
+    "title": "Aktivitas penatu",
+    "desc": "Golongan ini mencakup kegiatan pencucian, dry cleaning, pengepresan semua macam pakaian jadi dan tekstil dengan peralatan mekanik yang bekerja sendiri atau digerakkan dengan tangan baik untuk kebutuhan masyarakat umum dan untuk industri atau komersial.  Golongan ini juga mencakup kegiatan reparasi dan perubahan kecil  pakaian jadi dan tekstil lain yang berkaitan dengan pencucian.",
+    "id": "c35e3b4c-dbd0-4030-9cd6-6b2993010f1c",
+    "cat_id": "eab3fd0b-671b-4f16-aeae-0bf9d3048829",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "969",
+    "title": "Aktivitas Jasa perorangan lainnya ytdl",
+    "desc": "Golongan ini mencakup kegiatan semua jasa perorangan ytdl seperti pemakaman dan kegiatan yang berkaitan dengannya, kegiatan spiritual dan astrologi, kegiatan perawatan hewan piaraan (kandang perawatan, jasa perkawinan dan sebagainya), semir sepatu dan lain-lain.",
+    "id": "6519225e-54f4-42fa-ba00-767c5a610e91",
+    "cat_id": "eab3fd0b-671b-4f16-aeae-0bf9d3048829",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "970",
+    "title": "Aktivitas Rumah Tangga Sebagai Pemberi Kerja Dari Personil Domestik",
+    "desc": "Golongan ini mencakup kegiatan rumah tangga yang memanfaatkan jasa perorangan dalam rumah tangga, seperti asisten rumah tangga, tukang kebun dan lain sebagainya yang menyediakan jasa untuk melayani rumah tangga dan anggota rumah tangga.",
+    "id": "67caec53-5298-4016-a47d-aa11496af8b0",
+    "cat_id": "15296471-3610-431f-afd0-cad27d5c31f6",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "981",
+    "title": "Aktivitas yang menghasilkan barang oleh rumah tangga yang digunakan untuk memenuhi kebutuhan sendiri",
+    "desc": "Golongan ini mencakup kegiatan rumah tangga yang menghasilkan barang yang digunakan untuk memenuhi kebutuhan sendiri. Kegiatan ini mencakup kegiatan yang menghasilkan makanan, tempat tinggal, pakaian dan barang lainnya untuk memenuhi kebutuhan sendiri.    Pengklasifikasian kegiatan bagaimanapun akan berbeda-beda menurut dasarnya, jika rumah tangga memasarkan barangnya, maka kegiatannya diklasifikasikan menurut lapangan usaha KBLI yang sesuai.",
+    "id": "e6e56707-9488-460f-9d48-b91b081edffe",
+    "cat_id": "15296471-3610-431f-afd0-cad27d5c31f6",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "982",
+    "title": "Aktivitas yang menghasilkan jasa oleh rumah tangga yang digunakan untuk memenuhi kebutuhan sendiri",
+    "desc": "Golongan ini mencakup kegiatan yang menghasilkan jasa oleh rumah tangga untuk memenuhi kebutuhannya sendiri, termasuk memasak, mengajar, merawat anggota rumah tangga dan jasa lain yang dihasilkan rumah tangga untuk memenuhi kebutuhan sendiri.     \n\nSama halnya, jika rumah tangga juga terkait dalam kegiatan yang menghasilkan berbagai jenis barang untuk memenuhi kebutuhan sendiri, kegiatan semacam ini diklasifikasikan pada golongan 981.",
+    "id": "c5ce8166-953c-42eb-b99c-83119e6c9749",
+    "cat_id": "15296471-3610-431f-afd0-cad27d5c31f6",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "990",
+    "title": "Aktivitas Badan Internasional Dan Badan Ekstra Internasional Lainnya",
+    "desc": "Golongan ini mencakup kegiatan Badan Internasional, seperti Perserikatan Bangsa-Bangsa dan perwakilan Perserikatan Bangsa-Bangsa, Badan Regional dan lain-lain, termasuk The International Monetary Fund, The World Bank, The World Customs Organization (WHO), the Organization for Economic Co-operation and Development (OECD), the Organization of Petroleum Exporting Countries (OPEC), the European Communities, the European Free Trade Association dan lain-lain. Golongan ini mencakup kegiatan perwakilan diplomatik dan konsulat (Kedutaan Besar)  yang ditentukan oleh negara dimana berada daripada negara yang diwakilinya.",
+    "id": "2ec7c8cc-241d-4bdf-941f-d1606d629003",
+    "cat_id": "c03c9ba5-e07c-40c0-bc8e-5f47b55e1bf9",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  }
+]
