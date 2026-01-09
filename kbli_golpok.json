@@ -1,5 +1,13 @@
 [
   {
+    "code": "01",
+    "title": "Pertanian Tanaman, Peternakan, Perburuan dan Kegiatan YBDI",
+    "desc": "Golongan pokok ini mencakup pertanian tanaman pangan, perkebunan dan hortikultura; usaha pemeliharaan hewan ternak dan unggas; perburuan dan penangkapan hewan dengan perangkap serta kegiatan penunjang ybdi yang ditujukan untuk dijual. Termasuk budidaya tanaman dan hewan ternak secara organik dan genetik. Kegiatan pertanian tidak mencakup kegiatan pengolahan dari komoditas pertanian,  termasuk dalam Kategori C (Industri Pengolahan). Kegiatan konstruksi lahan seperti pembuatan petak-petak sawah, irigasi saluran pembuangan air, serta pembersihan dan perbaikan lahan untuk pertanian tidak termasuk di sini, tetapi tercakup pada kategori konstruksi (F).",
+    "id": "15bda50d-ea49-4487-a588-81b28115ef7b",
+    "cat_id": "eb81ca90-cc18-4913-9449-66d06a001b99",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
     "code": "02",
     "title": "Pengelolaan Kehutanan dan Penebangan",
     "desc": "Golongan pokok ini mencakup produksi kayu bulat untuk industri manufaktur berbasis hutan (Golongan Pokok 16 dan 17) serta ekstraksi dan pengumpulan/pemungutan produk hutan non-kayu yang tumbuh liar. Selain produksi kayu, kegiatan kehutanan menghasilkan produk yang hanya diproses sedikit, seperti kayu bakar, arang, serpihan kayu dan kayu bulat yang digunakan dalam bentuk yang tidak diproses (mis. Pit-props, pulpwood, dll.). Kegiatan ini dapat dilakukan di hutan alam atau hutan tanaman.",
@@ -40,10 +48,10 @@
     "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
   },
   {
-    "code": "09",
-    "title": "Aktivitas Jasa Penunjang Pertambangan",
-    "desc": "Golongan pokok ini mencakup jasa penunjang yang dikhususkan untuk pertambangan atas dasar balas jasa (fee) atau kontrak. Golongan pokok ini mencakup jasa eksplorasi dengan cara pencarian tradisional, seperti pengambilan contoh bijih logam dan melakukan observasi geologi dengan cara pengeboran, pengeboran percobaan atau pengeboran ulang sumur minyak, mineral logam dan bukan logam. Jasa khusus lainnya mencakup pembangunan fondasi sumur minyak dan gas, penyemenan pinggiran sumur minyak dan gas, pembersihan, penimbaan dan pengepelan sumur minyak dan gas, pemompaan dan pengeringan tambang, jasa pemindahan di pertambangan dan lain-lain.",
-    "id": "abc6dc18-a07d-4e9b-bff3-7a8fe3454acc",
+    "code": "08",
+    "title": "Pertambangan dan Penggalian Lainnya",
+    "desc": "Golongan pokok ini mencakup pengambilan mineral dari tambang dan galian, juga pengerukan tanah endapan, penghancuran batu dan pengambilan garam. Sebagian besar hasil pertambangan dan penggalian mineral ini digunakan pada bidang konstruksi (pasir, batu dan lain-lain), industri bahan galian (tanah liat, gips, kapur dan lain-lain), industri bahan-bahan kimia dan lain-lain. Golongan pokok ini juga mencakup kegiatan penghancuran, pengasahan, pemotongan, pembersihan, pengeringan, sortasi dan pencampuran bahan-bahan mineral tersebut.",
+    "id": "1d76e97b-db14-49d8-982e-0ae134c2c76e",
     "cat_id": "80c0849b-9130-4d23-af72-ff124380cac2",
     "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
   },
@@ -53,6 +61,14 @@
     "desc": "Golongan pokok ini mencakup jasa penunjang yang dikhususkan untuk pertambangan atas dasar balas jasa (fee) atau kontrak. Golongan pokok ini mencakup jasa eksplorasi dengan cara pencarian tradisional, seperti pengambilan contoh bijih logam dan melakukan observasi geologi dengan cara pengeboran, pengeboran percobaan atau pengeboran ulang sumur minyak, mineral logam dan bukan logam. Jasa khusus lainnya mencakup pembangunan fondasi sumur minyak dan gas, penyemenan pinggiran sumur minyak dan gas, pembersihan, penimbaan dan pengepelan sumur minyak dan gas, pemompaan dan pengeringan tambang, jasa pemindahan di pertambangan dan lain-lain.",
     "id": "abc6dc18-a07d-4e9b-bff3-7a8fe3454acc",
     "cat_id": "80c0849b-9130-4d23-af72-ff124380cac2",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "10",
+    "title": "Industri Makanan",
+    "desc": "Golongan pokok ini mencakup pengolahan produk pertanian, kehutanan dan perikanan menjadi makanan  dan juga mencakup produk setengah jadi yang tidak secara langsung menjadi produk makanan tetapi nilainya dapat lebih besar atau lebih kecil. Golongan pokok ini terdiri dari kegiatan yang berhubungan dengan berbagai macam produk makanan. Produksi dapat dilakukan atas usaha sendiri atau oleh pihak lain. Beberapa kegiatan dianggap sebagai industri pengolahan walaupun kegiatannya adalah perdagangan eceran dari produk yang dihasilkan sendiri. Tetapi ketika pengolahan yang dilakukan adalah minimal dan tidak menyebabkan suatu perubahan nyata, unit tersebut diklasifikasikan dalam perdagangan besar dan eceran (Kategori G).",
+    "id": "23a92b1d-9cd3-4a7b-b7c4-ce80d4434758",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
     "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
   },
   {
@@ -88,34 +104,10 @@
     "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
   },
   {
-    "code": "14",
-    "title": "Industri Pakaian Jadi",
-    "desc": "Golongan pokok ini mencakup semua pekerjaan menjahit (pakaian siap pakai atau dibuat berdasarkan ukuran/pesanan), dalam semua bahan (seperti kulit, kain tenun, kain rajutan atau sulaman dan lain-lain), dari semua jenis pakaian (seperti pakaian luar; pakaian dalam pria; wanita atau anak-anak; pakaian kerja; dan pakaian santai dan lain-lain) dan asesoris, tidak ada perbedaan dalam pembuatan antara baju untuk anak-anak dan orang dewasa, atau antara pakaian tradisional dan modern. Golongan pokok ini mencakup industri bulu binatang (pakaian dari bulu binatang dan kulit yang berbulu).",
-    "id": "efb3d9b0-9a03-4a6c-848a-b5150ef78ee2",
-    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
-    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
-  },
-  {
     "code": "15",
     "title": "Industri Kulit, Barang dari Kulit dan Alas Kaki",
     "desc": "Golongan pokok ini mencakup pengolahan dan pencelupan kulit berbulu dan proses perubahan dari kulit jangat menjadi kulit dengan proses penyamakan atau proses pengawetan dan pengeringan serta pengolahan kulit menjadi produk yang siap pakai, seperti pembuatan koper, tas tangan dan sejenisnya, pakaian dan peralatan hewan yang terbuat dari kulit, dan pembuatan alas kaki. Golongan pokok ini juga mencakup pembuatan produk sejenisnya dari bahan lain (kulit imitasi atau kulit tiruan), seperti alas kaki dari bahan karet, koper dari tekstil dan lain-lain. Barang-barang terbuat dari kulit tiruan termasuk di sini, asalkan cara pembuatannya sama dengan produk kulit dibuat (koper), dan biasanya di produksi oleh unit yang sama.",
     "id": "cfb78007-ab44-46a5-a2b4-f8a00d57291c",
-    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
-    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
-  },
-  {
-    "code": "15",
-    "title": "Industri Kulit, Barang dari Kulit dan Alas Kaki",
-    "desc": "Golongan pokok ini mencakup pengolahan dan pencelupan kulit berbulu dan proses perubahan dari kulit jangat menjadi kulit dengan proses penyamakan atau proses pengawetan dan pengeringan serta pengolahan kulit menjadi produk yang siap pakai, seperti pembuatan koper, tas tangan dan sejenisnya, pakaian dan peralatan hewan yang terbuat dari kulit, dan pembuatan alas kaki. Golongan pokok ini juga mencakup pembuatan produk sejenisnya dari bahan lain (kulit imitasi atau kulit tiruan), seperti alas kaki dari bahan karet, koper dari tekstil dan lain-lain. Barang-barang terbuat dari kulit tiruan termasuk di sini, asalkan cara pembuatannya sama dengan produk kulit dibuat (koper), dan biasanya di produksi oleh unit yang sama.",
-    "id": "cfb78007-ab44-46a5-a2b4-f8a00d57291c",
-    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
-    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
-  },
-  {
-    "code": "16",
-    "title": "Industri Kayu, Barang dari Kayu dan Gabus (Tidak Termasuk Furnitur) dan Barang Anyaman dari Bambu, Rotan dan Sejenisnya",
-    "desc": "Golongan pokok ini mencakup pembuatan barang-barang dari kayu. Kebanyakan digunakan untuk konstruksi dan juga mencakup berbagai proses pengerjaan dari penggergajian sampai pembentukan dan perakitan barang-barang dari kayu, dan dari perakitan sampai produk jadi seperti kontainer kayu. Terkecuali penggergajian, golongan pokok ini terbagi lagi sebagian besar didasarkan pada produk spesifik yang dihasilkan. Golongan pokok ini tidak mencakup pembuatan mebeler, atau perakitan/pemasangan perabot kayu dan sejenisnya.",
-    "id": "6cb7e53a-2b75-4b2f-b607-e3bade6f4387",
     "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
     "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
   },
@@ -136,10 +128,10 @@
     "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
   },
   {
-    "code": "17",
-    "title": "Industri Kertas dan Barang Dari Kertas",
-    "desc": "Golongan pokok ini mencakup pembuatan bubur kayu, kertas, dan produk kertas olahan. Pembuatan dari produk-produk tersebut dikelompokkan bersama karena merupakan satu rangkaian proses pengolahan yang berkaitan. Lebih dari itu kegiatan seringkali dilakukan dalam satu unit. Ada tiga kegiatan utama, yaitu Pertama, pembuatan bubur kertas yang meliputi pemisahan serat selulosa dari kotoran dalam kayu atau kertas bekas. Kedua, pembuatan kertas yang meliputi penyusunan serat selulosa menjadi lembaran-lembaran. Ketiga, barang kertas olahan dibuat dari kertas dan bahan lain dengan berbagai teknik pemotongan dan pembentukan, termasuk kegiatan pelapisan dan laminasi. Barang kertas dapat merupakan barang cetakan (kertas pelapis dinding, kertas kado dan lain-lain), selagi pencetakan bukanlah merupakan hal yang utama. Golongan pokok ini utamanya terbagi menjadi produksi bubur kertas, kertas dan papan kertas, dan selebihnya termasuk produksi produk kertas dan kertas yang diproses lebih lanjut.",
-    "id": "ad9f448e-bf90-4d3e-a64d-4bf8e60c9f2b",
+    "code": "18",
+    "title": "Industri Pencetakan dan Reproduksi Media Rekaman",
+    "desc": "Golongan pokok ini mencakup pencetakan barang-barang dan kegiatan pendukung yang berkaitan dan tidak terpisahkan dengan industri pencetakan, proses pencetakan termasuk bermacam metode/cara untuk memindahkan suatu image dari suatu sumber ke berbagai media, dan yang terpenting bagaimana memindahkan image dari piringan atau layar monitor ke suatu media melalui/dengan berbagai teknologi pencetakan. Terdapat beberapa hal bahwa pencetakan dan penerbitan dilakukan oleh suatu unit yang sama dan pada lokasi yang sama pula. Golongan pokok ini juga mencakup reproduksi media rekaman, seperti compact disk (CD), Video rekaman, software dalam disk atau tape.",
+    "id": "0213e590-f3d7-4656-8467-13b046f06afd",
     "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
     "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
   },
@@ -168,18 +160,10 @@
     "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
   },
   {
-    "code": "21",
-    "title": "Industri Farmasi, Produk Obat Kimia Dan Obat Tradisional",
-    "desc": "Golongan pokok ini mencakup pembuatan produk farmasi dasar dan preparat farmasi. Golongan pokok ini mencakup antara lain preparat darah, obat-obatan jadi, preparat diagnostik, preparat medis, obat tradisional atau jamu, suplemen kesehatan, dan produk botanikal untuk keperluan farmasi.",
-    "id": "9d24bd69-0f11-479b-9abb-a942a3b93d7b",
-    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
-    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
-  },
-  {
-    "code": "23",
-    "title": "Industri Barang Galian Bukan Logam",
-    "desc": "Golongan pokok ini mencakup kegiatan pengolahan bahan baku menjadi barang jadi yang berhubungan dengan unsur tunggal suatu mineral murni, seperti kaca dan produk kaca, produk keramik dan tanah liat bakar, semen dan plester. Golongan pokok ini juga mencakup industri pemotongan dan pengasahan batu serta pengolahan produk mineral lainnya.",
-    "id": "bc063595-cdcd-4d3f-8f11-1adc367a69c8",
+    "code": "22",
+    "title": "Industri Karet, Barang Dari Karet Dan Plastik",
+    "desc": "Golongan pokok ini mencakup pembuatan barang plastik dan karet. Golongan pokok ini dicirikan dengan penggunaan bahan baku karet dan plastik dalam proses pembuatannya. Namun demikian tidak berarti bahwa pembuatan semua barang yang terbuat dari bahan baku ini termasuk di sini.",
+    "id": "04ccecef-df25-4246-836c-6a016ba16ee0",
     "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
     "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
   },
@@ -216,10 +200,34 @@
     "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
   },
   {
+    "code": "27",
+    "title": "Industri Peralatan Listrik",
+    "desc": "Golongan pokok ini mencakup pembuatan produk yang membangkitkan, mendistribusikan dan menggunakan tenaga listrik.  Golongan pokok ini juga mencakup pembuatan lampu listrik, peralatan sinyal dan peralatan rumah tangga listrik.  Golongan pokok ini tidak mencakup pembuatan barang-barang elektronik. Golongan pokok ini termasuk penerangan, pemanas, dan peralatan masak rumah tangga yang bukan dari listrik.",
+    "id": "f5d7d9c6-5582-42c6-914d-a07d17274e46",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
     "code": "28",
     "title": "Industri Mesin Dan Perlengkapan ytdl",
     "desc": "Golongan pokok ini mencakup pembuatan mesin dan peralatan yang dapat bekerja bebas dengan bahan-bahan baik secara mekanik atau yang berhubungan dengan panas atau melaksanakan pengolahan bahan-bahan (seperti pengangkatan, penyemprotan, penimbangan atau pengepakan), termasuk komponen mekaniknya yang menghasilkan dan menggunakan tenaga dan komponen utama yang dihasilkan secara khusus.  Golongan pokok ini mencakup pembuatan peralatan tangan, peralatan tetap atau bergerak, tanpa memperhatikan apakah peralatan tersebut dibuat untuk keperluan industri, pekerjaan sipil dan bangunan, pertanian atau rumah tangga.  Pembuatan peralatan khusus untuk angkutan penumpang atau barang dalam dasar pembatasan juga tercakup disini.  Pembedaan antara pembuatan mesin untuk keperluan khusus, misalnya mesin untuk keperluan ekslusif, dalam industri ISIC, dan mesin untuk keperluan umum, misalnya mesin yang biasanya digunakan dalam cakupan luas dalam industri ISIC.  Golongan pokok ini juga mencakup pembuatan mesin untuk keperluan khusus lainnya, yang tidak dicakup dimanapun dalam klasifikasinya, baik digunakan atau tidak dalam proses industri, seperti peralatan permainan/hiburan pasar malam, peralatan gelanggang bouling otomatis dan lain-lain.Termasuk dalam golongan pokok ini kegiatan remanufakturing, yang melekat pada masing-masing jenis industrinya.",
     "id": "7c7f3143-afbf-492f-b4a9-121863f4ca0e",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "29",
+    "title": "Industri Kendaraan Bermotor, Trailer Dan Semi Trailer",
+    "desc": "Golongan pokok ini mencakup pembuatan kendaraan bermotor untuk angkutan penumpang atau barang.  Pembuatan berbagai suku cadang dan aksesori kendaraan bermotor, termasuk pembuatan trailer atau semi-trailer, sedangkan perawatan dan perbaikan kendaraan di klasifikasikan di tempat lain.",
+    "id": "f14740c0-252e-40f6-87d3-750049cc129f",
+    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "30",
+    "title": "Industri Alat Angkutan Lainnya",
+    "desc": "Golongan pokok ini mencakup alat angkutan lain seperti pembuatan kapal dan perahu, lori/gerbong kereta api dan lokomotif, pesawat udara dan pesawat angkasa beserta suku cadangnya.",
+    "id": "78fa2f38-229d-4356-a811-69b224b5796b",
     "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
     "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
   },
@@ -240,35 +248,11 @@
     "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
   },
   {
-    "code": "32",
-    "title": "Industri pengolahan lainnya",
-    "desc": "Golongan ini mencakup pembuatan berbagai macam barang yang belum dicakup di tempat lain dalam klasifikasi ini.  Karena golongan pokok ini adalah bersifat residual, proses produksi, bahan input, dan penggunaan barang-barang yang dihasilkan dapat berubah-ubah secara luas dan ukuran umum untuk mengelompokkan golongan ke dalam golongan pokok belum diterapkan di sini.",
-    "id": "5ab49f5f-8a22-45de-abb6-caf2c728b69a",
-    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
-    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
-  },
-  {
     "code": "33",
     "title": "Reparasi dan pemasangan mesin dan peralatan",
     "desc": "Perbaikan dan pemeliharaan mesin dan peralatannya mencakup perbaikan khusus barang barang yang dihasilkan oleh lapangan usaha industri pengolahan dengan tujuan untuk pemulihan mesin, peralatan dan produk lainnya menjadi baik, termasuk disini jasa rekondisi.  Ketentuan pemeliharaan umum atau rutin (servis) mesin-mesin tersebut untuk memastikan mesin bekerja efesien dan untuk pencegahan kerusakan dan perbaikan yang tidak penting, tercakup di sini.  Golongan pokok ini hanya mencakup kegiatan perbaikan dan pemeliharaan khusus.  Juga tercakup di sini instalasi khusus mesin.  Golongan pokok ini tidak mencakup pembersihan mesin industri, perbaikan dan pemeliharaan peralatan komputer dan komunikasi, serta perbaikan dan pemeliharaan barang-barang rumah tangga.",
     "id": "4eb9003e-b822-4862-a944-df192ba7318a",
     "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
-    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
-  },
-  {
-    "code": "33",
-    "title": "Reparasi dan pemasangan mesin dan peralatan",
-    "desc": "Perbaikan dan pemeliharaan mesin dan peralatannya mencakup perbaikan khusus barang barang yang dihasilkan oleh lapangan usaha industri pengolahan dengan tujuan untuk pemulihan mesin, peralatan dan produk lainnya menjadi baik, termasuk disini jasa rekondisi.  Ketentuan pemeliharaan umum atau rutin (servis) mesin-mesin tersebut untuk memastikan mesin bekerja efesien dan untuk pencegahan kerusakan dan perbaikan yang tidak penting, tercakup di sini.  Golongan pokok ini hanya mencakup kegiatan perbaikan dan pemeliharaan khusus.  Juga tercakup di sini instalasi khusus mesin.  Golongan pokok ini tidak mencakup pembersihan mesin industri, perbaikan dan pemeliharaan peralatan komputer dan komunikasi, serta perbaikan dan pemeliharaan barang-barang rumah tangga.",
-    "id": "4eb9003e-b822-4862-a944-df192ba7318a",
-    "cat_id": "5d3a17dc-6cec-49d6-86e7-acb2b154c221",
-    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
-  },
-  {
-    "code": "35",
-    "title": "Pengadaan Listrik, Gas, Uap/Air Panas Dan Udara Dingin",
-    "desc": "Golongan pokok ini mencakup kegiatan ekonomi/lapangan usaha pengadaan tenaga listrik, gas alam, uap panas, air panas dan sejenisnya melalui jaringan, saluran atau pipa infrastruktur permanen.  Dimensi jaringan/infrastruktur tidak dapat ditentukan dengan pasti, termasuk kegiatan pendistribusian listrik, gas, uap panas dan air panas serta sejenisnya dalam lokasi pabrik atau bangunan tempat tinggal.  Golongan pokok ini juga mencakup pengoperasian mesin pembangkit listrik dan gas, yang menghasilkan, mengontrol dan menyalurkan tenaga listrik atau gas.  Juga mencakup pengadaan uap panas dan udara dingin/sistem tata udara.  Golongan pokok ini tidak mencakup pengoperasian sarana air bersih dan pembuangan limbah/kotoran, lihat golongan pokok 36 dan 37.  Tidak mencakup (khususnya jarak jauh) angkutan gas melalui saluran pipa.",
-    "id": "c61b563c-2b6c-4f4e-b562-1940a827510d",
-    "cat_id": "9940980e-3052-40ee-945f-f29af642d930",
     "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
   },
   {
@@ -292,6 +276,14 @@
     "title": "Treatment Air Limbah",
     "desc": "Golongan pokok ini mencakup kegiatan pengoperasian sistem pembuangan air limbah atau fasilitas pengolahan air limbah, termasuk kegiatan pengumpulan dan pengangkutan air limbah melalui jaringan saluran pembuangan limbah dan fasilitas pengangkutan.  Golongan pokok ini juga mencakup penyedotan dan pembersihan tempat penampungan air limbah, pelayanan dan pengolahan air limbah melalui saluran secara proses biologi, kimia dan fisika, juga mencakup pemeliharaan dan pembersihan saluran air dan saluran pembuangan.",
     "id": "13f9bafd-b1d7-4987-b861-6942195b606e",
+    "cat_id": "814dd456-afb9-438b-a000-834c13886d71",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "38",
+    "title": "Pengumpulan, Treatment dan Pembuangan Limbah dan Sampah serta Aktivitas Pemulihan Material",
+    "desc": "Golongan pokok ini mencakup kegiatan pengumpulan, pengolahan dan pembuangan limbah dan sampah.  Golongan pokok ini juga mencakup pengumpulan lokal limbah dan sampah dan pengoperasian fasilitas daur ulang (misalnya pemilihan sampah yang dapat didaur ulang dari kumpulan limbah dan sampah).",
+    "id": "c714cff5-99c4-4d68-b38d-2fbf506d54d8",
     "cat_id": "814dd456-afb9-438b-a000-834c13886d71",
     "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
   },
@@ -320,11 +312,19 @@
     "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
   },
   {
-    "code": "42",
-    "title": "Konstruksi Bangunan Sipil ",
-    "desc": "Golongan pokok ini mencakup kegiatan konstruksi umum bangunan sipil, baik bangunan baru, perbaikan bangunan, penambahan bangunan dan perubahan bangunan, pendirian bangunan/struktur prafabrikasi pada lokasi proyek dan konstruksi yang bersifat sementara.\n\nGolongan  pokok ini juga mencakup kegiatan konstruksi berat seperti fasilitas industri, proyek infrastruktur dan sarana umum, sistem pembuangan dan irigasi, saluran pipa dan jaringan listrik, fasilitas olahraga di tempat terbuka dan lain-lain. Sebagian atau keseluruhan pengerjaan dapat dilakukan atas biaya sendiri, berdasarkan balas jasa/kontrak.",
-    "id": "105d0fb8-277a-455c-a1fe-0f73646daf52",
+    "code": "43",
+    "title": "Konstruksi Khusus",
+    "desc": "Golongan pokok ini mencakup kegiatan konstruksi khusus (yang berhubungan dengan keahlian khusus), biasanya khusus pada satu aspek umum untuk struktur yang berbeda, yang membutuhkan peralatan atau keterampilan khusus dan lebih banyak dilakukan berdasarkan subkontrak. \n\nGolongan pokok ini juga mencakup kegiatan penyelesaian gedung, instalasi berbagai macam keperluan yang membuat bangunan berfungsi seperti pipa-pipa ledeng, pemanas, pendingin ruangan (AC), sistem alarm dan pekerjaan listrik lain, sistem penyiraman, lift dan tangga berjalan dan lain-lain. \n\nTermasuk juga kegiatan instalasi dan perbaikan sistem penerangan dan pemberian tanda isyarat untuk jalan raya, rel kereta api, bandar udara, pelabuhan, dan lain-lain. \nKegiatan penyelesaian bangunan dan perbaikan meliputi kegiatan yang memberikan kontribusi untuk penyelesaian akhir suatu konstruksi.\n\nPersewaan peralatan konstruksi dengan operatornya diklasifikasikan dalam golongan pokok ini.",
+    "id": "dd6b9228-d125-4eb4-81a6-b37d5172c999",
     "cat_id": "ba456fc8-20e2-4736-8aef-19f0a27e6706",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "45",
+    "title": "Perdagangan, Reparasi dan Perawatan Mobil dan Sepeda Motor",
+    "desc": "Golongan pokok ini mencakup semua kegiatan (kecuali industri dan penyewaan) yang berhubungan dengan mobil dan sepeda motor, termasuk lori dan truk, seperti perdagangan besar dan eceran, perawatan dan pemeliharaan mobil dan sepeda motor baru maupun bekas. Termasuk perdagangan besar dan eceran suku cadang dan aksesori mobil dan sepeda motor, juga mencakup kegiatan agen komisi yang terdapat dalam perdagangan besar dan eceran kendaraan.",
+    "id": "587473ca-0f38-47b1-802b-7953207194cb",
+    "cat_id": "22fce1f0-c038-46e3-a44f-dca92aa36a45",
     "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
   },
   {
@@ -368,6 +368,14 @@
     "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
   },
   {
+    "code": "52",
+    "title": "Pergudangan dan Aktivitas Penunjang Angkutan",
+    "desc": "Golongan pokok ini mencakup kegiatan pergudangan dan penunjang angkutan, seperti pengoperasian infrastruktur angkutan (misalnya bandara, pelabuhan, terowongan, jembatan, dan lain-lain), kegiatan agen angkutan dan bongkar muat barang.",
+    "id": "b6c99f8d-44db-4285-ba97-3bde0f770797",
+    "cat_id": "c70f0382-b266-42f3-9fb2-ee622d29c75f",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
     "code": "53",
     "title": "Aktivitas Pos dan Kurir",
     "desc": "Golongan pokok ini mencakup kegiatan pos dan kurir, seperti pengumpulan, pemrosesan, pengangkutan, dan pengantaran surat dan paket melalui berbagai mekanisme pengantaran, termasuk jasa pengantaran lokal.",
@@ -380,14 +388,6 @@
     "title": "Penyediaan Akomodasi",
     "desc": "Golongan pokok ini mencakup penyediaan akomodasi jangka pendek untuk pengunjung dan pelancong. Termasuk penyediaan akomodasi yang lebih lama untuk pelajar, pekerja dan sejenisnya. Penyediaan akomodasi dapat hanya menyediakan fasilitas akomodasi saja atau fasilitas akomodasi dan fasilitas makanan dan minuman, atau fasilitas akomodasi, makanan dan minuman dan/atau fasilitas rekreasi.",
     "id": "06d9c4e4-8a6b-43bd-8e3e-84dcb6e344a1",
-    "cat_id": "b6758aca-7322-4ac8-b09f-c99fb5022572",
-    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
-  },
-  {
-    "code": "56",
-    "title": "Penyediaan Makanan Dan Minuman",
-    "desc": "Golongan pokok ini mencakup kegiatan pelayanan makan minum yang menyediakan makanan atau minuman untuk dikonsumsi segera, baik restoran tradisional, restoran \"self service\" atau restoran \"take away\", baik di tempat  tetap maupun sementara dengan atau tanpa tempat duduk.  Yang dimaksud penyediaan makanan dan minuman adalah penyediaan makanan dan minuman untuk dikonsumsi segera berdasarkan pemesanan.",
-    "id": "0d5a21e9-bb8a-4f82-8c4b-2834f2857dec",
     "cat_id": "b6758aca-7322-4ac8-b09f-c99fb5022572",
     "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
   },
@@ -448,11 +448,11 @@
     "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
   },
   {
-    "code": "63",
-    "title": "Aktivitas Jasa Informasi",
-    "desc": "Golongan pokok ini mencakup kegiatan portal pencarian web, pengolahan data dan hosting, serta kegiatan lain yang utamanya menyediakan informasi.",
-    "id": "99ce8566-3fde-4c8b-8fa0-58ac88d80f0e",
-    "cat_id": "3e620bdf-a746-4ce5-9598-dbdba9b493f1",
+    "code": "64",
+    "title": "Aktivitas Jasa Keuangan, Bukan Asuransi Dan Dana Pensiun",
+    "desc": "Golongan pokok ini mencakup kegiatan mendapatkan dan menyalurkan kembali dana-dana selain untuk tujuan asuransi, dana pensiun atau jaminan sosial wajib.",
+    "id": "905c8e84-2eb0-4b22-88c7-cdb4f9002120",
+    "cat_id": "9e1ece6e-2e99-4fbb-9701-6af6d8f009ce",
     "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
   },
   {
@@ -484,6 +484,14 @@
     "title": "Aktivitas Hukum Dan Akuntansi",
     "desc": "Golongan pokok ini mencakup kegiatan perwakilan hukum suatu kepentingan kelompok melawan kelompok lain, baik sebelum persidangan atau setelah atau lembaga persidangan lain atau di bawah pengawasan, anggota pengadilan seperti perwakilan dan penasihat hukum untuk kasus perdata, perwakilan dan penasihat hukum dalam kasus pidana, perwakilan dan penasihat hukum yang berkaitan dengan perselisihan tenaga kerja. Golongan pokok ini juga mencakup kegiatan penyiapan dokumen hukum seperti hukum penggabungan, perjanjian kerjasama atau dokumen sejenis dalam kaitannya dengan pembentukan perusahaan, paten dan copyright, penyiapan akte, surat wasiat, surat kuasa dan lain-lain seperti halnya kegiatan lain notaris publik, notaris hukum sipil, juru sita/bailift, juru pisah atau arbitrator, penguji atau pemeriksa dan liperi. Juga mencakup kegiatan jasa akuntansi dan pembukuan seperti pengauditan catatan akuntansi, perancangan sistem akuntansi, persiapan pembukuan dan laporan keuangan.",
     "id": "67e3c69f-bbee-427f-8a85-922aa6adf624",
+    "cat_id": "a83862d5-f8bd-4219-9135-c85bfce7e326",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "70",
+    "title": "Aktivitas Kantor Pusat dan Konsultasi Manajemen",
+    "desc": "Golongan pokok ini mencakup kegiatan penyediaan nasihat dan bantuan untuk usaha dan organisasi lain pada persoalan manajemen, seperti rencana strategis dan organisasional, pembiayaan dan rencana keuangan, kebijakan dan tujuan pemasaran, rencana, praktik dan kebijakan sumber daya manusia, jadwal produksi dan rencana pengawasan. Golongan pokok ini juga mencakup kegiatan pengelolaan dan pengawasan unit lain dalam satu perusahaan atau enterprise, sebagai salah satu kegiatan kantor pusat.",
+    "id": "ef37df58-61d1-4f91-ac1a-406bc469bc91",
     "cat_id": "a83862d5-f8bd-4219-9135-c85bfce7e326",
     "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
   },
@@ -520,11 +528,11 @@
     "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
   },
   {
-    "code": "77",
-    "title": "Aktivitas Penyewaan dan Sewa Guna Usaha Tanpa Hak Opsi",
-    "desc": "Golongan pokok ini mencakup kegiatan penyewaan dan sewa guna usaha tanpa hak opsi (operational leasing) aset berwujud dan aset tidak berwujud non finansial, termasuk bermacam-macam barang berwujud, seperti kendaraan, komputer, barang konsumen dan mesin dan peralatan industri, kepada konsumen sebagai pengganti pembayaran sewa atau jangka waktu persewaan. Izin penggunaan aset, seperti paten, trade mark, brand name dan/atau perjanjian franchise untuk pembayaran royalti dan balas jasa lisensi yang dibayarkan pada pemilik aset, juga termasuk pada golongan pokok ini.",
-    "id": "86016b5d-c683-4624-bc9b-fc5a25954212",
-    "cat_id": "342f73e7-4af3-493e-9100-3db215912139",
+    "code": "75",
+    "title": "Aktivitas Kesehatan Hewan",
+    "desc": "Golongan pokok ini mencakup penyediaan perawatan kesehatan hewan dan kegiatan pengawasan untuk hewan ternak dan hewan piaraan dilakukan oleh dokter hewan yang memenuhi syarat pada rumah sakit hewan, seperti halnya ketika mengunjungi peternakan, kandang atau rumah atau di tempat lain. Di sini juga mencakup pengobatan klinik hama penyakit dan kegiatan diagnostik lainnya dari asisten dokter hewan atau personil lainnya dan kegiatan ambulans hewan.",
+    "id": "7ba8ad23-eb9c-468f-bcf6-e1f88096ad75",
+    "cat_id": "a83862d5-f8bd-4219-9135-c85bfce7e326",
     "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
   },
   {
@@ -568,14 +576,6 @@
     "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
   },
   {
-    "code": "81",
-    "title": "Aktivitas Penyedia Jasa Untuk Gedung Dan Pertamanan",
-    "desc": "Golongan pokok ini mencakup kegiatan penyediaan tenaga operasional untuk menjalankan gabungan jasa penunjang dalam fasilitas klien tetapi tidak terlibat dalam kegiatan atau bisnis utama klien. Kegiatan tersebut mencakup pembersihan interior dan eksterior bangunan, jalan, mesin industri, kereta, bis, pesawat terbang, kapal dan mobil tanker, kegiatan pembasmian atau pemusnahan hama atau kuman untuk bangunan gedung atau bangunan, kapal, kereta dan lain-lain, pembersihan botol, penyapuan jalan, pembersihan es dan salju, penyediaan jasa pemeliharaan dan perawatan taman (landscape) dan konstruksi taman yang terkait dengan struktur, seperti jalan orang, dinding, pagar, kolam, dan sejenisnya.",
-    "id": "53596f69-f938-45e5-b9ef-0f03e43f7b46",
-    "cat_id": "342f73e7-4af3-493e-9100-3db215912139",
-    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
-  },
-  {
     "code": "82",
     "title": "Aktivitas Administrasi Kantor, Aktivitas Penunjang Kantor Dan Aktivitas Penunjang Usaha Lainnya",
     "desc": "Golongan pokok ini mencakup penyediaan sekumpulan jasa ketatausahaan sehari-hari seperti halnya bisnis rutin yang terus menerus mendukung fungsi lainnya, atas dasar balas jasa atau kontrak. Golongan pokok ini juga mencakup semua kegiatan jasa penunjang khususnya yang disediakan untuk bisnis yang tidak diklasifikasikan di tempat lain. Kegiatan yang diklasifikasikan di sini tidak menyediakan tenaga operasional yang melakukan keseluruhan operasional usaha.",
@@ -600,22 +600,6 @@
     "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
   },
   {
-    "code": "85",
-    "title": "Pendidikan",
-    "desc": "Golongan pokok ini mencakup kegiatan pendidikan dasar, pendidikan menengah, pendidikan tinggi dan pendidikan lain.  Golongan pokok ini juga mencakup jasa penunjang pendidikan dan pendidikan anak usia dini (pra sekolah).",
-    "id": "6e7cbce5-0dad-4159-9c37-fdd05cfe7694",
-    "cat_id": "b464eea6-53f2-4c15-a86b-8fff4b58b19e",
-    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
-  },
-  {
-    "code": "86",
-    "title": "Aktivitas Kesehatan Manusia",
-    "desc": "Golongan pokok ini mencakup kegiatan berbagai macam rumah sakit dan lembaga medis, baik rumah sakit umum atau spesialis dan lembaga kesehatan masyarakat dengan fasilitas penginapan, yang berkaitan dengan penyediaan pengobatan medis dan diagnostik untuk pasien dalam berbagai kondisi medis.  Golongan pokok ini juga mencakup pengobatan dan konsultasi kesehatan dengan menggunakan obat-obatan untuk penyakit biasa atau khusus oleh dokter dan dokter spesialis dan dokter bedah, termasuk kegiatan-kegiatan praktik dokter gigi umum atau khusus dan kegiatan orthodontik.  Golongan pokok ini mencakup kegiatan pelayanan kesehatan yang dilakukan tenaga kesehatan yang secara sah diketahui dapat merawat pasien juga mencakup kegiatan yang dilakukan unit-unit yang berkaitan dengan pelayanan pengobatan alternatif.",
-    "id": "3acae866-486f-4905-b51c-79e8b36faa36",
-    "cat_id": "b0efaf2e-5e8c-4b87-b288-fce1e8f69345",
-    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
-  },
-  {
     "code": "86",
     "title": "Aktivitas Kesehatan Manusia",
     "desc": "Golongan pokok ini mencakup kegiatan berbagai macam rumah sakit dan lembaga medis, baik rumah sakit umum atau spesialis dan lembaga kesehatan masyarakat dengan fasilitas penginapan, yang berkaitan dengan penyediaan pengobatan medis dan diagnostik untuk pasien dalam berbagai kondisi medis.  Golongan pokok ini juga mencakup pengobatan dan konsultasi kesehatan dengan menggunakan obat-obatan untuk penyakit biasa atau khusus oleh dokter dan dokter spesialis dan dokter bedah, termasuk kegiatan-kegiatan praktik dokter gigi umum atau khusus dan kegiatan orthodontik.  Golongan pokok ini mencakup kegiatan pelayanan kesehatan yang dilakukan tenaga kesehatan yang secara sah diketahui dapat merawat pasien juga mencakup kegiatan yang dilakukan unit-unit yang berkaitan dengan pelayanan pengobatan alternatif.",
@@ -628,14 +612,6 @@
     "title": "Aktivitas Sosial Di Dalam Panti",
     "desc": "Golongan pokok ini mencakup penyediaan jasa kegiatan sosial di dalam panti yang dikombinasikan baik dengan perawatan, pengawasan atau perawatan lain yang diperlukan oleh penghuni panti. Fasilitas perawatan merupakan bagian yang signifikan dari proses bisnis dan perawatan yang disediakan adalah gabungan antara kegiatan sosial dan kesehatan di mana jasa kesehatan merupakan tingkatan yang lebih besar dari kegiatan perawatan.",
     "id": "b22bcc7c-1067-4c06-aaf7-bb3699696e0d",
-    "cat_id": "b0efaf2e-5e8c-4b87-b288-fce1e8f69345",
-    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
-  },
-  {
-    "code": "88",
-    "title": "Aktivitas Sosial Tanpa Akomodasi",
-    "desc": "Golongan pokok ini mencakup penyediaan jasa sosial di luar panti yang meliputi berbagai jasa bantuan sosial untuk masyarakat.  Kegiatan di sini tidak mencakup jasa penginapan, kecuali pada hal yang sementara.",
-    "id": "dc5eabff-5ee8-4547-be72-bb3d8d073b00",
     "cat_id": "b0efaf2e-5e8c-4b87-b288-fce1e8f69345",
     "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
   },
@@ -664,10 +640,10 @@
     "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
   },
   {
-    "code": "91",
-    "title": "Perpustakaan, Arsip, Museum Dan Kegiatan Kebudayaan Lainnya",
-    "desc": "Golongan pokok ini mencakup kegiatan dan pengoperasian perpustakaan, arsip, museum, kebun raya dan kebun binatang, tempat bersejarah, taman konservasi alam, pameran dan  pemeliharaan barang barang seni dan bersejarah, situs dan keajaiban alam yang mengandung unsur sejarah, budaya dan pendidikan.",
-    "id": "8c6c0e07-5f5c-49a5-b42b-45cf60090163",
+    "code": "93",
+    "title": "Aktivitas Olahraga Dan Rekreasi Lainnya",
+    "desc": "Golongan pokok ini mencakup penyediaan kegiatan olahraga, kesenangan dan rekreasi, kecuali kegiatan museum, pemeliharaan tempat bersejarah, kebun raya dan kebun binatang, konservasi alam dan kegiatan penjudian dan pertaruhan.",
+    "id": "a8c7a714-dbac-4332-97cd-0f07441e9a90",
     "cat_id": "c13eaae5-260c-41c6-a48c-b1ef78e7c857",
     "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
   },
@@ -676,6 +652,22 @@
     "title": "Aktivitas Keanggotaan Organisasi",
     "desc": "Golongan pokok ini mencakup kegiatan organisasi yang mewakili kepentingan kelompok khusus atau memperjuangkan ide atau gagasan organisasi kepada masyarakat umum.  Organisasi seperti ini umumnya mempunyai anggota pada suatu daerah, tetapi kegiatan dapat melibatkan atau bermanfaat bagi bukan anggota maupun anggotanya.  Uraian utama dari golongan pokok ini ditentukan oleh tujuan pelayanan organisasi, yaitu kepentingan bisnis, pengusaha dan komunitas ilmu pengetahuan atau profesional (golongan 941), kepentingan buruh (942) atau organisasi keagamaan atau politik, kebudayaan, pendidikan atau rekreasi atau hiburan (949).",
     "id": "3ab152f7-e25e-4ed9-aa52-512d608818e7",
+    "cat_id": "eab3fd0b-671b-4f16-aeae-0bf9d3048829",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "95",
+    "title": "Reparasi Komputer Dan Barang Keperluan Pribadi Dan Perlengkapan Rumah Tangga",
+    "desc": "Golongan pokok ini mencakup kegiatan reparasi dan perawatan perangkat komputer dan perlengkapannya seperti desktop, laptop, terminal komputer, printer dan perangkat penyimpan, golongan pokok ini mencakup kegiatan reparasi peralatan komunikasi seperti mesin faks, radio dua arah dan barang elektronik konsumen, seperti radio dan televisi, peralatan kebun dan rumah seperti mesin potong rumput dan blower, alas kaki dan barang dari kulit, furnitur dan peralatan rumah tangga, pakaian jadi dan aksesori pakaian, barang untuk olahraga, instrumen atau alat musik, barang untuk kegemaran atau hobi dan barang rumah tangga dan barang keperluan pribadi.  Golongan pokok ini tidak mencakup kegiatan reparasi peralatan medis dan image diagnostik, instrumen pengukuran dan survei, laboratorium, peralatan radar dan sonar.",
+    "id": "285988a0-c75c-4457-a1c7-433e5727c156",
+    "cat_id": "eab3fd0b-671b-4f16-aeae-0bf9d3048829",
+    "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
+  },
+  {
+    "code": "96",
+    "title": "Aktivitas Jasa perorangan lainnya",
+    "desc": "Golongan pokok ini mencakup kegiatan jasa perorangan lain yang tidak termasuk dimanapun dalam klasifikasi ini, seperti pencucian produk tekstil dan kulit berbulu, penataan rambut dan perawatan kecantikan lain, jasa pemakaman dan jasa lainnya yang terkait dengan pemakaman.  Jasa lainnya yang berkaitan mencakup salon dan tempat pemandian, jasa sosial perorangan, kegiatan spiritual dan astrologi, jasa perawatan hewan peliharaan dan operasi konsesi mesin layanan perorangan yang bekerja dengan menggunakan koin.",
+    "id": "46bdfbdf-eae3-4927-aa58-8d599c1c17d6",
     "cat_id": "eab3fd0b-671b-4f16-aeae-0bf9d3048829",
     "ver_id": "cb0343bd-fdd8-4acf-8de0-e8e79afcce4e"
   },
