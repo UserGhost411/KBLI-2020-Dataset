@@ -35,10 +35,10 @@ Dataset ini disusun ke dalam berkas-berkas berikut:
 | Klasifikasi | Nama Berkas | Total Data |
 | :--- | :--- | :--- |
 | Lengkap | [kbli_lengkap.json](kbli_lengkap.json) | 2686 |
-| Golongan Pokok | [kbli_golpok.json](kbli_golpok.json) | 88 |
+| Golongan Pokok | [kbli_golpok.json](kbli_golpok.json) | 87 |
 | Golongan | [kbli_gol.json](kbli_gol.json) | 244 |
-| Subgolongan | [kbli_subgol.json](kbli_subgol.json) | 523 |
-| Kelompok | [kbli_kelompok.json](kbli_kelompok.json) | 1831 |
+| Subgolongan | [kbli_subgol.json](kbli_subgol.json) | 565 |
+| Kelompok | [kbli_kelompok.json](kbli_kelompok.json) | 1790 |
 
 ## Penggunaan
 

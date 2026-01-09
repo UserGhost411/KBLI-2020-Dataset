@@ -31,10 +31,10 @@ The dataset is organized into the following files:
 | Class       | Filename           | Total Data |
 | :---------- | :----------------- | :--------- |
 | Full        | [kbli_lengkap.json](kbli_lengkap.json)     |  2686      |
-| Division    | [kbli_golpok.json](kbli_golpok.json)   |  88        |
+| Division    | [kbli_golpok.json](kbli_golpok.json)   |  87        |
 | Group       | [kbli_gol.json](kbli_gol.json)      |  244       | 
-| Class       | [kbli_subgol.json](kbli_subgol.json)   |  523       | 
-| Subclass    | [kbli_kelompok.json](kbli_kelompok.json) |  1831      |
+| Class       | [kbli_subgol.json](kbli_subgol.json)   |  565       | 
+| Subclass    | [kbli_kelompok.json](kbli_kelompok.json) |  1790      |
 
 
 
